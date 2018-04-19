@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jason Ellis | My very own personal oubliette on the internet</title>
+    <description>Jason Ellis is a Ruby developer and software engineer, a pilot and tinkerer, and a law enforcement officer.</description>
+    <link>http://www.randomstringofwords.com</link>
+    <atom:link href="http://www.randomstringofwords.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Software Developer Burnout... I suffered it.</title>
+        <description>&lt;p&gt;&lt;img src=&#39;/images/2017/burnout.jpg&#39; class=&#39;right scaled&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Note: I wrote this originally in May of 2017.  I never published it because I was so burnt out even the thought of pushing the damn file to the server was too much.  It&amp;#39;s a single command.   It&amp;#39;s January of 2018 now, I&amp;#39;m still here and still burnt.  I&amp;#39;ll talk more to that below.&lt;/p&gt;
+
+&lt;p&gt;Software developer burnout is a real thing and it&amp;#39;s bad.  I had always heard about it and even witnessed others go through it but I had never really experienced myself.  As such I was overly quick to dismiss it or give it lip service without really considering the true ramifications or impact of the event. &lt;/p&gt;
+
+&lt;p&gt;I have been a software developer for over 20 years.  No kidding, a long time to be sure.  And I have some how managed to avoid burnout until last year.   I&amp;#39;m sure every industry has some version of developer burnout but with folks in software it&amp;#39;s extremely bad, and it takes months if not years to come back.. if they ever do.  It&amp;#39;s taken me months to even consider it...&lt;/p&gt;
+
+&lt;p&gt;I may not go back.  Honestly at this point I&amp;#39;m looking forward to law enforcement again, but that&amp;#39;s a different story.&lt;/p&gt;
+
+&lt;p&gt;Anyone can burn out.  From a high end CEO, to a software developer, to a person that digs ditches every day.  Burnout seems to happen when someone does a thing over and over for long periods of time without getting any real joy out of it.  Or without having a sense of accomplishment.  This is what happened to me.&lt;/p&gt;
+
+&lt;p&gt;And I didn&amp;#39;t even realize it until it was too late!&lt;/p&gt;
+
+&lt;p&gt;I worked for years for one company or another developing software large and small.  I liked it.  I really enjoyed being an individual contributor that went to work every day creating something that people would use.  &lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;ll be the first to admit I stayed way too long at IBM, and that by the 6th year mark I was thoroughly done but that was a management issue.  Not the job.   I still loved the job.   (People quit managers, not jobs..  keep that in mind, to that end I still feel bad about yelling at John the way I did.. Where ever you are John, I&amp;#39;m still very regreful and I hope you can one day forgive me for being an idiot.)&lt;/p&gt;
+
+&lt;p&gt;That all kinda changed about mid way through my life at Grok. &lt;/p&gt;
+
+&lt;p&gt;Grok Interactive is a small services company that I started with a friend from a previous company and it went really well.  (The company is still going strong, I&amp;#39;m just not there any more for my own sanity reasons =)&lt;/p&gt;
+
+&lt;p&gt;I just got to the point where I really didn&amp;#39;t enjoy any aspect of the work and I needed out.  Eventually that out came and I ran for the hills!&lt;/p&gt;
+
+&lt;p&gt;---  Continued 8 months later!&lt;/p&gt;
+
+&lt;p&gt;whoa.. I forgot I had started this post.  I was actually going to bring up my blog and type this post when I saw it in my queue of stuff to publish..  yes.. yes and double yes.. all of the above is still true.  I&amp;#39;m still crispy about software and at this point my knowledge has almost completely perished.   I have a lot of code I could go back and look at and I&amp;#39;m sure I could bring myself back up to speed but it would have to be on my own terms.  I think my days of working for other software firms as a paid employee in any capacity is over.&lt;/p&gt;
+
+&lt;p&gt;Right now I&amp;#39;m working as a Deputy Sheriff for a small county here in North Georgia and I&amp;#39;m enjoying it for the most part.  I still dream about doing stuff in the software field though.  I think of problems and dream up solutions.  I have a couple back burner thoughts that I might try to field test too.  &lt;/p&gt;
+
+&lt;p&gt;I will be updating my blog again going forward and I&amp;#39;m playing with some othe software projects too again.. so maybe there&amp;#39;s still hope.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 May 2017 00:00:00 -0400</pubDate>
+        <link>http://www.randomstringofwords.com/developer-burnout/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/developer-burnout/</guid>
+      </item>
+    
+      <item>
+        <title>Out of time, Site Future Plans, Life Goals, Etc..</title>
+        <description>&lt;p&gt;Well, it&amp;#39;s that time again.  Time for me to talk about how I never post any more and how I have no time.  Life is super busy, I&amp;#39;m doing too many things, I need to find time..etc.. &lt;/p&gt;
+
+&lt;p&gt;Feh.. These are all lies.  Mostly, I think I&amp;#39;m just really wanting to do something else..  I get into these weird moods where nothing is right and everything looks old/boring..etc.  Really this is just an excuse and a sign that something larger is at issue.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;#39;t get me wrong, I&amp;#39;m still going to ponder redoing this site.. &amp;#39;cause that&amp;#39;s the kind of brain damaged I am but a lot more is going on.  &lt;/p&gt;
+
+&lt;p&gt;A couple months ago I sold off my half of my ownership in a software company and honestly, it was past time.   In a weird way I&amp;#39;m still coming to terms with it, but mostly because I still don&amp;#39;t know what I want to be when I grow up. &lt;/p&gt;
+
+&lt;p&gt;When you have worked in software for over twenty years, it&amp;#39;s hard to do something else.   A clean break seems impossible, but at the same time seems like the only way to move forward.  &lt;/p&gt;
+
+&lt;p&gt;Grok was great and it was a good experience over all but I want to do my own thing, and I want to do other things.   I got into software professionally in the early 1990&amp;#39;s and almost did it on a lark.  Originally programming was a hobby that was all funzies and joy..  The important lesson I learned was, once you turn a hobby into a career, you lose the hobby and it becomes work.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m to the point now that the notion of going back into software as a professional developer (even as an individual contributor instead of management) is completely distasteful.  Sure the money is great, but the level of anxiety and sense of misery is palpable.  I just can&amp;#39;t bring myself to do it. &lt;/p&gt;
+
+&lt;p&gt;I still like the idea of writing my own software and doing something very passively that might make money or might not just as an &amp;quot;out&amp;quot; or as something fun to do in my spare time though.  Very much back to my original &amp;quot;hobby&amp;quot; status with programming.  But professionally?  Nope.  I think I&amp;#39;m done there.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;ve pondered doing some stuff with the airplane build that makes it more of a tutorial site where others can comment and give input on how to build a plane.  Sort of a community documentation site.  I have to ponder this.  But the idea would be to make it so that each step in the plans would be it&amp;#39;s own page with a video or documentation on how to do the work.  Almost an interactive crowd sourced project where people can talk / discuss and even comment directly on the plans and steps in a virtual space.   I have reached out to Scott Risan at Van&amp;#39;s Aircraft to see if this is something they would support or veto.  No response yet. &lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m going to make a video to my patreons about this and see what they think.&lt;/p&gt;
+
+&lt;h3&gt;Other things on my list of &amp;quot;shit to do&amp;quot;;&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;I want to redesign the blog&lt;/em&gt; 
+But not necessarily a full visual redesign, but more of a &amp;quot;bring it up to currency&amp;quot; with regards to be backend deployment software.  It&amp;#39;s been ages since I have updated my Jekyll install and I&amp;#39;m STILL using LESS.  That needs to be rectified.  &lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+        <link>http://www.randomstringofwords.com/out-of-time/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/out-of-time/</guid>
+      </item>
+    
+      <item>
+        <title>Democratic Socialism</title>
+        <description>&lt;p&gt;&lt;img src=&#39;/images/2016/socialism.png&#39; class=&#39;right scaled&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It seems like a lot of America&amp;#39;s young people (commonly referred to millennials) love the notion of Socialism.  They color it by saying it&amp;#39;s &amp;quot;Democratic Socialism&amp;quot; (&amp;quot;DS&amp;quot; going forward) which is sorta the same thing and not good -- Bear with me here.  &lt;/p&gt;
+
+&lt;p&gt;True democratic socialists believe that a socialist state can be achieved through democratic means.  I don&amp;#39;t believe that&amp;#39;s what these folks are going for.  It would be far better for these people to refer to themselves as Social Democrats because then at least that says they aim to modify the harshness of capitalism with the infusion of some elements of socialism which I believe to be closer to their true aim.   But so far all of the millennials I have talked to that are pro the &amp;quot;DS&amp;quot; idea&amp;#39;s call themselves democratic socialists, not social democrats.  May seem like a minor quibble all things considered but language matters.&lt;/p&gt;
+
+&lt;h2&gt;To those people I&amp;#39;d like to say the following;&lt;/h2&gt;
+
+&lt;p&gt;Firstly, and foremost; I appreciate that you have a political view.  That’s a good thing.  I know a lot of people my age, who at your age had no political views what-so-ever and happily let the government do whatever it wanted.  You&amp;#39;re not doing that.  Good for you!  Take a stand in what you believe in.. Hell yeah.. that’s what America is all about!  I very much appreciate your attempts to better the country where my generation was a little less caring about it. &lt;/p&gt;
+
+&lt;p&gt;Having said that, in my opinion, there is a distinct dichotomy between being for &amp;quot;DS&amp;quot; but against the government doing something it feels is in your best interest. I&amp;#39;m specifically referring to the FBI wanting to add backdoors to iphones &amp;quot;for your own good&amp;quot;.  It&amp;#39;s good they oppose that, but it seems to be a direct contradiction to the &amp;quot;DS&amp;quot; mentality -- but that&amp;#39;s an aside.&lt;/p&gt;
+
+&lt;h2&gt;&amp;quot;Democracy is the road to Socialism&amp;quot;&amp;#185;&lt;/h2&gt;
+
+&lt;p&gt;I&amp;#39;d also like to point out that the United States of America isn&amp;#39;t a democracy.  We live in a constitutional republic, and while the line between democracy and republic is a fine one -- it&amp;#39;s an important one.  Primarily because a constitutional republic is the road to freedom, and a democracy is the road to socialism.  &lt;/p&gt;
+
+&lt;p&gt;So with that, I have some serious concerns with “Democratic Socialism”.  Mostly that by its very nature it imbues the government with MORE power.  It strikes me as away by the citizens to eschew responsibility to the government and basically implies that you trust the government to take care of your needs.   History is replete with examples of why this is a bad idea.&lt;/p&gt;
+
+&lt;h2&gt;&amp;quot;The road to Hell is paved with good intentions&amp;quot;&amp;#178;&lt;/h2&gt;
+
+&lt;p&gt;Democratic Socialism is a white wash of socialism.  Most non-democratic societies love to throw the word “democratic” into the language to describe what they are doing just to muddy the water, to confused and befuddle the proletariat into thinking that they had some choice or input on the matter.  They often don&amp;#39;t.   I mean what exactly is democratic about the DPRK?  &lt;/p&gt;
+
+&lt;h2&gt;&amp;quot;Men make their own history, but they do not make it as they please&amp;quot;&amp;#179;&lt;/h2&gt;
+
+&lt;p&gt;As to the United States; it really seems like people have forgotten that the US government has a primary job of national defense.   Giving the government more and more power, which is what democratic socialists are trying to do, will only encourage the tyrannical shift that many governments in the past have made.  History doomed to repeat itself.  &lt;/p&gt;
+
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#39;/images/2016/dangers-socialism.png&#39; class=&#39;left&#39; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Dangers of Socialism&lt;/h3&gt;
+
+&lt;p&gt;&amp;quot;DS&amp;quot; or just Socialism in general has a lot of dangers to it;&lt;/p&gt;
+
+&lt;h4&gt;It rewards people for being irresponsible, indolent and for being unaccountable for their own actions&lt;/h4&gt;
+
+&lt;p&gt;In an environment where you aren&amp;#39;t responsible to produce, what stops you from being a complete lazy slob that can just hold your hand out and demand compensation?  Nothing.  In this environment people will demand more and more for doing less and less.  We already see this today and it will only get worse. &lt;/p&gt;
+
+&lt;p&gt;This system actively rewards people for being indolent and promotes indolence by de-incentivizing, robbing of initiative, drive and ambition those that produce anything because they have the fruits of their labor effectively stolen from them to perpetuate those that don’t.  &amp;quot;DS&amp;quot; not only allows for and legalizes theft but actively promotes it in the name of redistributing wealth.&lt;/p&gt;
+
+&lt;h4&gt;It de-incentivizes those that do produce, robbing them of not only the fruits of their labor but the initiative to produce in the first place&lt;/h4&gt;
+
+&lt;p&gt;Those that do produce things will be less and less likely to do so over time because they will see the individual who did nothing rewarded for doing nothing with the very fruits the producer should have gotten.  The notion that people will continue to produce happily for the sake of production is a flawed one due to the nature of Humans.  The Mark 1.0 Human being simply doesn&amp;#39;t work that way.&lt;/p&gt;
+
+&lt;h4&gt;It rationalizes theft, penalizes accomplishment and does away with individual rights for the sake of the &amp;quot;public good&amp;quot;&lt;/h4&gt;
+
+&lt;p&gt;If you&amp;#39;re taking away from the person who produced in order to give it to the person who didn&amp;#39;t, then you&amp;#39;re not only penalizing the producer and de-incentivizing that production, but you&amp;#39;re stealing from that individual who produced to give to those that didn&amp;#39;t.   You can&amp;#39;t encourage people to do more by first stealing from them.  You can&amp;#39;t multiply production by first dividing it.  And you can&amp;#39;t encourage those who do nothing to start being a productive member of society if you are giving them hand outs.  Again, Human nature.&lt;/p&gt;
+
+&lt;p&gt;This means that it completely undermines any spirit of entrepreneurship, innovation and competitiveness and actively promotes totalitarianism by encouraging people to be self-indulgent instead of self reliant.&lt;/p&gt;
+
+&lt;p&gt;This also means that the rights of the worker will go out the window in favor of the public good and control by the state.&lt;/p&gt;
+
+&lt;h4&gt;It actively promotes obedience to the state, idealizes state power and encourages dependence on the state&lt;/h4&gt;
+
+&lt;p&gt;This is where the real issue is;  The more the government squeezes and takes with intent to distribute to those who don&amp;#39;t have, the more people will become dependant on that handout.   The more we go down the &amp;quot;DS&amp;quot; hole, the deeper people will get and the more people will rely on the government.  It’s a vicious cycle.  Think of where that will end..  By it’s very nature it can’t stop with just social programs like people think.  &lt;/p&gt;
+
+&lt;p&gt;The “democratic” aspect of it means people are willingly giving their own freedoms up without fully exploring where this could go.&lt;/p&gt;
+
+&lt;h3&gt;But the Scandinavian democratic socialists managed it!&lt;/h3&gt;
+
+&lt;p&gt;mmmm, no they didn&amp;#39;t.  &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“I know that some people in the US associate the Nordic model with some sort of socialism. Therefore I would like to make one thing clear. Denmark is far from a socialist planned economy. Denmark is a market economy.”&lt;/em&gt;  -- Prime Minister of Denmark at a speech at the Harvard Institute of Politics.&lt;/p&gt;
+
+&lt;p&gt;Countries that already do this are pure consumer economies some with over 50% unemployment and over 80% taxation.&lt;/p&gt;
+
+&lt;h2&gt;To sum up with Pro&amp;#39;s and Con&amp;#39;s&lt;/h2&gt;
+
+&lt;p&gt;What would it mean for a true socialist democratic solution in the US?&lt;/p&gt;
+
+&lt;h2&gt;Con&amp;#39;s:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Taxes would go up - A lot to cover all the new spending&lt;/li&gt;
+&lt;li&gt;Unemployment would go up - A lot because people don&amp;#39;t have to work&lt;/li&gt;
+&lt;li&gt;Productivity would go down - A lot because people will be de-incentivized&lt;/li&gt;
+&lt;li&gt;People would be reliant on the government&lt;/li&gt;
+&lt;li&gt;Gives government much more (if not full) control&lt;/li&gt;
+&lt;li&gt;Rights of workers go out the window&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Pro&amp;#39;s:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Income inequality would go down - Unfair to those who product&lt;/li&gt;
+&lt;li&gt;Free benefits would go up - Not really free at all due to high taxes&lt;/li&gt;
+&lt;li&gt;Promotes a classless society - Rich and Poor gap will narrow drastically, again unfair to those who produced and earned&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;#185;,&amp;#178;,&amp;#179; : Finally, if you agree with any of the quoted headers above then you agree with Carl Marx and his Communist Manifesto as they are direct quotes from the man -- this would be a good time to rethink your position.  National Socialism (Hitler), Marxist Socialism (Communism), and Democratic Socialism are different, but not vastly so.  More over &amp;quot;DS&amp;quot; can include forms of Marxism and even Anarchism.  I feel modern pro &amp;quot;DS&amp;quot; individuals are taking more of a Marxist tack than they realize.&lt;/p&gt;
+
+&lt;p&gt;Also, keep in mind, governments ultimately enforce everything with a gun.  I feel that this socialism road people are trying to take us down will have a very bad ending...&lt;/p&gt;
+
+&lt;hr/&gt;
+
+&lt;p&gt;Additional -- I think this is a pretty good viewing and worth watching all of it: &lt;/p&gt;
+
+&lt;iframe width=&quot;920&quot; height=&quot;540&quot; src=&quot;https://www.youtube.com/embed/D0Yp1jUtcX8&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Mon, 29 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://www.randomstringofwords.com/democratic-socialism/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/democratic-socialism/</guid>
+      </item>
+    
+      <item>
+        <title>Livable Wages and Unreasonable Client Expectations</title>
+        <description>&lt;p&gt;&lt;img src=&#39;/images/2015/08/greed.jpg&#39; class=&#39;right&#39; /&gt; &lt;/p&gt;
+
+&lt;p&gt;I don’t work at a fast food restaurant, a pizza delivery joint, or behind the counter at a gas station.  In fact, I don’t work at any job that is minimum wage or there abouts because in my opinion, it’s not a livable wage.  And, to be completely honest, I don’t understand how people manage to live on so little income.&lt;/p&gt;
+
+&lt;p&gt;Instead, I chose a career path that requires a lot of technical knowledge and skill in order to stay competitive in the industry and that pays well enough that I can continue to live the lifestyle I enjoy.&lt;/p&gt;
+
+&lt;p&gt;Part of my job is to entertain offers for work from prospective clients. This typically includes hours (often days) of communication, information gathering, research, and other unbillable time that I have to put in for them before I get paid a dime.&lt;/p&gt;
+
+&lt;p&gt;The ultimate goal of which is to divide up the work with the intent of putting hourly and iterative work totals to their software desire which gives them a cost estimate for the work they want done.   &lt;/p&gt;
+
+&lt;p&gt;This is the only part of my job I hate.  I hate it because all clients want the sky, the moon, and stars -- for free or very little money and scoff and demand to know why we are “so expensive”.  &lt;/p&gt;
+
+&lt;p&gt;We aren’t - In fact I know a lot of firms that charge a lot more than we do.  We are realistic.&lt;/p&gt;
+
+&lt;p&gt;An example prospective client hit us up today with a 20 page document (small type!) full of all the requirements that had to be met in order for us to be complete, had less than 3 months to do the work, and wanted the whole shebang for $10,000.   All the while bemoaning the previous developers that offered to do the work for that amount but who were unresponsive. &lt;/p&gt;
+
+&lt;p&gt;(I will admit that having such thorough document to talk to is great!  Many clients show up with nothing but a dream only to have their hopes dashed when we start asking hard questions that they don’t have answers to.  Define your product, or we can help you define it.  But if I define it, it will be an MVP/POC first and iterate into a full blown product.  This is a topic for a different post though.)&lt;/p&gt;
+
+&lt;p&gt;But the common thread is that no matter the scope of the work, they always think we are too expensive and quite often expect to pay less than half or even a quarter of what is reasonable. &lt;/p&gt;
+
+&lt;p&gt;For example; The $10k job above would have required at least two full time developers to get it done within the 3 month deadline, if it’s even possible to make the deadline without working a lot of overtime.  But assuming its possible to get it done in the time allotted; $10k divided by roughly 60 days, at 8 hours a day, for 2 developers ends up being just above $10 an hour over the life of the project and that’s before taxes.  &lt;/p&gt;
+
+&lt;p&gt;Not a livable wage.  A plumber makes more.&lt;/p&gt;
+
+&lt;p&gt;I didn’t spend the last 20+ years getting experience in my industry and spending an unconscionable amount of extra time becoming an expert to work for so little. It requires a lot of time, effort and energy on my part to stay current and competitive in my industry so I have very little patience with people who think I get paid too much money for what I do. &lt;/p&gt;
+
+&lt;p&gt;Sorry, but anyone who says software engineers and architects get paid too much, don’t understand what it takes to do what we do.&lt;/p&gt;
+
+&lt;p&gt;I think the issue is most people just see the initial number and think it’s a lot.   On the surface, $10k is a lot of money.  And if I were given $10k for doing nothing then I’d be happy as a clam.&lt;/p&gt;
+
+&lt;p&gt;Most people have no concept the amount of work, time, and effort that goes into writing software and as such they can’t really fathom it.  Because they can’t wrap their mind around it and because there is nothing physical to put value to, it’s very easy to think that they are paying us that $10k for nothing and that we should be just happy as a clam for being offered it.&lt;/p&gt;
+
+&lt;p&gt;It pains me to have to be the one to explain to them that this isn’t the case.  The problem comes when you have those people that are actually offended by the amount I say it would actually require in order to pull their dream off.   I’m usually looked at as a greedy bastard and thought of as a criminal.&lt;/p&gt;
+
+&lt;p&gt;Most firms would charge closer to $100k for that 3 month job.  See what I mean?  You scoffed a little didn’t you.&lt;/p&gt;
+
+&lt;p&gt;And I’m just talking about the initial development cost.  Not maintenance fees, server hardware, data storage fees, design costs, testing costs etc..  &lt;/p&gt;
+
+&lt;p&gt;The problem with going with the $10k firm versus the $100k firm is that you get what you pay for.  The perceived value is in dollars only, without any thought or consideration to the quality of the work being done or the support you’re going to get before start, during development and after completion. &lt;/p&gt;
+
+&lt;p&gt;They have already approached $10k firm for the product and they don’t like the support / communication they were getting (read: the firm has just disappeared because 10k for this project is too low), so why are they looking for another $10k firm that will likely give them the exact same results?  &lt;/p&gt;
+
+&lt;p&gt;You get what you pay for and people some how refuse to learn that lesson with software.  &lt;/p&gt;
+</description>
+        <pubDate>Tue, 18 Aug 2015 00:00:00 -0400</pubDate>
+        <link>http://www.randomstringofwords.com/livable-wages-unreasonable-expectations/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/livable-wages-unreasonable-expectations/</guid>
+      </item>
+    
+      <item>
+        <title>Modifying Jekyll to track my RV-10 Build Log! Sorta...</title>
+        <description>&lt;p&gt;I love being a programmer.  It&amp;#39;s one of those things that I truly enjoy and get a real sense of accomplish out of when I can make something work the way I want it to.&lt;/p&gt;
+
+&lt;p&gt;I switched to &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; as my primary blogging system a &lt;a href=&quot;http://randomstringofwords.com/blogging-like-its-1999/&quot;&gt;while back&lt;/a&gt; and haven&amp;#39;t looked back.  It&amp;#39;s been great.  Just like my early post says; Blogging like it&amp;#39;s 1999!  Each page is built as raw html and then pushed to the servers.  Fast, secure, easy.  &lt;/p&gt;
+
+&lt;p&gt;But I wanted to add a special post type &amp;quot;build-log&amp;quot; to my blog so that I could write all about my RV-10 build experience and have it track just like any other blog, but in a different directory structure.  This would be basically a blog, within a blog.  &lt;/p&gt;
+
+&lt;p&gt;I started writing said plugin and it got pretty massive.  I was basically having to re-architecture/re-factor all of Jekyll to make it happen and that was just not going to fly.  It wouldn&amp;#39;t be performant, it would have to be forward/backwards compatible and in the long run maintaining it would suck.&lt;/p&gt;
+
+&lt;p&gt;SO I cheated.&lt;/p&gt;
+
+&lt;p&gt;I simply deleted the plugin ( and the probably hundred hours I put into making it ) and started a new Jekyll blog for the build log, using all the same views as the main blog.  &lt;/p&gt;
+
+&lt;p&gt;I then had the build log blog output to a directory structure nested within the main blog.  This forced me to go in and move all the files down one directory once it was build but I have a script now that will do it all for me!    Ding!  I get two complete blogs within one another that are stored in different repo&amp;#39;s and build into a single blog.  Easy!&lt;/p&gt;
+
+&lt;p&gt;Jekyll.. I&amp;#39;m still a huge fan.&lt;/p&gt;
+
+&lt;p&gt;Also, with this new addition to the site I have implemented &lt;a href=&quot;http://disqus.com&quot;&gt;Disqus&lt;/a&gt; comments instead of the old facebook comments which were a pain and not very good.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 Feb 2015 00:00:00 -0500</pubDate>
+        <link>http://www.randomstringofwords.com/modifying-jekyll/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/modifying-jekyll/</guid>
+      </item>
+    
+      <item>
+        <title>Sometimes you just have to fire a client</title>
+        <description>&lt;p&gt;&lt;img src=&#39;/images/2015/01/fired-image-web.jpg&#39; class=&#39;right&#39; /&gt; &lt;/p&gt;
+
+&lt;p&gt;When you&amp;#39;ve started your own company, especially in the beginning, you don&amp;#39;t really think of clients as something that are &amp;quot;fireable&amp;quot;.  In fact, in the very beginning, you&amp;#39;re willing to work with any client that comes your way, for any reason - you&amp;#39;re not picky.  &lt;/p&gt;
+
+&lt;p&gt;I mean consider it;  Clients are the magic element, the mana from heaven, the fuel, if you will, that makes your company go and grow.  They are your source of income, and as such are deemed important beyond measure.  You&amp;#39;d do anything they ask just to make them happy so they wont go away.  In fact, their happiness is often more important than yours, your employees, your families...  All in the name of making the company survive and thrive.&lt;/p&gt;
+
+&lt;p&gt;So the very notion of intentionally distancing yourself from a potential income source may seem like the absolute antithesis of what you&amp;#39;re supposed to be doing!  But that&amp;#39;s not always the case; Some clients need to go.  &lt;/p&gt;
+
+&lt;p&gt;If you really consider the drain that some clients put on your resources it becomes obvious that there are times that a client has to be given the boot, but it&amp;#39;s not always easy to do.  Quite often you continue to put up with an unreasonable or unruly client and completely lose sight of the damage they are actually doing.&lt;/p&gt;
+
+&lt;p&gt;The simple fact of the matter is;  Any client that is an emotional, physical and mental blackhole is a cancer that must be cut away for the health of your company and the well-being of your employees.   It may seem counter intuitive but quite often the best way you can grow your company is to let go of them and move on.&lt;/p&gt;
+
+&lt;p&gt;It may not always be obvious though that a company should be fired.  Especially when you&amp;#39;re inside, looking out.&lt;/p&gt;
+
+&lt;h4&gt;The first piece of advice here is to listen to the people around you; Especially your spouses.&lt;/h4&gt;
+
+&lt;p&gt;No one knows you better than the people closest to you, and if they start seeing changes in your behavior and demeanor they are likely letting you know about it.  If a client is a nightmare and needs to be fired, then they are affecting your home life whether you realize it or not.  The people around you do notice. &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;What to do:&lt;/em&gt;  Listen to them.  No client is worth your home life.  Ask your spouse, your friends, your immediate family.. see if they notice somethings wrong.  if you ask they will most likely say something when they wouldn&amp;#39;t have otherwise.  We all do what we do to make money SECOND, happiness comes first.  And if your family isn&amp;#39;t happy, you wont be either.    &lt;/p&gt;
+
+&lt;h4&gt;Are they making completely unreasonable demands?&lt;/h4&gt;
+
+&lt;p&gt;In the beginning you&amp;#39;re likely doing anything to make a client happy, to include things that might be unreasonable.  Unfortunately you&amp;#39;re not doing yourself any favor because you&amp;#39;re only training them that those demand they are making are okay.  And once a client is trained to behave a certain way, that will dominate the rest of your relationship with them.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;How do avoid this:&lt;/em&gt;  Set ground rules from day one.  Boundaries are a good thing.  Don&amp;#39;t let a client walk all over you.  This may seem easier said that done, but in the end a client will respect you more and be more in-tune with your needs and you with theirs if you maintain a professional and reasonable relationship.   &lt;/p&gt;
+
+&lt;p&gt;Talk to them and explain why a demand might be a bit over the top or out of line.  They are people too, they&amp;#39;ll listen.  If they don&amp;#39;t, then you know what needs to be done.  Most clients will tolerate a certain amount of &amp;quot;adjustments&amp;quot; to their line of thinking.  In the end of they don&amp;#39;t then they aren&amp;#39;t a good fit for you or your company.  Let them go.  There will be more clients.&lt;/p&gt;
+
+&lt;h4&gt;Are they asking you to hit a moving target?&lt;/h4&gt;
+
+&lt;p&gt;I can&amp;#39;t tell you the number of times a client has come to me asking for a feature or enhancement only to change their mind or redefine that feature numerous times before, during and after launch.  See the section above on unreasonable demands. This kind of behavior is painful at best, and at worst will cause your employees to throw up their hands and quit.  &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;How to avoid this:&lt;/em&gt;  Get a hard requirements document for each version of the product and stick to it.  Iterative development is fine and dandy but you can&amp;#39;t program to a moving target.   Don&amp;#39;t let a client do that to you.  They will complain, they will throw tantrums, they will have &amp;quot;good reasons&amp;quot;, etc..  This sort of thing makes hitting deadlines impossible and quite often they will hold you to the original deadline with all the new changes they keep making.  Say no, but explain that we can get to their new goals at a future version or a later date.  &lt;/p&gt;
+
+&lt;h4&gt;Are they asking for everything for free?&lt;/h4&gt;
+
+&lt;p&gt;Some clients just don&amp;#39;t understand how much time it takes to develop software.  In fact, many clients have these wonderful pie in the sky ideas that sound great, and think that just because they can dream it up, you can implement it for a song.    They don&amp;#39;t get it and quite often never will.  &lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s very easy to point at a plumber and the work he does and know exactly what you&amp;#39;re being charged for.  The results are physical, but with software a lot of the time clients see what we do is an arcane magic performed over a cauldron, a bone in our nose with a chicken foot in one hand and some beads in the other.  They don&amp;#39;t get it at all and no amount of explaining will bring them any closer to understanding.  You might as well be speaking a different language -- and you are.   &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;So now what?&lt;/em&gt;  Give then your rate.  Tell them how many hours something will take before you get started and see if they balk.  It&amp;#39;s always a good idea to map out a plan of attack based on the design document they gave you.  Give them a 10,000&amp;#39; estimate of work with a price tag attached.  Make it an HOURLY rate.  Don&amp;#39;t do flat rate work, you&amp;#39;ll always end up doing way more work than you should when someone hands you a large lump sum versus paying as they go.   Don&amp;#39;t fall into that trap.&lt;/p&gt;
+
+&lt;p&gt;Also keep in mind a good plumber charges over $200 an hour for the work they do, yet many clients will scoff at $100 an hour for work that is infinitely more technical and skill laden.  Don&amp;#39;t lower your rate to something that isn&amp;#39;t sustainable.  You can always lower your rate later for a client if they are good people and you enjoy the work, but you will never get away with raising it for a client.  They wont let that happen.&lt;/p&gt;
+
+&lt;h4&gt;They make big promises but are slow to pay and come through?&lt;/h4&gt;
+
+&lt;p&gt;Some clients will promise percentages and large payouts, or contract with you to do work for an hourly rate and just never pay or be extremely slow to pay.  They may be good people and may actually have the intent to pay you as they say, but don&amp;#39;t.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;So now what?&lt;/em&gt;  Firstly, get everything in writing.  This is your only legal recourse should it come to that.&lt;br&gt;
+Secondly, never work for a percentage of a company unless you really believe in the product and want to be a part of it.  Most of the &amp;quot;killer ideas&amp;quot; that people have, never pan out.  To quote Jayne Cobb; &amp;quot;Ten percent of nothin&amp;#39; is, let me do the math here... nothin&amp;#39; and a nothin&amp;#39;, carry the nothin&amp;#39;... &amp;quot;  Always ask for some cash for the work you do -- even if that means you take a smaller percentage of the eventual pie.  You can&amp;#39;t spend %%%, but $$$ will buy dinner.  &lt;/p&gt;
+
+&lt;p&gt;Figure out what your minimum hourly rate is and don&amp;#39;t ever go under it, not for any client, friend or sibling.  You have bills to pay, don&amp;#39;t short change yourself. &lt;/p&gt;
+
+&lt;p&gt;In the end if you&amp;#39;re a month in and they still haven&amp;#39;t paid, stop working and have a conversation with them.  Make them understand you can&amp;#39;t work for free, and no one should expect you to. &lt;/p&gt;
+
+&lt;h4&gt;They don&amp;#39;t listen to you?&lt;/h4&gt;
+
+&lt;p&gt;Some clients know everything.  They have made software before so they know all the answers already and they don&amp;#39;t need your opinion, they just want you to do the work that they have assigned you.  Most of these folks look at you as if you were a day laborer and you should just shut up and be thankful that they have hired you.  &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;How to avoid this:&lt;/em&gt;  They hired you because they don&amp;#39;t know how to do the work they hired you for, or they would do it.  They need to be reminded of that.  The advice you bring to the table should be seen as valuable or why are you even there?  There are various off-shore/near-shore entities they could have hired to do mechanical turk like work .. that&amp;#39;s not you.  Don&amp;#39;t let them do this.&lt;/p&gt;
+
+&lt;p&gt;If a client refuses to listen, even if they are paying well, it can cause you a lot of pain and frustration that just isn&amp;#39;t worth the ulcer.  Move on.  &lt;/p&gt;
+
+&lt;h4&gt;Unprofessional tantrum throwing client that makes none-too-subtle threats?&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Just fire them!&lt;/em&gt;  The sooner the better.  They wont change their tune, this is another learned behavior that once it is set.. it&amp;#39;s set. It wont &amp;quot;get better&amp;quot;.  &lt;/p&gt;
+
+&lt;p&gt;If a client calls you names, curses at you, makes unjustified accusations, questions your ethics, or in anyway acts unprofessionally like this;  Just move on.  Don&amp;#39;t look back.  This may seem obvious and to most it is, but it&amp;#39;s a hard thing to do when you&amp;#39;re trying to do right by a client and they just find nothing but flaws where there are none.  You can&amp;#39;t make everyone happy.  Some people will only focus on the bad and be angry all the time.  Just walk away from them.  Some people aren&amp;#39;t worth your time and the sooner you recognize that the better off you will be.&lt;/p&gt;
+
+&lt;p&gt;These kinds of clients are the worst and are the actual &amp;quot;cancer&amp;quot; clients I referred to above.  They will kill you, your company, your family.. etc.  They aren&amp;#39;t worth the heart ache, the angst, the frustration, the sleepless nights, the pain; and you will suffer all of those and more with these guys.  Just move on.  Be tactful about it, but get out as soon as you can and never look back.  &lt;/p&gt;
+
+&lt;h3&gt;You have a skill set!  You will be okay!&lt;/h3&gt;
+
+&lt;p&gt;Don&amp;#39;t be afraid to fire a client.  It&amp;#39;s a very liberating and can be a cathartic exercise.  Sometimes it just needs to happen and in my experience, it&amp;#39;s never been a bad thing.  You have a skill.  Firing a client wont remove that skill.  You&amp;#39;ll be okay. &lt;/p&gt;
+</description>
+        <pubDate>Thu, 08 Jan 2015 00:00:00 -0500</pubDate>
+        <link>http://www.randomstringofwords.com/sometimes-you-just-have-to-fire-a-client/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/sometimes-you-just-have-to-fire-a-client/</guid>
+      </item>
+    
+      <item>
+        <title>Learning to fly!</title>
+        <description>&lt;p&gt;Flying is an itch I need to scratch and I plan to follow through.  To that end I have been creating a serious of &amp;quot;Learning to Fly&amp;quot; videos on youtube in the hopes that they will help to keep me motivated!&lt;/p&gt;
+
+&lt;p&gt;These videos aren&amp;#39;t really meant as entertainment but rather a training tool for me.  I&amp;#39;ll be including them here or you can go over to my youtube channel and see them.&lt;/p&gt;
+
+&lt;p&gt;You can view the videos on my YouTube Channel here;  &lt;a href=&quot;https://www.youtube.com/user/vihravendrel/videos&quot;&gt;https://www.youtube.com/user/vihravendrel/videos&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Sep 2014 00:00:00 -0400</pubDate>
+        <link>http://www.randomstringofwords.com/learning-to-fly/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/learning-to-fly/</guid>
+      </item>
+    
+      <item>
+        <title>Coins: Pyramid or Poniz - Both? Neither?</title>
+        <description>&lt;p&gt;I have been pondering this at length -- Is bitcoin (or any of the alt-coins) a ponzi or pyramid scheme?&lt;/p&gt;
+
+&lt;p&gt;I personally like to look at coins as an investment, but many people decry that coins in any form are a ponzi or pyramid scheme.  A waste of money, time and effort and will only serve to give criminals a way to transfer money back and forth in secret.&lt;/p&gt;
+
+&lt;p&gt;Well.. Okay it&amp;#39;s hard to argue with that last one as the whole point of coins is to be a currency free from government oversight, so yes criminals will likely use it.  But if there is value to them and the current state of bitcoin implies there is, it&amp;#39;s certainly not a waste of time and money.  But I get ahead of myself.&lt;/p&gt;
+
+&lt;p&gt;A lot of people are saying that coins are simply a pyramid scheme or a pump and dump ponzi.  I agree and disagree.&lt;/p&gt;
+
+&lt;p&gt;Firstly, All of the coins, no matter which you decide to go with, favor early adopters which is one of the typical hallmarks of such schemes but so does any investment really.&lt;/p&gt;
+
+&lt;p&gt;Is it a pyramid?  I would agree that all of the crypto-currencies are way more volatile than most mainstream investments, but I don&amp;#39;t think its quite a pyramid.&lt;/p&gt;
+
+&lt;p&gt;Pyramids or any multilevel marketing scheme as I understand them work such that everyone at the top is a direct beneficiary to the new people coming on board.  As each new level is created, the rich at top get richer on the backs of the newbies, and typically there is a point at which all those people at top bail leaving the rest with nothing.&lt;/p&gt;
+
+&lt;p&gt;That&amp;#39;s not whats happening here. The fact that I&amp;#39;m mining coins has zero effect on the people that came to it before me and in fact the opposite is true.  By my mining coins, I&amp;#39;m actually devaluing the coins already mined..&lt;/p&gt;
+
+&lt;p&gt;Coins by their very nature are a 100% deflationary currency.  That means that the more of it that is mined the less value the amount you already have has.  In theory each coin has a finite amount but each coin handles that upper limit differently and I know some coins have no upper limit.  &lt;/p&gt;
+
+&lt;p&gt;To give an example bitcoins have a max of 21 million coins, there can never be more than that.  As more coins are mined the value of the coins you have go down due to supply and demand, and in the case of those coins with no upper limit your coins could become worthless over time just due to the flood of coins on the market, though that would take a long time due to the difficulty increases imposed on mining over time.&lt;/p&gt;
+
+&lt;p&gt;In many ways, coins are more like the stock market than a pyramid, if I buy coins (which I have ZERO intention of doing btw) I&amp;#39;m increasing the value of the coin, just like the stock market.  Google stock was $85 back when it was new, now its $1220.  It&amp;#39;s worth that much because people valued the company enough to buy the stock making the stock hard to get, causing the stock value to go up.. supply and demand 101.&lt;/p&gt;
+
+&lt;p&gt;With coins however there is this added injection of units through mining where as with stock typically the only way for more stock to come into being is through stock splits or secondary offerings.&lt;/p&gt;
+
+&lt;p&gt;The primary difference is in the backing and I see the sticking point that a lot of poeple have trouble with;  Most argue that google stock is backed up by a company, where as coins are backed up by the hopes, dreams, and wishes of the neckbeards and fedoras who think they are the smartest people in the room. And not much else.&lt;/p&gt;
+
+&lt;p&gt;They have no intrinsic value unlike pelts, skins, beads and shells of yesteryear or the modern currencies backed up by whole nations. They are valuable entirely because people say they are. &lt;/p&gt;
+
+&lt;p&gt;The question is, is that enough?  I dunno.  I&amp;#39;m skeptical.  I think it&amp;#39;s likely not over the long haul, but I have been wrong before.&lt;/p&gt;
+
+&lt;p&gt;If you read some of the manifesto&amp;#39;s around about the various alt-coins I truly believe that the intent is good and righteous.  But we are still talking about the mark 1 human being and as such people will find a way to abuse and seek personal gain just out of pure greed.&lt;/p&gt;
+
+&lt;p&gt;And that&amp;#39;s the issue.  That&amp;#39;s where the pump and dump ponzi aspect rears it&amp;#39;s ugly head.&lt;/p&gt;
+
+&lt;p&gt;This is a currency that lends it self to being abused easily because it&amp;#39;s entirely computer based and a complete mystery to most people. You&amp;#39;re not paying any of the original investors like a ponzi or pyramid, and yes your pie is getting bigger at the same rate as theirs if you&amp;#39;re mining but the potential for abuse and misuse is massive.&lt;/p&gt;
+
+&lt;p&gt;The stellar lack of understanding lends it self to criminal behavior; In many ways I liken it to the stock market, the rich who are in the know will invest wisely and make a lot of money, where as the people who don&amp;#39;t know will get bilked out of their hard earned cash simply because they don&amp;#39;t know what to do and what not to do.  And unlike the stock market, there is a complete lack of government oversight and regulations and a lack of physical assets -- not even paper in the case of some stock.&lt;/p&gt;
+
+&lt;p&gt;This is why I do believe it&amp;#39;s a ponzi on some levels, or rather it lends itself to being a ponzi because people can use it as a mechanism to lure the unwary and make personal gains from other peoples losses.  It is not a ponzi in and of itself, but it can easily be used as one by even the youngest hipster script kiddie.  &lt;/p&gt;
+
+&lt;p&gt;In many ways the whole thing reminds me of the early US when every state, province, town and bank had it&amp;#39;s own currency and they were struggling to figure it out.  The difference being, unlike those early currencies there is absolutely no safety net.  No real hard &amp;quot;thing&amp;quot; to back up the value of the various currencies.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s an interesting time.  And I think so long as you mine without investing any really money in it, no loss..  My computer was on crunching numbers anyway for Seti or World Community Grid..  Really they are the ones losing out.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Mar 2014 00:00:00 -0400</pubDate>
+        <link>http://www.randomstringofwords.com/coins-pyramid-ponzi-both-neither/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/coins-pyramid-ponzi-both-neither/</guid>
+      </item>
+    
+      <item>
+        <title>I want to go soaring</title>
+        <description>&lt;p&gt;So I mentioned back in Feb of 2013 that &lt;a href=&quot;/i-want-to-fly&quot;&gt;I wanted to fly&lt;/a&gt; and that I specifically wanted to get a Diamond DA42.  That dream still holds true and I have begun the process.  But my plans might be changing.&lt;/p&gt;
+
+&lt;p&gt;I still want to get a DA42, or a Cirrus SR22 or even a Cessna 400 but the simple fact of the matter is they are amazingly, stunningly and astronomically expensive.   Even so, I still started the process of getting my pilots license.  I have taken a couple lessons since then looking for a good instructor, got my 3rd class medical that is required for aviation and outfitted myself with all the accoutrements I would need to make it happen.   It&amp;#39;s still a very real possibility.&lt;/p&gt;
+
+&lt;p&gt;But then I started to really think about what I would use it for.  The &amp;quot;Mission&amp;quot; as most GA pilots refer to it.  My initial goal was to get an airplane for the occasional flights back and forth to Texas from Georgia.  And that with an airplane of my own I could make that trip more often.  This is completely unrealistic.&lt;/p&gt;
+
+&lt;p&gt;I, like most people, hate commercial airlines, but I can buy a round trip ticket to Texas for under $300 right now.  Sure there is the discomfort of the commercial aircraft, the crowds, the airport hassle, the delays, the TSA..etc.. but at that price point, I simply can&amp;#39;t warrant getting my own aircraft.  Unfortunately, it would cost me more than that to put fuel in it for the trip to Texas -- one way.   Add to that airplane costs, maintenance, hangar space, licensing..etc.. and it just doesn&amp;#39;t make sense at all.&lt;/p&gt;
+
+&lt;p&gt;This was a real downer to ponder by the way.  Everyone knows it&amp;#39;s expensive, but now I can actually put real numbers to it.  Wow.  The plane alone that I would need to get in order to realistically do this mission in a timely manner would cost me over $350k -- used.  Not counting fuel and all the other monthly/yearly expenses.  Sure I could get a plane that costs a lot less, but it&amp;#39;s still cost prohibitive.&lt;/p&gt;
+
+&lt;p&gt;This really was a pretty harsh dashing of my flying dreams.  Not that I can&amp;#39;t do it, or even that I couldn&amp;#39;t afford it.  I could actually, but it doesn&amp;#39;t make sense.  It was expensive enough to trip my financial warning meter.&lt;/p&gt;
+
+&lt;p&gt;Enter Soaring.&lt;/p&gt;
+
+&lt;p&gt;A couple weeks ago I got to go gliding/soaring at the Chilhowee Gliderport in TN and had a blast.  I posted a video of it on youtube: &lt;a href=&quot;http://www.youtube.com/watch?v=tvnCj-zZlpc&quot;&gt;Gliding at Chilhowee&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Suddenly a whole new option opened up;  Gliding!&lt;/p&gt;
+
+&lt;p&gt;Firstly, it&amp;#39;s safe.  Most folks don&amp;#39;t understand how safe it actually is and are under the mistaken impression that the lack of an engine means it&amp;#39;s some how dangerous.  Couldn&amp;#39;t be further from the truth.  There are dangers involved of course, but it&amp;#39;s not any more dangerous than flying a plane, riding a motorcycle, driving a car... walking.  Etc.&lt;/p&gt;
+
+&lt;p&gt;Secondly, it&amp;#39;s cheap!  Everything about soaring is a lot cheaper than powered general aviation.  Stunningly so.  It costs maybe $2k to get your glider pilots license versus closer to $10k for powered flight (or higher if you&amp;#39;re using a &amp;quot;pilot factory&amp;quot; school like the ones Cessna puts on)&lt;/p&gt;
+
+&lt;p&gt;And then there&amp;#39;s the cost of aircraft ... Wow! So much cheaper!  A top of the line multiperson glider with all the bells and whistles is something like $300k to $400k.  And I mean that&amp;#39;s the end of the price range.. that&amp;#39;s the top dog.  A $300k to $400k powered aircraft is excellent to be sure, but it&amp;#39;s no where near top dog.&lt;/p&gt;
+
+&lt;p&gt;Finally, it&amp;#39;s a more realistic mission.  To have fun.&lt;/p&gt;
+
+&lt;p&gt;I can suffer commercial to fly back and forth to Texas when I need to go (going this January), but to have fun in the sky I can use a glider.  I knew that I wanted to fly just for the joy of flying once I had gotten my GA license, but the cost would make that a lot less fun.   Well gliders are so much cheaper you can do it for virtually nothing if you rent.   You can easily rent a nice glider, tow to altitude and fly around all day for under $200.  Awesome.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Jan 2014 00:00:00 -0500</pubDate>
+        <link>http://www.randomstringofwords.com/i-want-to-soar/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/i-want-to-soar/</guid>
+      </item>
+    
+      <item>
+        <title>Hardware Review: Oculus Rift</title>
+        <description>&lt;p&gt;The Oculus Rift is an up and coming virtual reality head-mounted display being developed by Oculus VR, who as of this writing has raised over $90MM US dollars to fund this hardware wet dream.&lt;/p&gt;
+
+&lt;p&gt;For Christmas my business partner and I decided to go ahead and splurge on a couple of the developer kit versions of the OR because we have some development ideas that we want to explore.&lt;/p&gt;
+
+&lt;p&gt;But of course we also wanted them just to play with them and check them out.  Holy crap.  It&amp;#39;s awesome.  Not perfect by any stretch of the meaning, but as developer kits go it&amp;#39;s impressive as hell.  Once the final consumer version comes out, you should get one.&lt;/p&gt;
+
+&lt;p&gt;The developers kit is very nice and extremely professionally produced.  The Rift unit itself seems pretty solid and works well once you get used to it (more on that in a minute).&lt;/p&gt;
+
+&lt;p&gt;What amazes me about it is how good the accelerometers are.  The head tracking system is perfect.  I expected it to be kinda crappy to be honest, or lag a little when you turned your head but it really isn&amp;#39;t.  Accelerometer technology has come a long way and the precision there is excellent.&lt;/p&gt;
+
+&lt;p&gt;The unit itself isn&amp;#39;t heavy and in fact I stopped noticing it after the first 5 minutes.&lt;/p&gt;
+
+&lt;p&gt;The cost of the unit itself is $300 for the developer kit and they are guessing the final version will be between $300 and $400.  I think this is completely reasonable as it&amp;#39;s essentially just another monitor.  How much did you pay for your nicest monitor?&lt;/p&gt;
+
+&lt;p&gt;As for the bad -- this is all I can really think of;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;em&gt;Developer Kit Resolution:&lt;/em&gt;&lt;/em&gt; The developer kit is very very good, but its really low resolution.  The system works by putting a small flat screen (think cellphone) about 3 inches from your eyes and putting two images on that single screen that you look at through lenses.   The picture as you have probably seen is just a fisheye view of whatever the game or software is displaying split in two and slightly offset to give you the left/right eye.  Clever.   But the dev kit has a 1280x800 resolution.  That means its effectively 640x800 per eye.  That&amp;#39;s pretty poor.   The image itself while amazingly responsive and the over all performance of the unit is good, the image looks kind of like an image made with lego blocks a couple feet away.&lt;/p&gt;
+
+&lt;p&gt;The good news is they are working on the Resolution and the final version will be a lot higher.  So for a developer cheap version, this is awesome.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;em&gt;Positional Tracking:&lt;/em&gt;&lt;/em&gt; As I said in the review above the orientation tracking is amazing.  The unit itself has a gyroscope/accelerometer system that makes unit orientation spot on.  I was very happy with this, they did a fantastic job here.  But it has no positional tracking what so ever and likely wont ever have that without another piece of hardware.&lt;/p&gt;
+
+&lt;p&gt;For those familiar with the Track IR piece of hardware it gets around positional tracking by forcing you to put something on your head in order to get position in space, without that I&amp;#39;m not sure how good positional tracking could be.&lt;/p&gt;
+
+&lt;p&gt;But I hesitated to put this here as I dont know that it needs positional tracking.  I imagine there will be some pieces of software that could benefit from it, but for the most part I don&amp;#39;t know that it&amp;#39;s needed.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;em&gt;Motion Sickness:&lt;/em&gt;&lt;/em&gt; I NEVER get motion sick.  Never.  Not at all. .... or at least not until I used the Oculus Rift for 20 minutes.  This says a lot to me.  I know my wife and my best friend get motion sick if you show them a first person shooter for a minute or two.  I don&amp;#39;t.   In fact one of my favorite games of all time was &lt;a href=&quot;http://en.wikipedia.org/wiki/Descent_(video_game)&quot; target=&quot;_blank&quot;&gt;Descent&lt;/a&gt; a true 360 degree first person shooting game.  This is a game that was known for (and eternally banned for) making my buddy nearly projectile vomit. heh  Loved it.&lt;/p&gt;
+
+&lt;p&gt;Anyway, the rift made me feel very queasy.  Stunned me actually.  But after 3 sessions of 20 minutes or so, I was able to play for an hour before it started to hit me.  So it&amp;#39;s clear to me that this is something you just have to get used to.. But be warned.  I know some people that once they get motion sick are down for hours.&lt;/p&gt;
+
+&lt;p&gt;My only other suggestion or wish (aside from the higher resolution thing which is already coming) would be to have a slightly wider field a view.  I want it to wrap around more.&lt;/p&gt;
+
+&lt;p&gt;But seriously those are really minor complaints all things considered =)  If you&amp;#39;re any kind of gamer at all, once the consumer version comes out.. get it.. You&amp;#39;ll be glad you did.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Dec 2013 00:00:00 -0500</pubDate>
+        <link>http://www.randomstringofwords.com/oculus-rift/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/oculus-rift/</guid>
+      </item>
+    
+  </channel>
+</rss>
