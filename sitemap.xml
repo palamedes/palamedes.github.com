@@ -2,7 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://www.randomstringofwords.com/about/</loc>
-        <lastmod>2018-04-19T13:34:09-04:00</lastmod>
+        <lastmod>2018-04-20T21:14:44-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.randomstringofwords.com/jason-ellis-resume/</loc>
@@ -18,10 +18,6 @@
     </url>
     <url>
         <loc>http://www.randomstringofwords.com/fan-films-forum/</loc>
-        <lastmod>2018-04-19T13:34:09-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.randomstringofwords.com/portfolio/</loc>
         <lastmod>2018-04-19T13:34:09-04:00</lastmod>
     </url>
     <url>
@@ -82,11 +78,11 @@
     </url>
     <url>
         <loc>http://www.randomstringofwords.com/polyester-resin-pens/</loc>
-        <lastmod>2018-04-19T13:34:09-04:00</lastmod>
+        <lastmod>2018-04-20T21:39:51-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.randomstringofwords.com/tau-hammerhead-in-3d/</loc>
-        <lastmod>2018-04-19T13:34:09-04:00</lastmod>
+        <lastmod>2018-04-20T21:37:54-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.randomstringofwords.com/frys-strikes-again/</loc>
@@ -795,6 +791,10 @@
         <lastmod>2018-04-19T13:34:09-04:00</lastmod>
     </url>
     <url>
+        <loc>http://www.randomstringofwords.com/site-redesign-and-restlessness/</loc>
+        <lastmod>2018-04-20T21:35:36-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.randomstringofwords.com/404/</loc>
         <lastmod>2018-04-19T13:34:09-04:00</lastmod>
     </url>
@@ -804,6 +804,6 @@
     </url>
     <url>
         <loc>http://www.randomstringofwords.com/</loc>
-        <lastmod>2018-04-19T13:34:09-04:00</lastmod>
+        <lastmod>2018-04-20T21:39:51-04:00</lastmod>
     </url>
 </urlset>

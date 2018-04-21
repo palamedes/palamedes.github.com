@@ -7,6 +7,40 @@
     <atom:link href="http://www.randomstringofwords.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Site Redesign and Restlessness</title>
+        <description>&lt;p&gt;&lt;img src=&#39;/images/2018/site-redesign.jpg&#39; class=&#39;right scaled&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Yet another vast block of time has gone by.  Life continues apace and I continue to ignore my blog / diary.  I realize now that this blog is nothing more than a modern diary, and not really anything else.  I treat it as such anyway.&lt;/p&gt;
+
+&lt;p&gt;I really want to do so many things here though.  Back in the day I made these really cool and clever animated sites and I loved it but I got away with that and have been boring ever since.  I still want to do those things.. I liked doing all that 3D work and enjoyed making those cool sites but wow the time it took was pretty vast and now that I&amp;#39;m older I have so many other things I could be doing haha. &lt;/p&gt;
+
+&lt;p&gt;Having said that,  I get this creative restlessness that makes me want to do something... ANYTHING! but then I realize I have zero creativity and am not able to come up with anything and it eats at me..  There are days that I&amp;#39;m pretty unpleasant to be around simply because I have this ball of angst in the pit of my stomach because I feel like I need to create.. and can&amp;#39;t.    I have to settle for doing something less useful and less creative just to get something done.  Like, writing an entry.. or fixing a link or updating a footer ..etc.. &lt;/p&gt;
+
+&lt;p&gt;Even then I screw things up.  Like the pagination on my blog is broken.  If you go to the end there are several &amp;quot;pages&amp;quot; that are empty.. bleh.
+I have been meaning to turn this whole thing into a static JSON site but haven&amp;#39;t gotten around to it.  Again, no time, no creative juices, too much other shit going on.  I will fix it eventually.&lt;/p&gt;
+
+&lt;p&gt;I tried ot update to the latest version of Jekyll and .. wow.. Broke the world!  Reverted that until I can figure out why literally EVERYTHING is broken.&lt;/p&gt;
+
+&lt;p&gt;I really like the idea of making the entire site work like a windows desktop that would allow me to plant easter eggs and games.. etc.. I still want to make a game.. SO MUCH WANT TO MAKE A GAME!&lt;/p&gt;
+
+&lt;p&gt;Hell I even want to recreate Zork or Adventure or other text games in the site just for funzies.  I thought about trying to make a static blog / json M.U.D. just to see if I could.   I thought about it long and hard and I actually think I could pull it off with sockets and clever JSON design.  Maybe one day.  Maybe it&amp;#39;s here already and you just haven&amp;#39;t figured out how to lauch it yet. &lt;/p&gt;
+
+&lt;p&gt;My plane continues going and I recently ordered the fuselage so that&amp;#39;s cool.  I get to build more and more!  yay!  plus it&amp;#39;s cool having folks watch me.  I dunno why that keeps me motivated but it does.   &lt;/p&gt;
+
+&lt;p&gt;I got a really nice trailer for $600!  Super excited about that.  I needed a way to transport things now that I have a jeep instead of a truck and getting a trailer made sense.  But the trailer I wanted was over a thousand dollars.  In fact, it was listed Lowes website for $1499.   I went to lowes to look at it and it was on sale.. for $599.   It was clearly mismarked, and in a line of other smaller trailers that were obviously the $599 trailers, but this one had the $599 sticker on it.  I asked the guy about it and he said, yeah that was correct.  I asked if he was sure, and he said yes.&lt;/p&gt;
+
+&lt;p&gt;The same trailer was in another row marked to $1299 so I&amp;#39;m just about 100% sure this thing was mismarked.. I&amp;#39;m not complaining.  Sometimes you win!  I tried to do the right thing and it paid off. &lt;/p&gt;
+
+&lt;p&gt;Not sure how I&amp;#39;m going to afford the engine for the plane yet... if someone wants to fund my plane let me know =)&lt;/p&gt;
+
+&lt;p&gt;Okay back to the grind.  I have been writing some software for my wifes work and it&amp;#39;s taking all my time.  I have put a LOT of time into it so far and I have a long way to go.  &lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Apr 2018 00:00:00 -0400</pubDate>
+        <link>http://www.randomstringofwords.com/site-redesign-and-restlessness/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/site-redesign-and-restlessness/</guid>
+      </item>
+    
+      <item>
         <title>Software Developer Burnout... I suffered it.</title>
         <description>&lt;p&gt;&lt;img src=&#39;/images/2017/burnout.jpg&#39; class=&#39;right scaled&#39; /&gt;&lt;/p&gt;
 
@@ -438,47 +472,6 @@ Secondly, never work for a percentage of a company unless you really believe in 
         <pubDate>Fri, 03 Jan 2014 00:00:00 -0500</pubDate>
         <link>http://www.randomstringofwords.com/i-want-to-soar/</link>
         <guid isPermaLink="true">http://www.randomstringofwords.com/i-want-to-soar/</guid>
-      </item>
-    
-      <item>
-        <title>Hardware Review: Oculus Rift</title>
-        <description>&lt;p&gt;The Oculus Rift is an up and coming virtual reality head-mounted display being developed by Oculus VR, who as of this writing has raised over $90MM US dollars to fund this hardware wet dream.&lt;/p&gt;
-
-&lt;p&gt;For Christmas my business partner and I decided to go ahead and splurge on a couple of the developer kit versions of the OR because we have some development ideas that we want to explore.&lt;/p&gt;
-
-&lt;p&gt;But of course we also wanted them just to play with them and check them out.  Holy crap.  It&amp;#39;s awesome.  Not perfect by any stretch of the meaning, but as developer kits go it&amp;#39;s impressive as hell.  Once the final consumer version comes out, you should get one.&lt;/p&gt;
-
-&lt;p&gt;The developers kit is very nice and extremely professionally produced.  The Rift unit itself seems pretty solid and works well once you get used to it (more on that in a minute).&lt;/p&gt;
-
-&lt;p&gt;What amazes me about it is how good the accelerometers are.  The head tracking system is perfect.  I expected it to be kinda crappy to be honest, or lag a little when you turned your head but it really isn&amp;#39;t.  Accelerometer technology has come a long way and the precision there is excellent.&lt;/p&gt;
-
-&lt;p&gt;The unit itself isn&amp;#39;t heavy and in fact I stopped noticing it after the first 5 minutes.&lt;/p&gt;
-
-&lt;p&gt;The cost of the unit itself is $300 for the developer kit and they are guessing the final version will be between $300 and $400.  I think this is completely reasonable as it&amp;#39;s essentially just another monitor.  How much did you pay for your nicest monitor?&lt;/p&gt;
-
-&lt;p&gt;As for the bad -- this is all I can really think of;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;em&gt;Developer Kit Resolution:&lt;/em&gt;&lt;/em&gt; The developer kit is very very good, but its really low resolution.  The system works by putting a small flat screen (think cellphone) about 3 inches from your eyes and putting two images on that single screen that you look at through lenses.   The picture as you have probably seen is just a fisheye view of whatever the game or software is displaying split in two and slightly offset to give you the left/right eye.  Clever.   But the dev kit has a 1280x800 resolution.  That means its effectively 640x800 per eye.  That&amp;#39;s pretty poor.   The image itself while amazingly responsive and the over all performance of the unit is good, the image looks kind of like an image made with lego blocks a couple feet away.&lt;/p&gt;
-
-&lt;p&gt;The good news is they are working on the Resolution and the final version will be a lot higher.  So for a developer cheap version, this is awesome.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;em&gt;Positional Tracking:&lt;/em&gt;&lt;/em&gt; As I said in the review above the orientation tracking is amazing.  The unit itself has a gyroscope/accelerometer system that makes unit orientation spot on.  I was very happy with this, they did a fantastic job here.  But it has no positional tracking what so ever and likely wont ever have that without another piece of hardware.&lt;/p&gt;
-
-&lt;p&gt;For those familiar with the Track IR piece of hardware it gets around positional tracking by forcing you to put something on your head in order to get position in space, without that I&amp;#39;m not sure how good positional tracking could be.&lt;/p&gt;
-
-&lt;p&gt;But I hesitated to put this here as I dont know that it needs positional tracking.  I imagine there will be some pieces of software that could benefit from it, but for the most part I don&amp;#39;t know that it&amp;#39;s needed.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;em&gt;Motion Sickness:&lt;/em&gt;&lt;/em&gt; I NEVER get motion sick.  Never.  Not at all. .... or at least not until I used the Oculus Rift for 20 minutes.  This says a lot to me.  I know my wife and my best friend get motion sick if you show them a first person shooter for a minute or two.  I don&amp;#39;t.   In fact one of my favorite games of all time was &lt;a href=&quot;http://en.wikipedia.org/wiki/Descent_(video_game)&quot; target=&quot;_blank&quot;&gt;Descent&lt;/a&gt; a true 360 degree first person shooting game.  This is a game that was known for (and eternally banned for) making my buddy nearly projectile vomit. heh  Loved it.&lt;/p&gt;
-
-&lt;p&gt;Anyway, the rift made me feel very queasy.  Stunned me actually.  But after 3 sessions of 20 minutes or so, I was able to play for an hour before it started to hit me.  So it&amp;#39;s clear to me that this is something you just have to get used to.. But be warned.  I know some people that once they get motion sick are down for hours.&lt;/p&gt;
-
-&lt;p&gt;My only other suggestion or wish (aside from the higher resolution thing which is already coming) would be to have a slightly wider field a view.  I want it to wrap around more.&lt;/p&gt;
-
-&lt;p&gt;But seriously those are really minor complaints all things considered =)  If you&amp;#39;re any kind of gamer at all, once the consumer version comes out.. get it.. You&amp;#39;ll be glad you did.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 30 Dec 2013 00:00:00 -0500</pubDate>
-        <link>http://www.randomstringofwords.com/oculus-rift/</link>
-        <guid isPermaLink="true">http://www.randomstringofwords.com/oculus-rift/</guid>
       </item>
     
   </channel>
