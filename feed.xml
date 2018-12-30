@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jason Ellis | My very own personal oubliette on the internet</title>
-    <description>Jason Ellis is a Ruby developer and software engineer, a pilot and tinkerer, and a law enforcement officer.</description>
-    <link>http://www.randomstringofwords.com</link>
-    <atom:link href="http://www.randomstringofwords.com/feed.xml" rel="self" type="application/rss+xml" />
+    <title>Jason Ellis | Freelance Developer</title>
+    <description>Jason Ellis is a Ruby developer, PHP guru, and general software engineer.</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>I want to be rich! So I am willing to take risks..</title>
-        <description>&lt;p&gt;&lt;img src=&#39;/images/2018/rich-chase.png&#39; class=&#39;right scaled&#39; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src='/images/2018/rich-chase.png' class='right scaled' /&gt;&lt;/p&gt;
 
 &lt;p&gt;I got into a debate today with some people about what they liked to term &amp;quot;Wage Slavery&amp;quot;.&lt;/p&gt;
 
@@ -31,13 +31,13 @@
 &lt;p&gt;The biggest risk in life is to take no risk at all, if you&amp;#39;re not courageous enough to try to excel then you need to accept being ordinary.&lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Apr 2018 00:00:00 -0400</pubDate>
-        <link>http://www.randomstringofwords.com/i-want-to-be-rich/</link>
-        <guid isPermaLink="true">http://www.randomstringofwords.com/i-want-to-be-rich/</guid>
+        <link>http://localhost:4000/i-want-to-be-rich/</link>
+        <guid isPermaLink="true">http://localhost:4000/i-want-to-be-rich/</guid>
       </item>
     
       <item>
         <title>Site Redesign and Restlessness</title>
-        <description>&lt;p&gt;&lt;img src=&#39;/images/2018/site-redesign.jpg&#39; class=&#39;right scaled&#39; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src='/images/2018/site-redesign.jpg' class='right scaled' /&gt;&lt;/p&gt;
 
 &lt;p&gt;Yet another vast block of time has gone by.  Life continues apace and I continue to ignore my blog / diary.  I realize now that this blog is nothing more than a modern diary, and not really anything else.  I treat it as such anyway.&lt;/p&gt;
 
@@ -65,13 +65,13 @@ I have been meaning to turn this whole thing into a static JSON site but haven&a
 &lt;p&gt;Okay back to the grind.  I have been writing some software for my wifes work and it&amp;#39;s taking all my time.  I have put a LOT of time into it so far and I have a long way to go.  &lt;/p&gt;
 </description>
         <pubDate>Fri, 20 Apr 2018 00:00:00 -0400</pubDate>
-        <link>http://www.randomstringofwords.com/site-redesign-and-restlessness/</link>
-        <guid isPermaLink="true">http://www.randomstringofwords.com/site-redesign-and-restlessness/</guid>
+        <link>http://localhost:4000/site-redesign-and-restlessness/</link>
+        <guid isPermaLink="true">http://localhost:4000/site-redesign-and-restlessness/</guid>
       </item>
     
       <item>
         <title>Software Developer Burnout... I suffered it.</title>
-        <description>&lt;p&gt;&lt;img src=&#39;/images/2017/burnout.jpg&#39; class=&#39;right scaled&#39; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src='/images/2017/burnout.jpg' class='right scaled' /&gt;&lt;/p&gt;
 
 &lt;p&gt;Note: I wrote this originally in May of 2017.  I never published it because I was so burnt out even the thought of pushing the damn file to the server was too much.  It&amp;#39;s a single command.   It&amp;#39;s January of 2018 now, I&amp;#39;m still here and still burnt.  I&amp;#39;ll talk more to that below.&lt;/p&gt;
 
@@ -104,8 +104,8 @@ I have been meaning to turn this whole thing into a static JSON site but haven&a
 &lt;p&gt;I will be updating my blog again going forward and I&amp;#39;m playing with some othe software projects too again.. so maybe there&amp;#39;s still hope.&lt;/p&gt;
 </description>
         <pubDate>Mon, 15 May 2017 00:00:00 -0400</pubDate>
-        <link>http://www.randomstringofwords.com/developer-burnout/</link>
-        <guid isPermaLink="true">http://www.randomstringofwords.com/developer-burnout/</guid>
+        <link>http://localhost:4000/developer-burnout/</link>
+        <guid isPermaLink="true">http://localhost:4000/developer-burnout/</guid>
       </item>
     
       <item>
@@ -136,13 +136,13 @@ I have been meaning to turn this whole thing into a static JSON site but haven&a
 But not necessarily a full visual redesign, but more of a &amp;quot;bring it up to currency&amp;quot; with regards to be backend deployment software.  It&amp;#39;s been ages since I have updated my Jekyll install and I&amp;#39;m STILL using LESS.  That needs to be rectified.  &lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
-        <link>http://www.randomstringofwords.com/out-of-time/</link>
-        <guid isPermaLink="true">http://www.randomstringofwords.com/out-of-time/</guid>
+        <link>http://localhost:4000/out-of-time/</link>
+        <guid isPermaLink="true">http://localhost:4000/out-of-time/</guid>
       </item>
     
       <item>
         <title>Democratic Socialism</title>
-        <description>&lt;p&gt;&lt;img src=&#39;/images/2016/socialism.png&#39; class=&#39;right scaled&#39; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src='/images/2016/socialism.png' class='right scaled' /&gt;&lt;/p&gt;
 
 &lt;p&gt;It seems like a lot of America&amp;#39;s young people (commonly referred to millennials) love the notion of Socialism.  They color it by saying it&amp;#39;s &amp;quot;Democratic Socialism&amp;quot; (&amp;quot;DS&amp;quot; going forward) which is sorta the same thing and not good -- Bear with me here.  &lt;/p&gt;
 
@@ -170,7 +170,7 @@ But not necessarily a full visual redesign, but more of a &amp;quot;bring it up 
 
 &lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#39;/images/2016/dangers-socialism.png&#39; class=&#39;left&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src='/images/2016/dangers-socialism.png' class='left' /&gt;&lt;/p&gt;
 
 &lt;h3&gt;Dangers of Socialism&lt;/h3&gt;
 
@@ -242,13 +242,13 @@ But not necessarily a full visual redesign, but more of a &amp;quot;bring it up 
 &lt;iframe width=&quot;920&quot; height=&quot;540&quot; src=&quot;https://www.youtube.com/embed/D0Yp1jUtcX8&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Mon, 29 Feb 2016 00:00:00 -0500</pubDate>
-        <link>http://www.randomstringofwords.com/democratic-socialism/</link>
-        <guid isPermaLink="true">http://www.randomstringofwords.com/democratic-socialism/</guid>
+        <link>http://localhost:4000/democratic-socialism/</link>
+        <guid isPermaLink="true">http://localhost:4000/democratic-socialism/</guid>
       </item>
     
       <item>
         <title>Livable Wages and Unreasonable Client Expectations</title>
-        <description>&lt;p&gt;&lt;img src=&#39;/images/2015/08/greed.jpg&#39; class=&#39;right&#39; /&gt; &lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src='/images/2015/08/greed.jpg' class='right' /&gt; &lt;/p&gt;
 
 &lt;p&gt;I don’t work at a fast food restaurant, a pizza delivery joint, or behind the counter at a gas station.  In fact, I don’t work at any job that is minimum wage or there abouts because in my opinion, it’s not a livable wage.  And, to be completely honest, I don’t understand how people manage to live on so little income.&lt;/p&gt;
 
@@ -293,8 +293,8 @@ But not necessarily a full visual redesign, but more of a &amp;quot;bring it up 
 &lt;p&gt;You get what you pay for and people some how refuse to learn that lesson with software.  &lt;/p&gt;
 </description>
         <pubDate>Tue, 18 Aug 2015 00:00:00 -0400</pubDate>
-        <link>http://www.randomstringofwords.com/livable-wages-unreasonable-expectations/</link>
-        <guid isPermaLink="true">http://www.randomstringofwords.com/livable-wages-unreasonable-expectations/</guid>
+        <link>http://localhost:4000/livable-wages-unreasonable-expectations/</link>
+        <guid isPermaLink="true">http://localhost:4000/livable-wages-unreasonable-expectations/</guid>
       </item>
     
       <item>
@@ -318,13 +318,161 @@ But not necessarily a full visual redesign, but more of a &amp;quot;bring it up 
 &lt;p&gt;Also, with this new addition to the site I have implemented &lt;a href=&quot;http://disqus.com&quot;&gt;Disqus&lt;/a&gt; comments instead of the old facebook comments which were a pain and not very good.&lt;/p&gt;
 </description>
         <pubDate>Sat, 07 Feb 2015 00:00:00 -0500</pubDate>
-        <link>http://www.randomstringofwords.com/modifying-jekyll/</link>
-        <guid isPermaLink="true">http://www.randomstringofwords.com/modifying-jekyll/</guid>
+        <link>http://localhost:4000/modifying-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/modifying-jekyll/</guid>
+      </item>
+    
+      <item>
+        <title>Van's Aircraft RV-10: A new beginning!</title>
+        <description>&lt;p&gt;If you have followed my blog or youtube channel at all then you know I&amp;#39;ve been taking flight lessons.  I have been really enjoying it and can easily see myself doing a lot of flying.  It&amp;#39;s an amazing sense of freedom and awesome way to travel.&lt;/p&gt;
+
+&lt;h4&gt;Sense of freedom&lt;/h4&gt;
+
+&lt;p&gt;The sense of freedom is the hardest thing to explain to people who simply don&amp;#39;t get it -- but think of it this way;&lt;/p&gt;
+
+&lt;p&gt;When you were a little kid you likely weren&amp;#39;t allowed to leave the immediate area of your house or not go farther than the drive way.&lt;/p&gt;
+
+&lt;p&gt;When you got old enough, you got your first little trike or big-wheel and your range suddenly became exponentially larger!  You could go all the way to the end of the block!&lt;/p&gt;
+
+&lt;p&gt;When you got older still and you got your first bicycle, suddenly you could go to your friends house or the local community pool or something..  Another exponential jump.&lt;/p&gt;
+
+&lt;p&gt;When you got to 16 or so, you got your first car!  Suddenly your sense of freedom just expanded another exponential jump and you could drive long distances, though you likely didn&amp;#39;t.&lt;/p&gt;
+
+&lt;p&gt;As a grown adult, you know you can drive anywhere you want but most never do just due to the time involved.&lt;/p&gt;
+
+&lt;p&gt;Most people never experience the next level of exponential freedom, flying their own aircraft.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m so very ready for that next level of freedom!  More over, I have found that once you start flying you very quickly start dreaming about owning your own aircraft that can take you all the places you want to go and/or perform &amp;quot;the mission.&amp;quot;&lt;/p&gt;
+
+&lt;h4&gt;Defining the mission was key&lt;/h4&gt;
+
+&lt;p&gt;the wife and I sat down and discussed &lt;em&gt;(read: she told me)&lt;/em&gt; what the mission should be;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt; I had to have a plane that could take me back and forth to Texas from north Georgia.  (~800nm)&lt;/li&gt;
+&lt;li&gt; I wanted to be able to make this trip in less than 6 hours.&lt;/li&gt;
+&lt;li&gt; I wanted a plane that could take myself, my wife, two small dogs and some light luggage.&lt;/li&gt;
+&lt;li&gt; I need to be comfortable sitting in it.&lt;/li&gt;
+&lt;li&gt; I had to actually be able to afford said aircraft.&lt;/li&gt;
+&lt;li&gt; And finally, I&amp;#39;m going to be a low time pilot.  I need a plane that wont kill me.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4&gt;Long distance&lt;/h4&gt;
+
+&lt;p&gt;My mission was to be able to fly back and forth to Texas from my home in north Georgia -- not a small mission to be sure.  My company, her family, a lot of my friends..etc. are all in Texas.  We aren&amp;#39;t.  Getting back and forth right now means a ticket on Delta.  Feh.  &lt;/p&gt;
+
+&lt;h4&gt;I wanted to be able to make this trip in a reasonable amount of time;&lt;/h4&gt;
+
+&lt;p&gt;It takes me 16 hours to drive to Texas from my home in the mountains of north Georgia.  Well that&amp;#39;s just too long.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, we are so far away from a major airport it takes me anywhere between 10 and 12 hours to fly commercially there on Delta. (3 hour drive to Atlanta. At least an hour and a half to get in to the airport from the parking lot, get checked in, wait in line for mandatory fondle by the TSA, and get to the terminal, hourish to wait for plane, to board plane to wait for push back..  3 hour flight.. 30min to an hour to get to get off the plane, get to the baggage area, get bags, get to rental counter, get car..etc..  This all assumes it&amp;#39;s a straight flight, it&amp;#39;s usually not.)  The longest I have had it take was 14 hours, the absolute shortest was just over 6.&lt;/p&gt;
+
+&lt;p&gt;The average amount of time seemed to pan out at around 10.  I wanted to make that flight in under 6.&lt;/p&gt;
+
+&lt;h4&gt;A four place plane for wife and &amp;quot;kids&amp;quot;&lt;/h4&gt;
+
+&lt;p&gt;The majority of the time, it will likely be just me flying in the plane.  But my wife made the point that if I&amp;#39;m going to get an aircraft, an expensive luxury item, I should get one that will do all the things.  And one of those things was for us to be able to travel around the country as a couple.  And that means, bringing the &amp;quot;kids.&amp;quot;  The kids in this case are our two little dogs.  That with some light luggage.&lt;/p&gt;
+
+&lt;h4&gt;Comfort!&lt;/h4&gt;
+
+&lt;p&gt;I&amp;#39;m both tall, and wide.  I need a plane I can sit in comfortably and to be completely honest, most aircraft I have been in are absolutely not comfortable at all.  My flight instructors Cessna 172 is a workhorse, and will get ya from point A to point B (slowly) but not in anything remotely approaching comfort.  It&amp;#39;s just too narrow.  I have broad shoulders and I really don&amp;#39;t like being jammed up against that door, or my flight instructor.&lt;/p&gt;
+
+&lt;p&gt;I want a plane that can seat me and someone next to me without being physically pressed into the left door.&lt;/p&gt;
+
+&lt;h4&gt;Price&lt;/h4&gt;
+
+&lt;p&gt;Yeah, this one was tough.  I have pondered it quite a bit and struggled with how to afford said aircraft.&lt;/p&gt;
+
+&lt;p&gt;The more I looked the more I realized that this aircraft would have to be extremely beefy and large.  That mean, expensive.  Usually, very expensive. I needed to have an aircraft I could actually afford to own and fly.&lt;/p&gt;
+
+&lt;h4&gt;Experience&lt;/h4&gt;
+
+&lt;p&gt;Since I&amp;#39;m still a student pilot as of my writing this, I needed a plane that would be some what docile in the air and not be scary to my wife (or me).&lt;/p&gt;
+
+&lt;h4&gt;Competitors&lt;/h4&gt;
+
+&lt;p&gt;I looked at all manner of aircraft;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Cessna High Wings &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;150 - Scootie puff jr. of the sky.  No thanks.&lt;/li&gt;
+&lt;li&gt;152 - Way too small, and again slow.&lt;/li&gt;
+&lt;li&gt;172 - Small, not comfortable, slow&lt;/li&gt;
+&lt;li&gt;177 - Nice, but slow and with retracts insurance would likely be a problem for a low time pilot like me&lt;/li&gt;
+&lt;li&gt;182 - Bigger, better, still kinda slow though with a higher fuel consumption&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cessna Low Wings&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Corvalis - VERY nice, way too much plane for me.  Too expensive new or used.  This one would perform the mission perfectly.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cirrus&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SR20 - Very nice aircraft but too expensive new, and even a used one will set you back a fair amount.&lt;/li&gt;
+&lt;li&gt;SR22 - VERY nice, probably too much plane for me.  Again too expensive new or used.  This would do the trick though.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Pipers &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;All of the pipers I sat in were older and too cramped in side.&lt;/li&gt;
+&lt;li&gt;The larger newer pipers are too expensive&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I can go on..  Most of the planes had something that just didn&amp;#39;t work one way or another.  Too small.. Too slow.. Too old.. Too expensive to purchase or maintain..etc.&lt;/p&gt;
+
+&lt;h4&gt;Enter kit planes&lt;/h4&gt;
+
+&lt;p&gt;At some point during this process I came to the realization that buying an aircraft that could meet my #1 and #2 requirements (which were the most important ones to me) meant way too much money.    &lt;/p&gt;
+
+&lt;p&gt;That&amp;#39;s when I started looking hard at home built aircraft and found the Velocity aircraft.  What a sexy machine.  I know nothing about fiberglass though and the more I looked at the Velocity line of aircraft there were things about them I didn&amp;#39;t care for either.  &lt;/p&gt;
+
+&lt;p&gt;I decided to look elsewhere.. &lt;/p&gt;
+
+&lt;h4&gt;Van&amp;#39;s Aircraft&lt;/h4&gt;
+
+&lt;p&gt;Eventually I landed on the Van&amp;#39;s Aircraft page and started looking hard at one of their kit planes.&lt;/p&gt;
+
+&lt;p&gt;At this point, I had decided to eschew the 4 place requirement entirely since the costs of all these airplanes were pretty high and build time was a factor.  Focusing on the other 5 requirements, I decided on either the -9 or the new -14.&lt;/p&gt;
+
+&lt;p&gt;Enter my wife. &lt;/p&gt;
+
+&lt;p&gt;She plead her case and basically told me that if I&amp;#39;m going to do this.. do it right! &lt;/p&gt;
+
+&lt;p&gt;Her exact words were something to the effect of;  &lt;em&gt;&amp;quot;If you&amp;#39;re going to spend a lot of money, buy what will do everything we want.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4&gt;That&amp;#39;s my girl!&lt;/h4&gt;
+
+&lt;p&gt;The -10 was the obvious choice.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt; It can easily make the 800nm trip in a single bound.  Really your only limit is your bladder.&lt;/li&gt;
+&lt;li&gt; It can make the trip in about 5 hours.&lt;/li&gt;
+&lt;li&gt; It can easily hold myself, my wife, the two dogs and luggage.&lt;/li&gt;
+&lt;li&gt; I have sat in two of them now, both very comfortable.&lt;/li&gt;
+&lt;li&gt; I can totally afford one.&lt;/li&gt;
+&lt;li&gt; Everyone I know that has flown one says they are a dream to fly.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;So there ya go!  Decision made!  Then after a month of yammering away about to my wife she made me shut up and buy the first piece. &lt;/p&gt;
+
+&lt;p&gt;This is going to be an epic journey to say the least.  &lt;/p&gt;
+
+&lt;p&gt;These pages document the entire process, and my intent is to also provide youtube documentary style instructional videos for others to view and maybe learn something from.  Or if nothing else to document the process.&lt;/p&gt;
+
+&lt;p&gt;Thanks&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Jan 2015 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/a-new-beginning/</link>
+        <guid isPermaLink="true">http://localhost:4000/a-new-beginning/</guid>
       </item>
     
       <item>
         <title>Sometimes you just have to fire a client</title>
-        <description>&lt;p&gt;&lt;img src=&#39;/images/2015/01/fired-image-web.jpg&#39; class=&#39;right&#39; /&gt; &lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src='/images/2015/01/fired-image-web.jpg' class='right' /&gt; &lt;/p&gt;
 
 &lt;p&gt;When you&amp;#39;ve started your own company, especially in the beginning, you don&amp;#39;t really think of clients as something that are &amp;quot;fireable&amp;quot;.  In fact, in the very beginning, you&amp;#39;re willing to work with any client that comes your way, for any reason - you&amp;#39;re not picky.  &lt;/p&gt;
 
@@ -400,8 +548,8 @@ Secondly, never work for a percentage of a company unless you really believe in 
 &lt;p&gt;Don&amp;#39;t be afraid to fire a client.  It&amp;#39;s a very liberating and can be a cathartic exercise.  Sometimes it just needs to happen and in my experience, it&amp;#39;s never been a bad thing.  You have a skill.  Firing a client wont remove that skill.  You&amp;#39;ll be okay. &lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Jan 2015 00:00:00 -0500</pubDate>
-        <link>http://www.randomstringofwords.com/sometimes-you-just-have-to-fire-a-client/</link>
-        <guid isPermaLink="true">http://www.randomstringofwords.com/sometimes-you-just-have-to-fire-a-client/</guid>
+        <link>http://localhost:4000/sometimes-you-just-have-to-fire-a-client/</link>
+        <guid isPermaLink="true">http://localhost:4000/sometimes-you-just-have-to-fire-a-client/</guid>
       </item>
     
       <item>
@@ -413,59 +561,8 @@ Secondly, never work for a percentage of a company unless you really believe in 
 &lt;p&gt;You can view the videos on my YouTube Channel here;  &lt;a href=&quot;https://www.youtube.com/user/vihravendrel/videos&quot;&gt;https://www.youtube.com/user/vihravendrel/videos&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 Sep 2014 00:00:00 -0400</pubDate>
-        <link>http://www.randomstringofwords.com/learning-to-fly/</link>
-        <guid isPermaLink="true">http://www.randomstringofwords.com/learning-to-fly/</guid>
-      </item>
-    
-      <item>
-        <title>Coins: Pyramid or Poniz - Both? Neither?</title>
-        <description>&lt;p&gt;I have been pondering this at length -- Is bitcoin (or any of the alt-coins) a ponzi or pyramid scheme?&lt;/p&gt;
-
-&lt;p&gt;I personally like to look at coins as an investment, but many people decry that coins in any form are a ponzi or pyramid scheme.  A waste of money, time and effort and will only serve to give criminals a way to transfer money back and forth in secret.&lt;/p&gt;
-
-&lt;p&gt;Well.. Okay it&amp;#39;s hard to argue with that last one as the whole point of coins is to be a currency free from government oversight, so yes criminals will likely use it.  But if there is value to them and the current state of bitcoin implies there is, it&amp;#39;s certainly not a waste of time and money.  But I get ahead of myself.&lt;/p&gt;
-
-&lt;p&gt;A lot of people are saying that coins are simply a pyramid scheme or a pump and dump ponzi.  I agree and disagree.&lt;/p&gt;
-
-&lt;p&gt;Firstly, All of the coins, no matter which you decide to go with, favor early adopters which is one of the typical hallmarks of such schemes but so does any investment really.&lt;/p&gt;
-
-&lt;p&gt;Is it a pyramid?  I would agree that all of the crypto-currencies are way more volatile than most mainstream investments, but I don&amp;#39;t think its quite a pyramid.&lt;/p&gt;
-
-&lt;p&gt;Pyramids or any multilevel marketing scheme as I understand them work such that everyone at the top is a direct beneficiary to the new people coming on board.  As each new level is created, the rich at top get richer on the backs of the newbies, and typically there is a point at which all those people at top bail leaving the rest with nothing.&lt;/p&gt;
-
-&lt;p&gt;That&amp;#39;s not whats happening here. The fact that I&amp;#39;m mining coins has zero effect on the people that came to it before me and in fact the opposite is true.  By my mining coins, I&amp;#39;m actually devaluing the coins already mined..&lt;/p&gt;
-
-&lt;p&gt;Coins by their very nature are a 100% deflationary currency.  That means that the more of it that is mined the less value the amount you already have has.  In theory each coin has a finite amount but each coin handles that upper limit differently and I know some coins have no upper limit.  &lt;/p&gt;
-
-&lt;p&gt;To give an example bitcoins have a max of 21 million coins, there can never be more than that.  As more coins are mined the value of the coins you have go down due to supply and demand, and in the case of those coins with no upper limit your coins could become worthless over time just due to the flood of coins on the market, though that would take a long time due to the difficulty increases imposed on mining over time.&lt;/p&gt;
-
-&lt;p&gt;In many ways, coins are more like the stock market than a pyramid, if I buy coins (which I have ZERO intention of doing btw) I&amp;#39;m increasing the value of the coin, just like the stock market.  Google stock was $85 back when it was new, now its $1220.  It&amp;#39;s worth that much because people valued the company enough to buy the stock making the stock hard to get, causing the stock value to go up.. supply and demand 101.&lt;/p&gt;
-
-&lt;p&gt;With coins however there is this added injection of units through mining where as with stock typically the only way for more stock to come into being is through stock splits or secondary offerings.&lt;/p&gt;
-
-&lt;p&gt;The primary difference is in the backing and I see the sticking point that a lot of poeple have trouble with;  Most argue that google stock is backed up by a company, where as coins are backed up by the hopes, dreams, and wishes of the neckbeards and fedoras who think they are the smartest people in the room. And not much else.&lt;/p&gt;
-
-&lt;p&gt;They have no intrinsic value unlike pelts, skins, beads and shells of yesteryear or the modern currencies backed up by whole nations. They are valuable entirely because people say they are. &lt;/p&gt;
-
-&lt;p&gt;The question is, is that enough?  I dunno.  I&amp;#39;m skeptical.  I think it&amp;#39;s likely not over the long haul, but I have been wrong before.&lt;/p&gt;
-
-&lt;p&gt;If you read some of the manifesto&amp;#39;s around about the various alt-coins I truly believe that the intent is good and righteous.  But we are still talking about the mark 1 human being and as such people will find a way to abuse and seek personal gain just out of pure greed.&lt;/p&gt;
-
-&lt;p&gt;And that&amp;#39;s the issue.  That&amp;#39;s where the pump and dump ponzi aspect rears it&amp;#39;s ugly head.&lt;/p&gt;
-
-&lt;p&gt;This is a currency that lends it self to being abused easily because it&amp;#39;s entirely computer based and a complete mystery to most people. You&amp;#39;re not paying any of the original investors like a ponzi or pyramid, and yes your pie is getting bigger at the same rate as theirs if you&amp;#39;re mining but the potential for abuse and misuse is massive.&lt;/p&gt;
-
-&lt;p&gt;The stellar lack of understanding lends it self to criminal behavior; In many ways I liken it to the stock market, the rich who are in the know will invest wisely and make a lot of money, where as the people who don&amp;#39;t know will get bilked out of their hard earned cash simply because they don&amp;#39;t know what to do and what not to do.  And unlike the stock market, there is a complete lack of government oversight and regulations and a lack of physical assets -- not even paper in the case of some stock.&lt;/p&gt;
-
-&lt;p&gt;This is why I do believe it&amp;#39;s a ponzi on some levels, or rather it lends itself to being a ponzi because people can use it as a mechanism to lure the unwary and make personal gains from other peoples losses.  It is not a ponzi in and of itself, but it can easily be used as one by even the youngest hipster script kiddie.  &lt;/p&gt;
-
-&lt;p&gt;In many ways the whole thing reminds me of the early US when every state, province, town and bank had it&amp;#39;s own currency and they were struggling to figure it out.  The difference being, unlike those early currencies there is absolutely no safety net.  No real hard &amp;quot;thing&amp;quot; to back up the value of the various currencies.&lt;/p&gt;
-
-&lt;p&gt;It&amp;#39;s an interesting time.  And I think so long as you mine without investing any really money in it, no loss..  My computer was on crunching numbers anyway for Seti or World Community Grid..  Really they are the ones losing out.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 10 Mar 2014 00:00:00 -0400</pubDate>
-        <link>http://www.randomstringofwords.com/coins-pyramid-ponzi-both-neither/</link>
-        <guid isPermaLink="true">http://www.randomstringofwords.com/coins-pyramid-ponzi-both-neither/</guid>
+        <link>http://localhost:4000/learning-to-fly/</link>
+        <guid isPermaLink="true">http://localhost:4000/learning-to-fly/</guid>
       </item>
     
   </channel>
