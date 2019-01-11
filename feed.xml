@@ -3,252 +3,315 @@
   <channel>
     <title>Jason Ellis | Freelance Developer</title>
     <description>Jason Ellis is a Ruby developer, PHP guru, and general software engineer.</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://0.0.0.0:4000</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Fake News and Alternative Facts</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/2019/media_bias.jpg&quot; alt=&quot;Media Bias&quot; class=&quot;right scaled&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I had a conversation with someone earlier today who only got their news from only one source. A source that is fairly biased by all standards and who shall remain unnamed.&lt;/p&gt;
+
+&lt;p&gt;I explained to the individual that I thought they were doing themselves and the people they were talking to (and about) an incredible disservice by not listening to all sides as he wasn’t getting all the information, at which point he scoffed at me and mentioned that I was referring to “fake news” and “alternative facts” in an attempt to shut down my conversation and paint me as a bad person. (something I’ll go into more detail about another time)&lt;/p&gt;
+
+&lt;p&gt;To that end, I would like to speak briefly about the rise of what people are calling “fake news” or “alternative facts”. I believe it’s the same thing and it’s a tool being used by both the left and the right.&lt;/p&gt;
+
+&lt;p&gt;Of course, mainstream media don’t want you know that, in fact they’ve gone out of their way to mock and even look down upon anybody that uses the term “fake news” in reference to one of their stories or refutes a competitors story by saying they must have use some sort of “alternative fact” while tittering behind their hand.  Alternative facts is a much maligned term that causes no small amount of mocking and laughter but actually has merit.   Let me explain…&lt;/p&gt;
+
+&lt;p&gt;The mainstream media, whether you’re on the left or the right, are in business to stay in business and make money.  As such they are going to say and do whatever they have to in order to get those subscriptions, clicks, views, retweets, likes and shares that they need in order to sell advertising space to their clients.  (It’s important that you realize, we the readers/viewers are not the clients; we are the product. The clients are the advertisers. They are the ones paying, not us.)&lt;/p&gt;
+
+&lt;p&gt;This quite often means that they’re gonna take a story and spin it however they need to in order to get more views.  It doesn’t necessarily mean that they are lying. It just means that they are taking the facts as they are and present their narrative by either omitting or massaging the information in such a way as to present the narrative that they need presented for their specific viewers and the political leanings there of.  The bias is real and both sides do this.&lt;/p&gt;
+
+&lt;p&gt;But what really boggles the mind of most people (to include the person I was speaking to earlier today) is that it is entirely possible for the left and the right to take the exact same set of facts and present 2 completely different competing stories that both support their individual biased narratives. It’s actually quite common and done all the time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In the early 1950s nations got together to have one of the most important horse races to date.  The race was run, results tallied and at the end of the race all of the nations involved reported to their citizenry the outcome of the race.&lt;/p&gt;
+
+&lt;p&gt;The Russian newspapers 100% accurately reported that their horse did really well coming in second place and that the American horse came in second to last.&lt;/p&gt;
+
+&lt;p&gt;The American newspapers 100% accurately reported that the American horse came in first and the Russian horse came in at the very end, dead last.&lt;/p&gt;
+
+&lt;p&gt;The statements are both completely true and if you had only read one of those newspapers you probably would’ve had no idea that it was only a 2 horse race.  A fact that both newspapers conveniently omitted in order to give more gravitas to their various narratives.&lt;/p&gt;
+
+&lt;p&gt;Now with that story in mind take a moment to reconsider “fake news” and “alternative facts”. 
+I’m hoping at this point suddenly those terms are taking on a new meaning. Just because somebody screams fake news or alternative facts doesn’t necessarily mean that the media outlet is making up a story completely but rather may be there massaging the narrative in order to fit their political leanings.&lt;/p&gt;
+
+&lt;p&gt;There’s just about always some portion of reality and truth in every news story no matter which side but it’s just about how they paint the picture. The narrative is all powerful and if you are only listening to one sides story then you are only getting half the information.&lt;/p&gt;
+
+&lt;p&gt;This is the state of our country right now. We have millions of people who only listen to one sides narrative and think they have the whole story.&lt;/p&gt;
+
+&lt;p&gt;It’s polarizing and dividing us and breaking the country. We as individuals must stop doing this. It is supremely important that we seek out the truth and that sometimes means we have to go and listen to news sources that we don’t necessarily agree with on a political level.&lt;/p&gt;
+
+&lt;p&gt;Listen to both sides.  It might make you uncomfortable, or even angry but at this point our country is depending on it.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 08 Jan 2019 00:00:00 -0500</pubDate>
+        <link>http://0.0.0.0:4000/fake-news-and-alternative-facts/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/fake-news-and-alternative-facts/</guid>
+      </item>
     
       <item>
         <title>I want to be rich! So I am willing to take risks..</title>
-        <description>&lt;p&gt;&lt;img src='/images/2018/rich-chase.png' class='right scaled' /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/images/2018/rich-chase.png&quot; alt=&quot;Chasing Money&quot; class=&quot;right scaled&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I got into a debate today with some people about what they liked to term &amp;quot;Wage Slavery&amp;quot;.&lt;/p&gt;
+&lt;p&gt;I got into a debate today with some people about what they liked to term “Wage Slavery”.&lt;/p&gt;
 
-&lt;p&gt;The basic premise was, in 1990 the wealthy were getting more wealthy while they &amp;quot;slaved&amp;quot; away as a normal wage earner.   And in 2018, the gap between the two extremes is way larger.  The rich are massively richer, where as the wage earners are at the same place.   &lt;/p&gt;
+&lt;p&gt;The basic premise was, in 1990 the wealthy were getting more wealthy while they “slaved” away as a normal wage earner.   And in 2018, the gap between the two extremes is way larger.  The rich are massively richer, where as the wage earners are at the same place.&lt;/p&gt;
 
 &lt;p&gt;As if to say we needed to do something to help those poor people who do all the work!  Of course, all the while their talking positions and language was laced with self-aggrandizing pity and self-interest for the need to give the poor (that they self identified as) free shit! (read: take money away from the greedy rich whom obviously dont deserve it.)&lt;/p&gt;
 
-&lt;p&gt;To which I said;  Or, you could just do what the &amp;quot;rich&amp;quot; have done and stop working for &amp;quot;the man&amp;quot; and take some risks.  Start a business!  TRY!  Put yourself out there!  How do you think the rich became rich in the first place?!  Risk takers get rich and deserve the lion share of the profits because of said risk, the wage earner will never be rich.&lt;/p&gt;
+&lt;p&gt;To which I said;  Or, you could just do what the “rich” have done and stop working for “the man” and take some risks.  Start a business!  TRY!  Put yourself out there!  How do you think the rich became rich in the first place?!  Risk takers get rich and deserve the lion share of the profits because of said risk, the wage earner will never be rich.&lt;/p&gt;
 
-&lt;p&gt;Holy shit.. You&amp;#39;d think I pissed in their cereal.  All of them suddenly had the look on their face like they tasted butt.. Uh oh.. I just became public enemy number one by upsetting the proletariat and not towing the &amp;quot;give me free shit&amp;quot; line.&lt;/p&gt;
+&lt;p&gt;Holy shit.. You’d think I pissed in their cereal.  All of them suddenly had the look on their face like they tasted butt.. Uh oh.. I just became public enemy number one by upsetting the proletariat and not towing the “give me free shit” line.&lt;/p&gt;
 
-&lt;p&gt;I love how &amp;quot;the rich&amp;quot; are always defined as some nebulous group of greedy people at the top that like to keep people under their boot and horde all the money.  And I routinely get ostracized as a heretical pariah or at the least persona non grata when I suggest that, No, they are people just like you and I that actually took a risk!  &lt;/p&gt;
+&lt;p&gt;I love how “the rich” are always defined as some nebulous group of greedy people at the top that like to keep people under their boot and horde all the money.  And I routinely get ostracized as a heretical pariah or at the least persona non grata when I suggest that, No, they are people just like you and I that actually took a risk!&lt;/p&gt;
 
-&lt;p&gt;Statistically I have no idea if the gap is that much greater now than it was in 1990..  But if you expect to keep doing the working day grind and suddenly get rich then you&amp;#39;re in for a shock.  More over, there&amp;#39;s this radical notion that people who earned money by taking the risk to get it, shouldn&amp;#39;t be allowed to keep what they earned and some how they are being greedy for wanting to.. uh.. wut?&lt;/p&gt;
+&lt;p&gt;Statistically I have no idea if the gap is that much greater now than it was in 1990..  But if you expect to keep doing the working day grind and suddenly get rich then you’re in for a shock.  More over, there’s this radical notion that people who earned money by taking the risk to get it, shouldn’t be allowed to keep what they earned and some how they are being greedy for wanting to.. uh.. wut?&lt;/p&gt;
 
-&lt;p&gt;I just don&amp;#39;t get it.. &lt;/p&gt;
+&lt;p&gt;I just don’t get it..&lt;/p&gt;
 
-&lt;p&gt;If you&amp;#39;re not willing to try, if you&amp;#39;re not willing to risk.. then you don&amp;#39;t deserve the reward.  You don&amp;#39;t get to bemoan your lot in life if you aren&amp;#39;t willing to do anything to change it.   How is this even a discussion?!  &lt;/p&gt;
+&lt;p&gt;If you’re not willing to try, if you’re not willing to risk.. then you don’t deserve the reward.  You don’t get to bemoan your lot in life if you aren’t willing to do anything to change it.   How is this even a discussion?!&lt;/p&gt;
 
-&lt;p&gt;The biggest risk in life is to take no risk at all, if you&amp;#39;re not courageous enough to try to excel then you need to accept being ordinary.&lt;/p&gt;
+&lt;p&gt;The biggest risk in life is to take no risk at all, if you’re not courageous enough to try to excel then you need to accept being ordinary.&lt;/p&gt;
+
 </description>
         <pubDate>Wed, 25 Apr 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/i-want-to-be-rich/</link>
-        <guid isPermaLink="true">http://localhost:4000/i-want-to-be-rich/</guid>
+        <link>http://0.0.0.0:4000/i-want-to-be-rich/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/i-want-to-be-rich/</guid>
       </item>
     
       <item>
         <title>Site Redesign and Restlessness</title>
-        <description>&lt;p&gt;&lt;img src='/images/2018/site-redesign.jpg' class='right scaled' /&gt;&lt;/p&gt;
+        <description>&lt;h3 id=&quot;update-january-2019&quot;&gt;Update January 2019&lt;/h3&gt;
+
+&lt;p&gt;Okay I have completely coopted this older post in order to talk about the changes I just made.&lt;/p&gt;
+
+&lt;p&gt;I have been using Jekyll for a while for my blog instead of wordpress or some other service out there simply because I got tired of it being hacked and messed with.  Plus Jekyll + Github hosting makes perfect sense and I love it.&lt;/p&gt;
+
+&lt;p&gt;And now I have refactored the jekyll template I was using to this new one.  This is a template of my own design and it seems to work pretty well. 
+My plan is to make all this stuff available for download so that others can use them too.&lt;/p&gt;
+
+&lt;p&gt;There are a couple changes I want to make already.  Specifically I want the long front page lists to be dynamically loaded as you scroll down instead of showing everything all at once.  That is in the works but I haven’t gotten it correct yet.  Dynamic loading of a static site is an interesting proposition and I have to ponder the best way to move forward.&lt;/p&gt;
+
+&lt;p&gt;Now whats interesting is that due to how this new site displays, in a tiles, I can update older posts and they are still on the front page.. like this one!&lt;/p&gt;
+
+&lt;p&gt;I have turned off comments for the time being.. Sorry for all the commenters out there.. but I’m starting to see some bloat from discord and I don’t like that.  I may just do without comments going forward.&lt;/p&gt;
+
+&lt;p&gt;I need to go through every old post and update the way I am calling images to use the real new and better markdown way.  Inline html is BAD and I shouldn’t ever have to do it.  But sometimes I do.. so that’s a thing to come.&lt;/p&gt;
+
+&lt;h3 id=&quot;originally-published-post&quot;&gt;Originally Published Post&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/site-redesign.jpg&quot; alt=&quot;Site Redesign&quot; class=&quot;right scaled&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Yet another vast block of time has gone by.  Life continues apace and I continue to ignore my blog / diary.  I realize now that this blog is nothing more than a modern diary, and not really anything else.  I treat it as such anyway.&lt;/p&gt;
 
-&lt;p&gt;I really want to do so many things here though.  Back in the day I made these really cool and clever animated sites and I loved it but I got away with that and have been boring ever since.  I still want to do those things.. I liked doing all that 3D work and enjoyed making those cool sites but wow the time it took was pretty vast and now that I&amp;#39;m older I have so many other things I could be doing haha. &lt;/p&gt;
+&lt;p&gt;I really want to do so many things here though.  Back in the day I made these really cool and clever animated sites and I loved it but I got away with that and have been boring ever since.  I still want to do those things.. I liked doing all that 3D work and enjoyed making those cool sites but wow the time it took was pretty vast and now that I’m older I have so many other things I could be doing haha.&lt;/p&gt;
 
-&lt;p&gt;Having said that,  I get this creative restlessness that makes me want to do something... ANYTHING! but then I realize I have zero creativity and am not able to come up with anything and it eats at me..  There are days that I&amp;#39;m pretty unpleasant to be around simply because I have this ball of angst in the pit of my stomach because I feel like I need to create.. and can&amp;#39;t.    I have to settle for doing something less useful and less creative just to get something done.  Like, writing an entry.. or fixing a link or updating a footer ..etc.. &lt;/p&gt;
+&lt;p&gt;Having said that,  I get this creative restlessness that makes me want to do something… ANYTHING! but then I realize I have zero creativity and am not able to come up with anything and it eats at me..  There are days that I’m pretty unpleasant to be around simply because I have this ball of angst in the pit of my stomach because I feel like I need to create.. and can’t.    I have to settle for doing something less useful and less creative just to get something done.  Like, writing an entry.. or fixing a link or updating a footer ..etc..&lt;/p&gt;
 
-&lt;p&gt;Even then I screw things up.  Like the pagination on my blog is broken.  If you go to the end there are several &amp;quot;pages&amp;quot; that are empty.. bleh.
-I have been meaning to turn this whole thing into a static JSON site but haven&amp;#39;t gotten around to it.  Again, no time, no creative juices, too much other shit going on.  I will fix it eventually.&lt;/p&gt;
+&lt;p&gt;Even then I screw things up.  Like the pagination on my blog is broken.  If you go to the end there are several “pages” that are empty.. bleh.
+I have been meaning to turn this whole thing into a static JSON site but haven’t gotten around to it.  Again, no time, no creative juices, too much other shit going on.  I will fix it eventually.&lt;/p&gt;
 
 &lt;p&gt;I tried ot update to the latest version of Jekyll and .. wow.. Broke the world!  Reverted that until I can figure out why literally EVERYTHING is broken.&lt;/p&gt;
 
 &lt;p&gt;I really like the idea of making the entire site work like a windows desktop that would allow me to plant easter eggs and games.. etc.. I still want to make a game.. SO MUCH WANT TO MAKE A GAME!&lt;/p&gt;
 
-&lt;p&gt;Hell I even want to recreate Zork or Adventure or other text games in the site just for funzies.  I thought about trying to make a static blog / json M.U.D. just to see if I could.   I thought about it long and hard and I actually think I could pull it off with sockets and clever JSON design.  Maybe one day.  Maybe it&amp;#39;s here already and you just haven&amp;#39;t figured out how to lauch it yet. &lt;/p&gt;
+&lt;p&gt;Hell I even want to recreate Zork or Adventure or other text games in the site just for funzies.  I thought about trying to make a static blog / json M.U.D. just to see if I could.   I thought about it long and hard and I actually think I could pull it off with sockets and clever JSON design.  Maybe one day.  Maybe it’s here already and you just haven’t figured out how to lauch it yet.&lt;/p&gt;
 
-&lt;p&gt;My plane continues going and I recently ordered the fuselage so that&amp;#39;s cool.  I get to build more and more!  yay!  plus it&amp;#39;s cool having folks watch me.  I dunno why that keeps me motivated but it does.   &lt;/p&gt;
+&lt;p&gt;My plane continues going and I recently ordered the fuselage so that’s cool.  I get to build more and more!  yay!  plus it’s cool having folks watch me.  I dunno why that keeps me motivated but it does.&lt;/p&gt;
 
 &lt;p&gt;I got a really nice trailer for $600!  Super excited about that.  I needed a way to transport things now that I have a jeep instead of a truck and getting a trailer made sense.  But the trailer I wanted was over a thousand dollars.  In fact, it was listed Lowes website for $1499.   I went to lowes to look at it and it was on sale.. for $599.   It was clearly mismarked, and in a line of other smaller trailers that were obviously the $599 trailers, but this one had the $599 sticker on it.  I asked the guy about it and he said, yeah that was correct.  I asked if he was sure, and he said yes.&lt;/p&gt;
 
-&lt;p&gt;The same trailer was in another row marked to $1299 so I&amp;#39;m just about 100% sure this thing was mismarked.. I&amp;#39;m not complaining.  Sometimes you win!  I tried to do the right thing and it paid off. &lt;/p&gt;
+&lt;p&gt;The same trailer was in another row marked to $1299 so I’m just about 100% sure this thing was mismarked.. I’m not complaining.  Sometimes you win!  I tried to do the right thing and it paid off.&lt;/p&gt;
 
-&lt;p&gt;Not sure how I&amp;#39;m going to afford the engine for the plane yet... if someone wants to fund my plane let me know =)&lt;/p&gt;
+&lt;p&gt;Not sure how I’m going to afford the engine for the plane yet… if someone wants to fund my plane let me know =)&lt;/p&gt;
 
-&lt;p&gt;Okay back to the grind.  I have been writing some software for my wifes work and it&amp;#39;s taking all my time.  I have put a LOT of time into it so far and I have a long way to go.  &lt;/p&gt;
+&lt;p&gt;Okay back to the grind.  I have been writing some software for my wifes work and it’s taking all my time.  I have put a LOT of time into it so far and I have a long way to go.&lt;/p&gt;
 </description>
         <pubDate>Fri, 20 Apr 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/site-redesign-and-restlessness/</link>
-        <guid isPermaLink="true">http://localhost:4000/site-redesign-and-restlessness/</guid>
+        <link>http://0.0.0.0:4000/site-redesign-and-restlessness/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/site-redesign-and-restlessness/</guid>
       </item>
     
       <item>
         <title>Software Developer Burnout... I suffered it.</title>
-        <description>&lt;p&gt;&lt;img src='/images/2017/burnout.jpg' class='right scaled' /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/images/2017/burnout.jpg&quot; alt=&quot;Developer Burnout&quot; class=&quot;right scaled&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Note: I wrote this originally in May of 2017.  I never published it because I was so burnt out even the thought of pushing the damn file to the server was too much.  It&amp;#39;s a single command.   It&amp;#39;s January of 2018 now, I&amp;#39;m still here and still burnt.  I&amp;#39;ll talk more to that below.&lt;/p&gt;
+&lt;p&gt;Note: I wrote this originally in May of 2017.  I never published it because I was so burnt out even the thought of pushing the damn file to the server was too much.  It’s a single command.   It’s January of 2018 now, I’m still here and still burnt.  I’ll talk more to that below.&lt;/p&gt;
 
-&lt;p&gt;Software developer burnout is a real thing and it&amp;#39;s bad.  I had always heard about it and even witnessed others go through it but I had never really experienced myself.  As such I was overly quick to dismiss it or give it lip service without really considering the true ramifications or impact of the event. &lt;/p&gt;
+&lt;p&gt;Software developer burnout is a real thing and it’s bad.  I had always heard about it and even witnessed others go through it but I had never really experienced myself.  As such I was overly quick to dismiss it or give it lip service without really considering the true ramifications or impact of the event.&lt;/p&gt;
 
-&lt;p&gt;I have been a software developer for over 20 years.  No kidding, a long time to be sure.  And I have some how managed to avoid burnout until last year.   I&amp;#39;m sure every industry has some version of developer burnout but with folks in software it&amp;#39;s extremely bad, and it takes months if not years to come back.. if they ever do.  It&amp;#39;s taken me months to even consider it...&lt;/p&gt;
+&lt;p&gt;I have been a software developer for over 20 years.  No kidding, a long time to be sure.  And I have some how managed to avoid burnout until last year.   I’m sure every industry has some version of developer burnout but with folks in software it’s extremely bad, and it takes months if not years to come back.. if they ever do.  It’s taken me months to even consider it…&lt;/p&gt;
 
-&lt;p&gt;I may not go back.  Honestly at this point I&amp;#39;m looking forward to law enforcement again, but that&amp;#39;s a different story.&lt;/p&gt;
+&lt;p&gt;I may not go back.  Honestly at this point I’m looking forward to law enforcement again, but that’s a different story.&lt;/p&gt;
 
 &lt;p&gt;Anyone can burn out.  From a high end CEO, to a software developer, to a person that digs ditches every day.  Burnout seems to happen when someone does a thing over and over for long periods of time without getting any real joy out of it.  Or without having a sense of accomplishment.  This is what happened to me.&lt;/p&gt;
 
-&lt;p&gt;And I didn&amp;#39;t even realize it until it was too late!&lt;/p&gt;
+&lt;p&gt;And I didn’t even realize it until it was too late!&lt;/p&gt;
 
-&lt;p&gt;I worked for years for one company or another developing software large and small.  I liked it.  I really enjoyed being an individual contributor that went to work every day creating something that people would use.  &lt;/p&gt;
+&lt;p&gt;I worked for years for one company or another developing software large and small.  I liked it.  I really enjoyed being an individual contributor that went to work every day creating something that people would use.&lt;/p&gt;
 
-&lt;p&gt;I&amp;#39;ll be the first to admit I stayed way too long at IBM, and that by the 6th year mark I was thoroughly done but that was a management issue.  Not the job.   I still loved the job.   (People quit managers, not jobs..  keep that in mind, to that end I still feel bad about yelling at John the way I did.. Where ever you are John, I&amp;#39;m still very regreful and I hope you can one day forgive me for being an idiot.)&lt;/p&gt;
+&lt;p&gt;I’ll be the first to admit I stayed way too long at IBM, and that by the 6th year mark I was thoroughly done but that was a management issue.  Not the job.   I still loved the job.   (People quit managers, not jobs..  keep that in mind, to that end I still feel bad about yelling at John the way I did.. Where ever you are John, I’m still very regreful and I hope you can one day forgive me for being an idiot.)&lt;/p&gt;
 
-&lt;p&gt;That all kinda changed about mid way through my life at Grok. &lt;/p&gt;
+&lt;p&gt;That all kinda changed about mid way through my life at Grok.&lt;/p&gt;
 
-&lt;p&gt;Grok Interactive is a small services company that I started with a friend from a previous company and it went really well.  (The company is still going strong, I&amp;#39;m just not there any more for my own sanity reasons =)&lt;/p&gt;
+&lt;p&gt;Grok Interactive is a small services company that I started with a friend from a previous company and it went really well.  (The company is still going strong, I’m just not there any more for my own sanity reasons =)&lt;/p&gt;
 
-&lt;p&gt;I just got to the point where I really didn&amp;#39;t enjoy any aspect of the work and I needed out.  Eventually that out came and I ran for the hills!&lt;/p&gt;
+&lt;p&gt;I just got to the point where I really didn’t enjoy any aspect of the work and I needed out.  Eventually that out came and I ran for the hills!&lt;/p&gt;
 
-&lt;p&gt;---  Continued 8 months later!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Continued 8 months later!&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;whoa.. I forgot I had started this post.  I was actually going to bring up my blog and type this post when I saw it in my queue of stuff to publish..  yes.. yes and double yes.. all of the above is still true.  I&amp;#39;m still crispy about software and at this point my knowledge has almost completely perished.   I have a lot of code I could go back and look at and I&amp;#39;m sure I could bring myself back up to speed but it would have to be on my own terms.  I think my days of working for other software firms as a paid employee in any capacity is over.&lt;/p&gt;
+&lt;p&gt;whoa.. I forgot I had started this post.  I was actually going to bring up my blog and type this post when I saw it in my queue of stuff to publish..  yes.. yes and double yes.. all of the above is still true.  I’m still crispy about software and at this point my knowledge has almost completely perished.   I have a lot of code I could go back and look at and I’m sure I could bring myself back up to speed but it would have to be on my own terms.  I think my days of working for other software firms as a paid employee in any capacity is over.&lt;/p&gt;
 
-&lt;p&gt;Right now I&amp;#39;m working as a Deputy Sheriff for a small county here in North Georgia and I&amp;#39;m enjoying it for the most part.  I still dream about doing stuff in the software field though.  I think of problems and dream up solutions.  I have a couple back burner thoughts that I might try to field test too.  &lt;/p&gt;
+&lt;p&gt;Right now I’m working as a Deputy Sheriff for a small county here in North Georgia and I’m enjoying it for the most part.  I still dream about doing stuff in the software field though.  I think of problems and dream up solutions.  I have a couple back burner thoughts that I might try to field test too.&lt;/p&gt;
 
-&lt;p&gt;I will be updating my blog again going forward and I&amp;#39;m playing with some othe software projects too again.. so maybe there&amp;#39;s still hope.&lt;/p&gt;
+&lt;p&gt;I will be updating my blog again going forward and I’m playing with some othe software projects too again.. so maybe there’s still hope.&lt;/p&gt;
 </description>
         <pubDate>Mon, 15 May 2017 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/developer-burnout/</link>
-        <guid isPermaLink="true">http://localhost:4000/developer-burnout/</guid>
+        <link>http://0.0.0.0:4000/developer-burnout/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/developer-burnout/</guid>
       </item>
     
       <item>
         <title>Out of time, Site Future Plans, Life Goals, Etc..</title>
-        <description>&lt;p&gt;Well, it&amp;#39;s that time again.  Time for me to talk about how I never post any more and how I have no time.  Life is super busy, I&amp;#39;m doing too many things, I need to find time..etc.. &lt;/p&gt;
+        <description>&lt;p&gt;Well, it’s that time again.  Time for me to talk about how I never post any more and how I have no time.  Life is super busy, I’m doing too many things, I need to find time..etc..&lt;/p&gt;
 
-&lt;p&gt;Feh.. These are all lies.  Mostly, I think I&amp;#39;m just really wanting to do something else..  I get into these weird moods where nothing is right and everything looks old/boring..etc.  Really this is just an excuse and a sign that something larger is at issue.&lt;/p&gt;
+&lt;p&gt;Feh.. These are all lies.  Mostly, I think I’m just really wanting to do something else..  I get into these weird moods where nothing is right and everything looks old/boring..etc.  Really this is just an excuse and a sign that something larger is at issue.&lt;/p&gt;
 
-&lt;p&gt;Don&amp;#39;t get me wrong, I&amp;#39;m still going to ponder redoing this site.. &amp;#39;cause that&amp;#39;s the kind of brain damaged I am but a lot more is going on.  &lt;/p&gt;
+&lt;p&gt;Don’t get me wrong, I’m still going to ponder redoing this site.. ‘cause that’s the kind of brain damaged I am but a lot more is going on.&lt;/p&gt;
 
-&lt;p&gt;A couple months ago I sold off my half of my ownership in a software company and honestly, it was past time.   In a weird way I&amp;#39;m still coming to terms with it, but mostly because I still don&amp;#39;t know what I want to be when I grow up. &lt;/p&gt;
+&lt;p&gt;A couple months ago I sold off my half of my ownership in a software company and honestly, it was past time.   In a weird way I’m still coming to terms with it, but mostly because I still don’t know what I want to be when I grow up.&lt;/p&gt;
 
-&lt;p&gt;When you have worked in software for over twenty years, it&amp;#39;s hard to do something else.   A clean break seems impossible, but at the same time seems like the only way to move forward.  &lt;/p&gt;
+&lt;p&gt;When you have worked in software for over twenty years, it’s hard to do something else.   A clean break seems impossible, but at the same time seems like the only way to move forward.&lt;/p&gt;
 
-&lt;p&gt;Grok was great and it was a good experience over all but I want to do my own thing, and I want to do other things.   I got into software professionally in the early 1990&amp;#39;s and almost did it on a lark.  Originally programming was a hobby that was all funzies and joy..  The important lesson I learned was, once you turn a hobby into a career, you lose the hobby and it becomes work.&lt;/p&gt;
+&lt;p&gt;Grok was great and it was a good experience over all but I want to do my own thing, and I want to do other things.   I got into software professionally in the early 1990’s and almost did it on a lark.  Originally programming was a hobby that was all funzies and joy..  The important lesson I learned was, once you turn a hobby into a career, you lose the hobby and it becomes work.&lt;/p&gt;
 
-&lt;p&gt;I&amp;#39;m to the point now that the notion of going back into software as a professional developer (even as an individual contributor instead of management) is completely distasteful.  Sure the money is great, but the level of anxiety and sense of misery is palpable.  I just can&amp;#39;t bring myself to do it. &lt;/p&gt;
+&lt;p&gt;I’m to the point now that the notion of going back into software as a professional developer (even as an individual contributor instead of management) is completely distasteful.  Sure the money is great, but the level of anxiety and sense of misery is palpable.  I just can’t bring myself to do it.&lt;/p&gt;
 
-&lt;p&gt;I still like the idea of writing my own software and doing something very passively that might make money or might not just as an &amp;quot;out&amp;quot; or as something fun to do in my spare time though.  Very much back to my original &amp;quot;hobby&amp;quot; status with programming.  But professionally?  Nope.  I think I&amp;#39;m done there.&lt;/p&gt;
+&lt;p&gt;I still like the idea of writing my own software and doing something very passively that might make money or might not just as an “out” or as something fun to do in my spare time though.  Very much back to my original “hobby” status with programming.  But professionally?  Nope.  I think I’m done there.&lt;/p&gt;
 
-&lt;p&gt;I&amp;#39;ve pondered doing some stuff with the airplane build that makes it more of a tutorial site where others can comment and give input on how to build a plane.  Sort of a community documentation site.  I have to ponder this.  But the idea would be to make it so that each step in the plans would be it&amp;#39;s own page with a video or documentation on how to do the work.  Almost an interactive crowd sourced project where people can talk / discuss and even comment directly on the plans and steps in a virtual space.   I have reached out to Scott Risan at Van&amp;#39;s Aircraft to see if this is something they would support or veto.  No response yet. &lt;/p&gt;
+&lt;p&gt;I’ve pondered doing some stuff with the airplane build that makes it more of a tutorial site where others can comment and give input on how to build a plane.  Sort of a community documentation site.  I have to ponder this.  But the idea would be to make it so that each step in the plans would be it’s own page with a video or documentation on how to do the work.  Almost an interactive crowd sourced project where people can talk / discuss and even comment directly on the plans and steps in a virtual space.   I have reached out to Scott Risan at Van’s Aircraft to see if this is something they would support or veto.  No response yet.&lt;/p&gt;
 
-&lt;p&gt;I&amp;#39;m going to make a video to my patreons about this and see what they think.&lt;/p&gt;
+&lt;p&gt;I’m going to make a video to my patreons about this and see what they think.&lt;/p&gt;
 
-&lt;h3&gt;Other things on my list of &amp;quot;shit to do&amp;quot;;&lt;/h3&gt;
+&lt;h3 id=&quot;other-things-on-my-list-of-shit-to-do&quot;&gt;Other things on my list of “shit to do”;&lt;/h3&gt;
 
-&lt;p&gt;&lt;em&gt;I want to redesign the blog&lt;/em&gt; 
-But not necessarily a full visual redesign, but more of a &amp;quot;bring it up to currency&amp;quot; with regards to be backend deployment software.  It&amp;#39;s been ages since I have updated my Jekyll install and I&amp;#39;m STILL using LESS.  That needs to be rectified.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I want to redesign the blog&lt;/strong&gt; – But not necessarily a full visual redesign, but more of a “bring it up to currency” with regards to be backend deployment software.  It’s been ages since I have updated my Jekyll install and I’m STILL using LESS.  That needs to be rectified.&lt;/p&gt;
+
 </description>
         <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/out-of-time/</link>
-        <guid isPermaLink="true">http://localhost:4000/out-of-time/</guid>
+        <link>http://0.0.0.0:4000/out-of-time/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/out-of-time/</guid>
       </item>
     
       <item>
         <title>Democratic Socialism</title>
-        <description>&lt;p&gt;&lt;img src='/images/2016/socialism.png' class='right scaled' /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/images/2016/socialism.png&quot; alt=&quot;Socialism&quot; class=&quot;right scaled&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;It seems like a lot of America&amp;#39;s young people (commonly referred to millennials) love the notion of Socialism.  They color it by saying it&amp;#39;s &amp;quot;Democratic Socialism&amp;quot; (&amp;quot;DS&amp;quot; going forward) which is sorta the same thing and not good -- Bear with me here.  &lt;/p&gt;
+&lt;p&gt;It seems like a lot of America’s young people (commonly referred to millennials) love the notion of Socialism.  They color it by saying it’s “Democratic Socialism” (“DS” going forward) which is sorta the same thing and not good – Bear with me here.&lt;/p&gt;
 
-&lt;p&gt;True democratic socialists believe that a socialist state can be achieved through democratic means.  I don&amp;#39;t believe that&amp;#39;s what these folks are going for.  It would be far better for these people to refer to themselves as Social Democrats because then at least that says they aim to modify the harshness of capitalism with the infusion of some elements of socialism which I believe to be closer to their true aim.   But so far all of the millennials I have talked to that are pro the &amp;quot;DS&amp;quot; idea&amp;#39;s call themselves democratic socialists, not social democrats.  May seem like a minor quibble all things considered but language matters.&lt;/p&gt;
+&lt;p&gt;True democratic socialists believe that a socialist state can be achieved through democratic means.  I don’t believe that’s what these folks are going for.  It would be far better for these people to refer to themselves as Social Democrats because then at least that says they aim to modify the harshness of capitalism with the infusion of some elements of socialism which I believe to be closer to their true aim.   But so far all of the millennials I have talked to that are pro the “DS” idea’s call themselves democratic socialists, not social democrats.  May seem like a minor quibble all things considered but language matters.&lt;/p&gt;
 
-&lt;h2&gt;To those people I&amp;#39;d like to say the following;&lt;/h2&gt;
+&lt;h2 id=&quot;to-those-people-id-like-to-say-the-following&quot;&gt;To those people I’d like to say the following;&lt;/h2&gt;
 
-&lt;p&gt;Firstly, and foremost; I appreciate that you have a political view.  That’s a good thing.  I know a lot of people my age, who at your age had no political views what-so-ever and happily let the government do whatever it wanted.  You&amp;#39;re not doing that.  Good for you!  Take a stand in what you believe in.. Hell yeah.. that’s what America is all about!  I very much appreciate your attempts to better the country where my generation was a little less caring about it. &lt;/p&gt;
+&lt;p&gt;Firstly, and foremost; I appreciate that you have a political view.  That’s a good thing.  I know a lot of people my age, who at your age had no political views what-so-ever and happily let the government do whatever it wanted.  You’re not doing that.  Good for you!  Take a stand in what you believe in.. Hell yeah.. that’s what America is all about!  I very much appreciate your attempts to better the country where my generation was a little less caring about it.&lt;/p&gt;
 
-&lt;p&gt;Having said that, in my opinion, there is a distinct dichotomy between being for &amp;quot;DS&amp;quot; but against the government doing something it feels is in your best interest. I&amp;#39;m specifically referring to the FBI wanting to add backdoors to iphones &amp;quot;for your own good&amp;quot;.  It&amp;#39;s good they oppose that, but it seems to be a direct contradiction to the &amp;quot;DS&amp;quot; mentality -- but that&amp;#39;s an aside.&lt;/p&gt;
+&lt;p&gt;Having said that, in my opinion, there is a distinct dichotomy between being for “DS” but against the government doing something it feels is in your best interest. I’m specifically referring to the FBI wanting to add backdoors to iphones “for your own good”.  It’s good they oppose that, but it seems to be a direct contradiction to the “DS” mentality – but that’s an aside.&lt;/p&gt;
 
-&lt;h2&gt;&amp;quot;Democracy is the road to Socialism&amp;quot;&amp;#185;&lt;/h2&gt;
+&lt;h2 id=&quot;democracy-is-the-road-to-socialism&quot;&gt;“Democracy is the road to Socialism”¹&lt;/h2&gt;
 
-&lt;p&gt;I&amp;#39;d also like to point out that the United States of America isn&amp;#39;t a democracy.  We live in a constitutional republic, and while the line between democracy and republic is a fine one -- it&amp;#39;s an important one.  Primarily because a constitutional republic is the road to freedom, and a democracy is the road to socialism.  &lt;/p&gt;
+&lt;p&gt;I’d also like to point out that the United States of America isn’t a democracy.  We live in a constitutional republic, and while the line between democracy and republic is a fine one – it’s an important one.  Primarily because a constitutional republic is the road to freedom, and a democracy is the road to socialism.&lt;/p&gt;
 
 &lt;p&gt;So with that, I have some serious concerns with “Democratic Socialism”.  Mostly that by its very nature it imbues the government with MORE power.  It strikes me as away by the citizens to eschew responsibility to the government and basically implies that you trust the government to take care of your needs.   History is replete with examples of why this is a bad idea.&lt;/p&gt;
 
-&lt;h2&gt;&amp;quot;The road to Hell is paved with good intentions&amp;quot;&amp;#178;&lt;/h2&gt;
+&lt;h2 id=&quot;the-road-to-hell-is-paved-with-good-intentions&quot;&gt;“The road to Hell is paved with good intentions”²&lt;/h2&gt;
 
-&lt;p&gt;Democratic Socialism is a white wash of socialism.  Most non-democratic societies love to throw the word “democratic” into the language to describe what they are doing just to muddy the water, to confused and befuddle the proletariat into thinking that they had some choice or input on the matter.  They often don&amp;#39;t.   I mean what exactly is democratic about the DPRK?  &lt;/p&gt;
+&lt;p&gt;Democratic Socialism is a white wash of socialism.  Most non-democratic societies love to throw the word “democratic” into the language to describe what they are doing just to muddy the water, to confused and befuddle the proletariat into thinking that they had some choice or input on the matter.  They often don’t.   I mean what exactly is democratic about the DPRK?&lt;/p&gt;
 
-&lt;h2&gt;&amp;quot;Men make their own history, but they do not make it as they please&amp;quot;&amp;#179;&lt;/h2&gt;
+&lt;h2 id=&quot;men-make-their-own-history-but-they-do-not-make-it-as-they-please&quot;&gt;“Men make their own history, but they do not make it as they please”³&lt;/h2&gt;
 
-&lt;p&gt;As to the United States; it really seems like people have forgotten that the US government has a primary job of national defense.   Giving the government more and more power, which is what democratic socialists are trying to do, will only encourage the tyrannical shift that many governments in the past have made.  History doomed to repeat itself.  &lt;/p&gt;
+&lt;p&gt;As to the United States; it really seems like people have forgotten that the US government has a primary job of national defense.   Giving the government more and more power, which is what democratic socialists are trying to do, will only encourage the tyrannical shift that many governments in the past have made.  History doomed to repeat itself.&lt;/p&gt;
 
-&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;&lt;img src='/images/2016/dangers-socialism.png' class='left' /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2016/dangers-socialism.png&quot; alt=&quot;The Dangers of Socialism&quot; class=&quot;left&quot; /&gt;&lt;/p&gt;
 
-&lt;h3&gt;Dangers of Socialism&lt;/h3&gt;
+&lt;h3 id=&quot;dangers-of-socialism&quot;&gt;Dangers of Socialism&lt;/h3&gt;
 
-&lt;p&gt;&amp;quot;DS&amp;quot; or just Socialism in general has a lot of dangers to it;&lt;/p&gt;
+&lt;p&gt;“DS” or just Socialism in general has a lot of dangers to it;&lt;/p&gt;
 
-&lt;h4&gt;It rewards people for being irresponsible, indolent and for being unaccountable for their own actions&lt;/h4&gt;
+&lt;h4 id=&quot;it-rewards-people-for-being-irresponsible-indolent-and-for-being-unaccountable-for-their-own-actions&quot;&gt;It rewards people for being irresponsible, indolent and for being unaccountable for their own actions&lt;/h4&gt;
 
-&lt;p&gt;In an environment where you aren&amp;#39;t responsible to produce, what stops you from being a complete lazy slob that can just hold your hand out and demand compensation?  Nothing.  In this environment people will demand more and more for doing less and less.  We already see this today and it will only get worse. &lt;/p&gt;
+&lt;p&gt;In an environment where you aren’t responsible to produce, what stops you from being a complete lazy slob that can just hold your hand out and demand compensation?  Nothing.  In this environment people will demand more and more for doing less and less.  We already see this today and it will only get worse.&lt;/p&gt;
 
-&lt;p&gt;This system actively rewards people for being indolent and promotes indolence by de-incentivizing, robbing of initiative, drive and ambition those that produce anything because they have the fruits of their labor effectively stolen from them to perpetuate those that don’t.  &amp;quot;DS&amp;quot; not only allows for and legalizes theft but actively promotes it in the name of redistributing wealth.&lt;/p&gt;
+&lt;p&gt;This system actively rewards people for being indolent and promotes indolence by de-incentivizing, robbing of initiative, drive and ambition those that produce anything because they have the fruits of their labor effectively stolen from them to perpetuate those that don’t.  “DS” not only allows for and legalizes theft but actively promotes it in the name of redistributing wealth.&lt;/p&gt;
 
-&lt;h4&gt;It de-incentivizes those that do produce, robbing them of not only the fruits of their labor but the initiative to produce in the first place&lt;/h4&gt;
+&lt;h4 id=&quot;it-de-incentivizes-those-that-do-produce-robbing-them-of-not-only-the-fruits-of-their-labor-but-the-initiative-to-produce-in-the-first-place&quot;&gt;It de-incentivizes those that do produce, robbing them of not only the fruits of their labor but the initiative to produce in the first place&lt;/h4&gt;
 
-&lt;p&gt;Those that do produce things will be less and less likely to do so over time because they will see the individual who did nothing rewarded for doing nothing with the very fruits the producer should have gotten.  The notion that people will continue to produce happily for the sake of production is a flawed one due to the nature of Humans.  The Mark 1.0 Human being simply doesn&amp;#39;t work that way.&lt;/p&gt;
+&lt;p&gt;Those that do produce things will be less and less likely to do so over time because they will see the individual who did nothing rewarded for doing nothing with the very fruits the producer should have gotten.  The notion that people will continue to produce happily for the sake of production is a flawed one due to the nature of Humans.  The Mark 1.0 Human being simply doesn’t work that way.&lt;/p&gt;
 
-&lt;h4&gt;It rationalizes theft, penalizes accomplishment and does away with individual rights for the sake of the &amp;quot;public good&amp;quot;&lt;/h4&gt;
+&lt;h4 id=&quot;it-rationalizes-theft-penalizes-accomplishment-and-does-away-with-individual-rights-for-the-sake-of-the-public-good&quot;&gt;It rationalizes theft, penalizes accomplishment and does away with individual rights for the sake of the “public good”&lt;/h4&gt;
 
-&lt;p&gt;If you&amp;#39;re taking away from the person who produced in order to give it to the person who didn&amp;#39;t, then you&amp;#39;re not only penalizing the producer and de-incentivizing that production, but you&amp;#39;re stealing from that individual who produced to give to those that didn&amp;#39;t.   You can&amp;#39;t encourage people to do more by first stealing from them.  You can&amp;#39;t multiply production by first dividing it.  And you can&amp;#39;t encourage those who do nothing to start being a productive member of society if you are giving them hand outs.  Again, Human nature.&lt;/p&gt;
+&lt;p&gt;If you’re taking away from the person who produced in order to give it to the person who didn’t, then you’re not only penalizing the producer and de-incentivizing that production, but you’re stealing from that individual who produced to give to those that didn’t.   You can’t encourage people to do more by first stealing from them.  You can’t multiply production by first dividing it.  And you can’t encourage those who do nothing to start being a productive member of society if you are giving them hand outs.  Again, Human nature.&lt;/p&gt;
 
 &lt;p&gt;This means that it completely undermines any spirit of entrepreneurship, innovation and competitiveness and actively promotes totalitarianism by encouraging people to be self-indulgent instead of self reliant.&lt;/p&gt;
 
 &lt;p&gt;This also means that the rights of the worker will go out the window in favor of the public good and control by the state.&lt;/p&gt;
 
-&lt;h4&gt;It actively promotes obedience to the state, idealizes state power and encourages dependence on the state&lt;/h4&gt;
+&lt;h4 id=&quot;it-actively-promotes-obedience-to-the-state-idealizes-state-power-and-encourages-dependence-on-the-state&quot;&gt;It actively promotes obedience to the state, idealizes state power and encourages dependence on the state&lt;/h4&gt;
 
-&lt;p&gt;This is where the real issue is;  The more the government squeezes and takes with intent to distribute to those who don&amp;#39;t have, the more people will become dependant on that handout.   The more we go down the &amp;quot;DS&amp;quot; hole, the deeper people will get and the more people will rely on the government.  It’s a vicious cycle.  Think of where that will end..  By it’s very nature it can’t stop with just social programs like people think.  &lt;/p&gt;
+&lt;p&gt;This is where the real issue is;  The more the government squeezes and takes with intent to distribute to those who don’t have, the more people will become dependant on that handout.   The more we go down the “DS” hole, the deeper people will get and the more people will rely on the government.  It’s a vicious cycle.  Think of where that will end..  By it’s very nature it can’t stop with just social programs like people think.&lt;/p&gt;
 
 &lt;p&gt;The “democratic” aspect of it means people are willingly giving their own freedoms up without fully exploring where this could go.&lt;/p&gt;
 
-&lt;h3&gt;But the Scandinavian democratic socialists managed it!&lt;/h3&gt;
+&lt;h3 id=&quot;but-the-scandinavian-democratic-socialists-managed-it&quot;&gt;But the Scandinavian democratic socialists managed it!&lt;/h3&gt;
 
-&lt;p&gt;mmmm, no they didn&amp;#39;t.  &lt;/p&gt;
+&lt;p&gt;mmmm, no they didn’t.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;“I know that some people in the US associate the Nordic model with some sort of socialism. Therefore I would like to make one thing clear. Denmark is far from a socialist planned economy. Denmark is a market economy.”&lt;/em&gt;  -- Prime Minister of Denmark at a speech at the Harvard Institute of Politics.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“I know that some people in the US associate the Nordic model with some sort of socialism. Therefore I would like to make one thing clear. Denmark is far from a socialist planned economy. Denmark is a market economy.”&lt;/em&gt;  – Prime Minister of Denmark at a speech at the Harvard Institute of Politics.&lt;/p&gt;
 
 &lt;p&gt;Countries that already do this are pure consumer economies some with over 50% unemployment and over 80% taxation.&lt;/p&gt;
 
-&lt;h2&gt;To sum up with Pro&amp;#39;s and Con&amp;#39;s&lt;/h2&gt;
+&lt;h2 id=&quot;to-sum-up-with-pros-and-cons&quot;&gt;To sum up with Pro’s and Con’s&lt;/h2&gt;
 
 &lt;p&gt;What would it mean for a true socialist democratic solution in the US?&lt;/p&gt;
 
-&lt;h2&gt;Con&amp;#39;s:&lt;/h2&gt;
-
+&lt;h2 id=&quot;cons&quot;&gt;Con’s:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Taxes would go up - A lot to cover all the new spending&lt;/li&gt;
-&lt;li&gt;Unemployment would go up - A lot because people don&amp;#39;t have to work&lt;/li&gt;
-&lt;li&gt;Productivity would go down - A lot because people will be de-incentivized&lt;/li&gt;
-&lt;li&gt;People would be reliant on the government&lt;/li&gt;
-&lt;li&gt;Gives government much more (if not full) control&lt;/li&gt;
-&lt;li&gt;Rights of workers go out the window&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Taxes would go up&lt;/strong&gt; - A lot to cover all the new spending&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Unemployment would go up&lt;/strong&gt; - A lot because people don’t have to work&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Productivity would go down&lt;/strong&gt; - A lot because people will be de-incentivized&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;People would be reliant on the government&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Gives government much more (if not full) control&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Rights of workers go out the window&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt;Pro&amp;#39;s:&lt;/h2&gt;
-
+&lt;h2 id=&quot;pros&quot;&gt;Pro’s:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Income inequality would go down - Unfair to those who product&lt;/li&gt;
-&lt;li&gt;Free benefits would go up - Not really free at all due to high taxes&lt;/li&gt;
-&lt;li&gt;Promotes a classless society - Rich and Poor gap will narrow drastically, again unfair to those who produced and earned&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Income inequality would go down&lt;/strong&gt; - Unfair to those who product&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Free benefits would go up&lt;/strong&gt; - Not really free at all due to high taxes&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Promotes a classless society&lt;/strong&gt; - Rich and Poor gap will narrow drastically, again unfair to those who produced and earned&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;#185;,&amp;#178;,&amp;#179; : Finally, if you agree with any of the quoted headers above then you agree with Carl Marx and his Communist Manifesto as they are direct quotes from the man -- this would be a good time to rethink your position.  National Socialism (Hitler), Marxist Socialism (Communism), and Democratic Socialism are different, but not vastly so.  More over &amp;quot;DS&amp;quot; can include forms of Marxism and even Anarchism.  I feel modern pro &amp;quot;DS&amp;quot; individuals are taking more of a Marxist tack than they realize.&lt;/p&gt;
+&lt;p&gt;¹,²,³ : Finally, if you agree with any of the quoted headers above then you agree with Carl Marx and his Communist Manifesto as they are direct quotes from the man – this would be a good time to rethink your position.  National Socialism (Hitler), Marxist Socialism (Communism), and Democratic Socialism are different, but not vastly so.  More over “DS” can include forms of Marxism and even Anarchism.  I feel modern pro “DS” individuals are taking more of a Marxist tack than they realize.&lt;/p&gt;
 
-&lt;p&gt;Also, keep in mind, governments ultimately enforce everything with a gun.  I feel that this socialism road people are trying to take us down will have a very bad ending...&lt;/p&gt;
+&lt;p&gt;Also, keep in mind, governments ultimately enforce everything with a gun.  I feel that this socialism road people are trying to take us down will have a very bad ending…&lt;/p&gt;
 
-&lt;hr/&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;Additional -- I think this is a pretty good viewing and worth watching all of it: &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Additional&lt;/strong&gt; – I think this is a pretty good viewing and worth watching all of it:&lt;/p&gt;
 
-&lt;iframe width=&quot;920&quot; height=&quot;540&quot; src=&quot;https://www.youtube.com/embed/D0Yp1jUtcX8&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;920&quot; height=&quot;540&quot; src=&quot;https://www.youtube.com/embed/D0Yp1jUtcX8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Mon, 29 Feb 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/democratic-socialism/</link>
-        <guid isPermaLink="true">http://localhost:4000/democratic-socialism/</guid>
+        <link>http://0.0.0.0:4000/democratic-socialism/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/democratic-socialism/</guid>
       </item>
     
       <item>
         <title>Livable Wages and Unreasonable Client Expectations</title>
-        <description>&lt;p&gt;&lt;img src='/images/2015/08/greed.jpg' class='right' /&gt; &lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/images/2015/08/greed.jpg&quot; alt=&quot;Greed / Bag of money&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I don’t work at a fast food restaurant, a pizza delivery joint, or behind the counter at a gas station.  In fact, I don’t work at any job that is minimum wage or there abouts because in my opinion, it’s not a livable wage.  And, to be completely honest, I don’t understand how people manage to live on so little income.&lt;/p&gt;
 
@@ -256,23 +319,23 @@ But not necessarily a full visual redesign, but more of a &amp;quot;bring it up 
 
 &lt;p&gt;Part of my job is to entertain offers for work from prospective clients. This typically includes hours (often days) of communication, information gathering, research, and other unbillable time that I have to put in for them before I get paid a dime.&lt;/p&gt;
 
-&lt;p&gt;The ultimate goal of which is to divide up the work with the intent of putting hourly and iterative work totals to their software desire which gives them a cost estimate for the work they want done.   &lt;/p&gt;
+&lt;p&gt;The ultimate goal of which is to divide up the work with the intent of putting hourly and iterative work totals to their software desire which gives them a cost estimate for the work they want done.&lt;/p&gt;
 
-&lt;p&gt;This is the only part of my job I hate.  I hate it because all clients want the sky, the moon, and stars -- for free or very little money and scoff and demand to know why we are “so expensive”.  &lt;/p&gt;
+&lt;p&gt;This is the only part of my job I hate.  I hate it because all clients want the sky, the moon, and stars – for free or very little money and scoff and demand to know why we are “so expensive”.&lt;/p&gt;
 
 &lt;p&gt;We aren’t - In fact I know a lot of firms that charge a lot more than we do.  We are realistic.&lt;/p&gt;
 
-&lt;p&gt;An example prospective client hit us up today with a 20 page document (small type!) full of all the requirements that had to be met in order for us to be complete, had less than 3 months to do the work, and wanted the whole shebang for $10,000.   All the while bemoaning the previous developers that offered to do the work for that amount but who were unresponsive. &lt;/p&gt;
+&lt;p&gt;An example prospective client hit us up today with a 20 page document (small type!) full of all the requirements that had to be met in order for us to be complete, had less than 3 months to do the work, and wanted the whole shebang for $10,000.   All the while bemoaning the previous developers that offered to do the work for that amount but who were unresponsive.&lt;/p&gt;
 
 &lt;p&gt;(I will admit that having such thorough document to talk to is great!  Many clients show up with nothing but a dream only to have their hopes dashed when we start asking hard questions that they don’t have answers to.  Define your product, or we can help you define it.  But if I define it, it will be an MVP/POC first and iterate into a full blown product.  This is a topic for a different post though.)&lt;/p&gt;
 
-&lt;p&gt;But the common thread is that no matter the scope of the work, they always think we are too expensive and quite often expect to pay less than half or even a quarter of what is reasonable. &lt;/p&gt;
+&lt;p&gt;But the common thread is that no matter the scope of the work, they always think we are too expensive and quite often expect to pay less than half or even a quarter of what is reasonable.&lt;/p&gt;
 
-&lt;p&gt;For example; The $10k job above would have required at least two full time developers to get it done within the 3 month deadline, if it’s even possible to make the deadline without working a lot of overtime.  But assuming its possible to get it done in the time allotted; $10k divided by roughly 60 days, at 8 hours a day, for 2 developers ends up being just above $10 an hour over the life of the project and that’s before taxes.  &lt;/p&gt;
+&lt;p&gt;For example; The $10k job above would have required at least two full time developers to get it done within the 3 month deadline, if it’s even possible to make the deadline without working a lot of overtime.  But assuming its possible to get it done in the time allotted; $10k divided by roughly 60 days, at 8 hours a day, for 2 developers ends up being just above $10 an hour over the life of the project and that’s before taxes.&lt;/p&gt;
 
 &lt;p&gt;Not a livable wage.  A plumber makes more.&lt;/p&gt;
 
-&lt;p&gt;I didn’t spend the last 20+ years getting experience in my industry and spending an unconscionable amount of extra time becoming an expert to work for so little. It requires a lot of time, effort and energy on my part to stay current and competitive in my industry so I have very little patience with people who think I get paid too much money for what I do. &lt;/p&gt;
+&lt;p&gt;I didn’t spend the last 20+ years getting experience in my industry and spending an unconscionable amount of extra time becoming an expert to work for so little. It requires a lot of time, effort and energy on my part to stay current and competitive in my industry so I have very little patience with people who think I get paid too much money for what I do.&lt;/p&gt;
 
 &lt;p&gt;Sorry, but anyone who says software engineers and architects get paid too much, don’t understand what it takes to do what we do.&lt;/p&gt;
 
@@ -284,285 +347,263 @@ But not necessarily a full visual redesign, but more of a &amp;quot;bring it up 
 
 &lt;p&gt;Most firms would charge closer to $100k for that 3 month job.  See what I mean?  You scoffed a little didn’t you.&lt;/p&gt;
 
-&lt;p&gt;And I’m just talking about the initial development cost.  Not maintenance fees, server hardware, data storage fees, design costs, testing costs etc..  &lt;/p&gt;
+&lt;p&gt;And I’m just talking about the initial development cost.  Not maintenance fees, server hardware, data storage fees, design costs, testing costs etc..&lt;/p&gt;
 
-&lt;p&gt;The problem with going with the $10k firm versus the $100k firm is that you get what you pay for.  The perceived value is in dollars only, without any thought or consideration to the quality of the work being done or the support you’re going to get before start, during development and after completion. &lt;/p&gt;
+&lt;p&gt;The problem with going with the $10k firm versus the $100k firm is that you get what you pay for.  The perceived value is in dollars only, without any thought or consideration to the quality of the work being done or the support you’re going to get before start, during development and after completion.&lt;/p&gt;
 
-&lt;p&gt;They have already approached $10k firm for the product and they don’t like the support / communication they were getting (read: the firm has just disappeared because 10k for this project is too low), so why are they looking for another $10k firm that will likely give them the exact same results?  &lt;/p&gt;
+&lt;p&gt;They have already approached $10k firm for the product and they don’t like the support / communication they were getting (read: the firm has just disappeared because 10k for this project is too low), so why are they looking for another $10k firm that will likely give them the exact same results?&lt;/p&gt;
 
-&lt;p&gt;You get what you pay for and people some how refuse to learn that lesson with software.  &lt;/p&gt;
+&lt;p&gt;You get what you pay for and people some how refuse to learn that lesson with software.&lt;/p&gt;
+
 </description>
         <pubDate>Tue, 18 Aug 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/livable-wages-unreasonable-expectations/</link>
-        <guid isPermaLink="true">http://localhost:4000/livable-wages-unreasonable-expectations/</guid>
+        <link>http://0.0.0.0:4000/livable-wages-unreasonable-expectations/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/livable-wages-unreasonable-expectations/</guid>
       </item>
     
       <item>
         <title>Modifying Jekyll to track my RV-10 Build Log! Sorta...</title>
-        <description>&lt;p&gt;I love being a programmer.  It&amp;#39;s one of those things that I truly enjoy and get a real sense of accomplish out of when I can make something work the way I want it to.&lt;/p&gt;
+        <description>&lt;p&gt;I love being a programmer.  It’s one of those things that I truly enjoy and get a real sense of accomplish out of when I can make something work the way I want it to.&lt;/p&gt;
 
-&lt;p&gt;I switched to &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; as my primary blogging system a &lt;a href=&quot;http://randomstringofwords.com/blogging-like-its-1999/&quot;&gt;while back&lt;/a&gt; and haven&amp;#39;t looked back.  It&amp;#39;s been great.  Just like my early post says; Blogging like it&amp;#39;s 1999!  Each page is built as raw html and then pushed to the servers.  Fast, secure, easy.  &lt;/p&gt;
+&lt;p&gt;I switched to &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; as my primary blogging system a &lt;a href=&quot;http://randomstringofwords.com/blogging-like-its-1999/&quot;&gt;while back&lt;/a&gt; and haven’t looked back.  It’s been great.  Just like my early post says; Blogging like it’s 1999!  Each page is built as raw html and then pushed to the servers.  Fast, secure, easy.&lt;/p&gt;
 
-&lt;p&gt;But I wanted to add a special post type &amp;quot;build-log&amp;quot; to my blog so that I could write all about my RV-10 build experience and have it track just like any other blog, but in a different directory structure.  This would be basically a blog, within a blog.  &lt;/p&gt;
+&lt;p&gt;But I wanted to add a special post type “build-log” to my blog so that I could write all about my RV-10 build experience and have it track just like any other blog, but in a different directory structure.  This would be basically a blog, within a blog.&lt;/p&gt;
 
-&lt;p&gt;I started writing said plugin and it got pretty massive.  I was basically having to re-architecture/re-factor all of Jekyll to make it happen and that was just not going to fly.  It wouldn&amp;#39;t be performant, it would have to be forward/backwards compatible and in the long run maintaining it would suck.&lt;/p&gt;
+&lt;p&gt;I started writing said plugin and it got pretty massive.  I was basically having to re-architecture/re-factor all of Jekyll to make it happen and that was just not going to fly.  It wouldn’t be performant, it would have to be forward/backwards compatible and in the long run maintaining it would suck.&lt;/p&gt;
 
 &lt;p&gt;SO I cheated.&lt;/p&gt;
 
-&lt;p&gt;I simply deleted the plugin ( and the probably hundred hours I put into making it ) and started a new Jekyll blog for the build log, using all the same views as the main blog.  &lt;/p&gt;
+&lt;p&gt;I simply deleted the plugin ( and the probably hundred hours I put into making it ) and started a new Jekyll blog for the build log, using all the same views as the main blog.&lt;/p&gt;
 
-&lt;p&gt;I then had the build log blog output to a directory structure nested within the main blog.  This forced me to go in and move all the files down one directory once it was build but I have a script now that will do it all for me!    Ding!  I get two complete blogs within one another that are stored in different repo&amp;#39;s and build into a single blog.  Easy!&lt;/p&gt;
+&lt;p&gt;I then had the build log blog output to a directory structure nested within the main blog.  This forced me to go in and move all the files down one directory once it was build but I have a script now that will do it all for me!    Ding!  I get two complete blogs within one another that are stored in different repo’s and build into a single blog.  Easy!&lt;/p&gt;
 
-&lt;p&gt;Jekyll.. I&amp;#39;m still a huge fan.&lt;/p&gt;
+&lt;p&gt;Jekyll.. I’m still a huge fan.&lt;/p&gt;
 
 &lt;p&gt;Also, with this new addition to the site I have implemented &lt;a href=&quot;http://disqus.com&quot;&gt;Disqus&lt;/a&gt; comments instead of the old facebook comments which were a pain and not very good.&lt;/p&gt;
 </description>
         <pubDate>Sat, 07 Feb 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/modifying-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/modifying-jekyll/</guid>
+        <link>http://0.0.0.0:4000/modifying-jekyll/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/modifying-jekyll/</guid>
       </item>
     
       <item>
         <title>Van's Aircraft RV-10: A new beginning!</title>
-        <description>&lt;p&gt;If you have followed my blog or youtube channel at all then you know I&amp;#39;ve been taking flight lessons.  I have been really enjoying it and can easily see myself doing a lot of flying.  It&amp;#39;s an amazing sense of freedom and awesome way to travel.&lt;/p&gt;
+        <description>&lt;p&gt;If you have followed my blog or youtube channel at all then you know I’ve been taking flight lessons.  I have been really enjoying it and can easily see myself doing a lot of flying.  It’s an amazing sense of freedom and awesome way to travel.&lt;/p&gt;
 
-&lt;h4&gt;Sense of freedom&lt;/h4&gt;
+&lt;h4 id=&quot;sense-of-freedom&quot;&gt;Sense of freedom&lt;/h4&gt;
+&lt;p&gt;The sense of freedom is the hardest thing to explain to people who simply don’t get it – but think of it this way;&lt;/p&gt;
 
-&lt;p&gt;The sense of freedom is the hardest thing to explain to people who simply don&amp;#39;t get it -- but think of it this way;&lt;/p&gt;
-
-&lt;p&gt;When you were a little kid you likely weren&amp;#39;t allowed to leave the immediate area of your house or not go farther than the drive way.&lt;/p&gt;
+&lt;p&gt;When you were a little kid you likely weren’t allowed to leave the immediate area of your house or not go farther than the drive way.&lt;/p&gt;
 
 &lt;p&gt;When you got old enough, you got your first little trike or big-wheel and your range suddenly became exponentially larger!  You could go all the way to the end of the block!&lt;/p&gt;
 
 &lt;p&gt;When you got older still and you got your first bicycle, suddenly you could go to your friends house or the local community pool or something..  Another exponential jump.&lt;/p&gt;
 
-&lt;p&gt;When you got to 16 or so, you got your first car!  Suddenly your sense of freedom just expanded another exponential jump and you could drive long distances, though you likely didn&amp;#39;t.&lt;/p&gt;
+&lt;p&gt;When you got to 16 or so, you got your first car!  Suddenly your sense of freedom just expanded another exponential jump and you could drive long distances, though you likely didn’t.&lt;/p&gt;
 
 &lt;p&gt;As a grown adult, you know you can drive anywhere you want but most never do just due to the time involved.&lt;/p&gt;
 
 &lt;p&gt;Most people never experience the next level of exponential freedom, flying their own aircraft.&lt;/p&gt;
 
-&lt;p&gt;I&amp;#39;m so very ready for that next level of freedom!  More over, I have found that once you start flying you very quickly start dreaming about owning your own aircraft that can take you all the places you want to go and/or perform &amp;quot;the mission.&amp;quot;&lt;/p&gt;
+&lt;p&gt;I’m so very ready for that next level of freedom!  More over, I have found that once you start flying you very quickly start dreaming about owning your own aircraft that can take you all the places you want to go and/or perform “the mission.”&lt;/p&gt;
 
-&lt;h4&gt;Defining the mission was key&lt;/h4&gt;
-
+&lt;h4 id=&quot;defining-the-mission-was-key&quot;&gt;Defining the mission was key&lt;/h4&gt;
 &lt;p&gt;the wife and I sat down and discussed &lt;em&gt;(read: she told me)&lt;/em&gt; what the mission should be;&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt; I had to have a plane that could take me back and forth to Texas from north Georgia.  (~800nm)&lt;/li&gt;
-&lt;li&gt; I wanted to be able to make this trip in less than 6 hours.&lt;/li&gt;
-&lt;li&gt; I wanted a plane that could take myself, my wife, two small dogs and some light luggage.&lt;/li&gt;
-&lt;li&gt; I need to be comfortable sitting in it.&lt;/li&gt;
-&lt;li&gt; I had to actually be able to afford said aircraft.&lt;/li&gt;
-&lt;li&gt; And finally, I&amp;#39;m going to be a low time pilot.  I need a plane that wont kill me.&lt;/li&gt;
+  &lt;li&gt;I had to have a plane that could take me back and forth to Texas from north Georgia.  (~800nm)&lt;/li&gt;
+  &lt;li&gt;I wanted to be able to make this trip in less than 6 hours.&lt;/li&gt;
+  &lt;li&gt;I wanted a plane that could take myself, my wife, two small dogs and some light luggage.&lt;/li&gt;
+  &lt;li&gt;I need to be comfortable sitting in it.&lt;/li&gt;
+  &lt;li&gt;I had to actually be able to afford said aircraft.&lt;/li&gt;
+  &lt;li&gt;And finally, I’m going to be a low time pilot.  I need a plane that wont kill me.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h4&gt;Long distance&lt;/h4&gt;
+&lt;h4 id=&quot;long-distance&quot;&gt;Long distance&lt;/h4&gt;
+&lt;p&gt;My mission was to be able to fly back and forth to Texas from my home in north Georgia – not a small mission to be sure.  My company, her family, a lot of my friends..etc. are all in Texas.  We aren’t.  Getting back and forth right now means a ticket on Delta.  Feh.&lt;/p&gt;
 
-&lt;p&gt;My mission was to be able to fly back and forth to Texas from my home in north Georgia -- not a small mission to be sure.  My company, her family, a lot of my friends..etc. are all in Texas.  We aren&amp;#39;t.  Getting back and forth right now means a ticket on Delta.  Feh.  &lt;/p&gt;
+&lt;h4 id=&quot;i-wanted-to-be-able-to-make-this-trip-in-a-reasonable-amount-of-time&quot;&gt;I wanted to be able to make this trip in a reasonable amount of time;&lt;/h4&gt;
+&lt;p&gt;It takes me 16 hours to drive to Texas from my home in the mountains of north Georgia.  Well that’s just too long.&lt;/p&gt;
 
-&lt;h4&gt;I wanted to be able to make this trip in a reasonable amount of time;&lt;/h4&gt;
-
-&lt;p&gt;It takes me 16 hours to drive to Texas from my home in the mountains of north Georgia.  Well that&amp;#39;s just too long.&lt;/p&gt;
-
-&lt;p&gt;Unfortunately, we are so far away from a major airport it takes me anywhere between 10 and 12 hours to fly commercially there on Delta. (3 hour drive to Atlanta. At least an hour and a half to get in to the airport from the parking lot, get checked in, wait in line for mandatory fondle by the TSA, and get to the terminal, hourish to wait for plane, to board plane to wait for push back..  3 hour flight.. 30min to an hour to get to get off the plane, get to the baggage area, get bags, get to rental counter, get car..etc..  This all assumes it&amp;#39;s a straight flight, it&amp;#39;s usually not.)  The longest I have had it take was 14 hours, the absolute shortest was just over 6.&lt;/p&gt;
+&lt;p&gt;Unfortunately, we are so far away from a major airport it takes me anywhere between 10 and 12 hours to fly commercially there on Delta. (3 hour drive to Atlanta. At least an hour and a half to get in to the airport from the parking lot, get checked in, wait in line for mandatory fondle by the TSA, and get to the terminal, hourish to wait for plane, to board plane to wait for push back..  3 hour flight.. 30min to an hour to get to get off the plane, get to the baggage area, get bags, get to rental counter, get car..etc..  This all assumes it’s a straight flight, it’s usually not.)  The longest I have had it take was 14 hours, the absolute shortest was just over 6.&lt;/p&gt;
 
 &lt;p&gt;The average amount of time seemed to pan out at around 10.  I wanted to make that flight in under 6.&lt;/p&gt;
 
-&lt;h4&gt;A four place plane for wife and &amp;quot;kids&amp;quot;&lt;/h4&gt;
+&lt;h4 id=&quot;a-four-place-plane-for-wife-and-kids&quot;&gt;A four place plane for wife and “kids”&lt;/h4&gt;
+&lt;p&gt;The majority of the time, it will likely be just me flying in the plane.  But my wife made the point that if I’m going to get an aircraft, an expensive luxury item, I should get one that will do all the things.  And one of those things was for us to be able to travel around the country as a couple.  And that means, bringing the “kids.”  The kids in this case are our two little dogs.  That with some light luggage.&lt;/p&gt;
 
-&lt;p&gt;The majority of the time, it will likely be just me flying in the plane.  But my wife made the point that if I&amp;#39;m going to get an aircraft, an expensive luxury item, I should get one that will do all the things.  And one of those things was for us to be able to travel around the country as a couple.  And that means, bringing the &amp;quot;kids.&amp;quot;  The kids in this case are our two little dogs.  That with some light luggage.&lt;/p&gt;
-
-&lt;h4&gt;Comfort!&lt;/h4&gt;
-
-&lt;p&gt;I&amp;#39;m both tall, and wide.  I need a plane I can sit in comfortably and to be completely honest, most aircraft I have been in are absolutely not comfortable at all.  My flight instructors Cessna 172 is a workhorse, and will get ya from point A to point B (slowly) but not in anything remotely approaching comfort.  It&amp;#39;s just too narrow.  I have broad shoulders and I really don&amp;#39;t like being jammed up against that door, or my flight instructor.&lt;/p&gt;
+&lt;h4 id=&quot;comfort&quot;&gt;Comfort!&lt;/h4&gt;
+&lt;p&gt;I’m both tall, and wide.  I need a plane I can sit in comfortably and to be completely honest, most aircraft I have been in are absolutely not comfortable at all.  My flight instructors Cessna 172 is a workhorse, and will get ya from point A to point B (slowly) but not in anything remotely approaching comfort.  It’s just too narrow.  I have broad shoulders and I really don’t like being jammed up against that door, or my flight instructor.&lt;/p&gt;
 
 &lt;p&gt;I want a plane that can seat me and someone next to me without being physically pressed into the left door.&lt;/p&gt;
 
-&lt;h4&gt;Price&lt;/h4&gt;
-
+&lt;h4 id=&quot;price&quot;&gt;Price&lt;/h4&gt;
 &lt;p&gt;Yeah, this one was tough.  I have pondered it quite a bit and struggled with how to afford said aircraft.&lt;/p&gt;
 
 &lt;p&gt;The more I looked the more I realized that this aircraft would have to be extremely beefy and large.  That mean, expensive.  Usually, very expensive. I needed to have an aircraft I could actually afford to own and fly.&lt;/p&gt;
 
-&lt;h4&gt;Experience&lt;/h4&gt;
+&lt;h4 id=&quot;experience&quot;&gt;Experience&lt;/h4&gt;
+&lt;p&gt;Since I’m still a student pilot as of my writing this, I needed a plane that would be some what docile in the air and not be scary to my wife (or me).&lt;/p&gt;
 
-&lt;p&gt;Since I&amp;#39;m still a student pilot as of my writing this, I needed a plane that would be some what docile in the air and not be scary to my wife (or me).&lt;/p&gt;
-
-&lt;h4&gt;Competitors&lt;/h4&gt;
+&lt;h4 id=&quot;competitors&quot;&gt;Competitors&lt;/h4&gt;
 
 &lt;p&gt;I looked at all manner of aircraft;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Cessna High Wings &lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;150 - Scootie puff jr. of the sky.  No thanks.&lt;/li&gt;
-&lt;li&gt;152 - Way too small, and again slow.&lt;/li&gt;
-&lt;li&gt;172 - Small, not comfortable, slow&lt;/li&gt;
-&lt;li&gt;177 - Nice, but slow and with retracts insurance would likely be a problem for a low time pilot like me&lt;/li&gt;
-&lt;li&gt;182 - Bigger, better, still kinda slow though with a higher fuel consumption&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Cessna Low Wings&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Corvalis - VERY nice, way too much plane for me.  Too expensive new or used.  This one would perform the mission perfectly.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Cirrus&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;SR20 - Very nice aircraft but too expensive new, and even a used one will set you back a fair amount.&lt;/li&gt;
-&lt;li&gt;SR22 - VERY nice, probably too much plane for me.  Again too expensive new or used.  This would do the trick though.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Pipers &lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;All of the pipers I sat in were older and too cramped in side.&lt;/li&gt;
-&lt;li&gt;The larger newer pipers are too expensive&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+  &lt;li&gt;Cessna High Wings
+    &lt;ul&gt;
+      &lt;li&gt;150 - Scootie puff jr. of the sky.  No thanks.&lt;/li&gt;
+      &lt;li&gt;152 - Way too small, and again slow.&lt;/li&gt;
+      &lt;li&gt;172 - Small, not comfortable, slow&lt;/li&gt;
+      &lt;li&gt;177 - Nice, but slow and with retracts insurance would likely be a problem for a low time pilot like me&lt;/li&gt;
+      &lt;li&gt;182 - Bigger, better, still kinda slow though with a higher fuel consumption&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Cessna Low Wings
+    &lt;ul&gt;
+      &lt;li&gt;Corvalis - VERY nice, way too much plane for me.  Too expensive new or used.  This one would perform the mission perfectly.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Cirrus
+    &lt;ul&gt;
+      &lt;li&gt;SR20 - Very nice aircraft but too expensive new, and even a used one will set you back a fair amount.&lt;/li&gt;
+      &lt;li&gt;SR22 - VERY nice, probably too much plane for me.  Again too expensive new or used.  This would do the trick though.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Pipers
+    &lt;ul&gt;
+      &lt;li&gt;All of the pipers I sat in were older and too cramped in side.&lt;/li&gt;
+      &lt;li&gt;The larger newer pipers are too expensive&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;I can go on..  Most of the planes had something that just didn&amp;#39;t work one way or another.  Too small.. Too slow.. Too old.. Too expensive to purchase or maintain..etc.&lt;/p&gt;
+&lt;p&gt;I can go on..  Most of the planes had something that just didn’t work one way or another.  Too small.. Too slow.. Too old.. Too expensive to purchase or maintain..etc.&lt;/p&gt;
 
-&lt;h4&gt;Enter kit planes&lt;/h4&gt;
+&lt;h4 id=&quot;enter-kit-planes&quot;&gt;Enter kit planes&lt;/h4&gt;
+&lt;p&gt;At some point during this process I came to the realization that buying an aircraft that could meet my #1 and #2 requirements (which were the most important ones to me) meant way too much money.&lt;/p&gt;
 
-&lt;p&gt;At some point during this process I came to the realization that buying an aircraft that could meet my #1 and #2 requirements (which were the most important ones to me) meant way too much money.    &lt;/p&gt;
+&lt;p&gt;That’s when I started looking hard at home built aircraft and found the Velocity aircraft.  What a sexy machine.  I know nothing about fiberglass though and the more I looked at the Velocity line of aircraft there were things about them I didn’t care for either.&lt;/p&gt;
 
-&lt;p&gt;That&amp;#39;s when I started looking hard at home built aircraft and found the Velocity aircraft.  What a sexy machine.  I know nothing about fiberglass though and the more I looked at the Velocity line of aircraft there were things about them I didn&amp;#39;t care for either.  &lt;/p&gt;
+&lt;p&gt;I decided to look elsewhere..&lt;/p&gt;
 
-&lt;p&gt;I decided to look elsewhere.. &lt;/p&gt;
-
-&lt;h4&gt;Van&amp;#39;s Aircraft&lt;/h4&gt;
-
-&lt;p&gt;Eventually I landed on the Van&amp;#39;s Aircraft page and started looking hard at one of their kit planes.&lt;/p&gt;
+&lt;h4 id=&quot;vans-aircraft&quot;&gt;Van’s Aircraft&lt;/h4&gt;
+&lt;p&gt;Eventually I landed on the Van’s Aircraft page and started looking hard at one of their kit planes.&lt;/p&gt;
 
 &lt;p&gt;At this point, I had decided to eschew the 4 place requirement entirely since the costs of all these airplanes were pretty high and build time was a factor.  Focusing on the other 5 requirements, I decided on either the -9 or the new -14.&lt;/p&gt;
 
-&lt;p&gt;Enter my wife. &lt;/p&gt;
+&lt;p&gt;Enter my wife.&lt;/p&gt;
 
-&lt;p&gt;She plead her case and basically told me that if I&amp;#39;m going to do this.. do it right! &lt;/p&gt;
+&lt;p&gt;She plead her case and basically told me that if I’m going to do this.. do it right!&lt;/p&gt;
 
-&lt;p&gt;Her exact words were something to the effect of;  &lt;em&gt;&amp;quot;If you&amp;#39;re going to spend a lot of money, buy what will do everything we want.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Her exact words were something to the effect of;  &lt;em&gt;“If you’re going to spend a lot of money, buy what will do everything we want.”&lt;/em&gt;&lt;/p&gt;
 
-&lt;h4&gt;That&amp;#39;s my girl!&lt;/h4&gt;
+&lt;h4 id=&quot;thats-my-girl&quot;&gt;That’s my girl!&lt;/h4&gt;
 
 &lt;p&gt;The -10 was the obvious choice.&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt; It can easily make the 800nm trip in a single bound.  Really your only limit is your bladder.&lt;/li&gt;
-&lt;li&gt; It can make the trip in about 5 hours.&lt;/li&gt;
-&lt;li&gt; It can easily hold myself, my wife, the two dogs and luggage.&lt;/li&gt;
-&lt;li&gt; I have sat in two of them now, both very comfortable.&lt;/li&gt;
-&lt;li&gt; I can totally afford one.&lt;/li&gt;
-&lt;li&gt; Everyone I know that has flown one says they are a dream to fly.&lt;/li&gt;
+  &lt;li&gt;It can easily make the 800nm trip in a single bound.  Really your only limit is your bladder.&lt;/li&gt;
+  &lt;li&gt;It can make the trip in about 5 hours.&lt;/li&gt;
+  &lt;li&gt;It can easily hold myself, my wife, the two dogs and luggage.&lt;/li&gt;
+  &lt;li&gt;I have sat in two of them now, both very comfortable.&lt;/li&gt;
+  &lt;li&gt;I can totally afford one.&lt;/li&gt;
+  &lt;li&gt;Everyone I know that has flown one says they are a dream to fly.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;So there ya go!  Decision made!  Then after a month of yammering away about to my wife she made me shut up and buy the first piece. &lt;/p&gt;
+&lt;p&gt;So there ya go!  Decision made!  Then after a month of yammering away about to my wife she made me shut up and buy the first piece.&lt;/p&gt;
 
-&lt;p&gt;This is going to be an epic journey to say the least.  &lt;/p&gt;
+&lt;p&gt;This is going to be an epic journey to say the least.&lt;/p&gt;
 
 &lt;p&gt;These pages document the entire process, and my intent is to also provide youtube documentary style instructional videos for others to view and maybe learn something from.  Or if nothing else to document the process.&lt;/p&gt;
 
 &lt;p&gt;Thanks&lt;/p&gt;
 </description>
         <pubDate>Thu, 22 Jan 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/a-new-beginning/</link>
-        <guid isPermaLink="true">http://localhost:4000/a-new-beginning/</guid>
+        <link>http://0.0.0.0:4000/a-new-beginning/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/a-new-beginning/</guid>
       </item>
     
       <item>
         <title>Sometimes you just have to fire a client</title>
-        <description>&lt;p&gt;&lt;img src='/images/2015/01/fired-image-web.jpg' class='right' /&gt; &lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/images/2015/01/fired-image-web.jpg&quot; alt=&quot;You're Fired&quot; class=&quot;right&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;When you&amp;#39;ve started your own company, especially in the beginning, you don&amp;#39;t really think of clients as something that are &amp;quot;fireable&amp;quot;.  In fact, in the very beginning, you&amp;#39;re willing to work with any client that comes your way, for any reason - you&amp;#39;re not picky.  &lt;/p&gt;
+&lt;p&gt;When you’ve started your own company, especially in the beginning, you don’t really think of clients as something that are “fireable”.  In fact, in the very beginning, you’re willing to work with any client that comes your way, for any reason - you’re not picky.&lt;/p&gt;
 
-&lt;p&gt;I mean consider it;  Clients are the magic element, the mana from heaven, the fuel, if you will, that makes your company go and grow.  They are your source of income, and as such are deemed important beyond measure.  You&amp;#39;d do anything they ask just to make them happy so they wont go away.  In fact, their happiness is often more important than yours, your employees, your families...  All in the name of making the company survive and thrive.&lt;/p&gt;
+&lt;p&gt;I mean consider it;  Clients are the magic element, the mana from heaven, the fuel, if you will, that makes your company go and grow.  They are your source of income, and as such are deemed important beyond measure.  You’d do anything they ask just to make them happy so they wont go away.  In fact, their happiness is often more important than yours, your employees, your families…  All in the name of making the company survive and thrive.&lt;/p&gt;
 
-&lt;p&gt;So the very notion of intentionally distancing yourself from a potential income source may seem like the absolute antithesis of what you&amp;#39;re supposed to be doing!  But that&amp;#39;s not always the case; Some clients need to go.  &lt;/p&gt;
+&lt;p&gt;So the very notion of intentionally distancing yourself from a potential income source may seem like the absolute antithesis of what you’re supposed to be doing!  But that’s not always the case; Some clients need to go.&lt;/p&gt;
 
-&lt;p&gt;If you really consider the drain that some clients put on your resources it becomes obvious that there are times that a client has to be given the boot, but it&amp;#39;s not always easy to do.  Quite often you continue to put up with an unreasonable or unruly client and completely lose sight of the damage they are actually doing.&lt;/p&gt;
+&lt;p&gt;If you really consider the drain that some clients put on your resources it becomes obvious that there are times that a client has to be given the boot, but it’s not always easy to do.  Quite often you continue to put up with an unreasonable or unruly client and completely lose sight of the damage they are actually doing.&lt;/p&gt;
 
 &lt;p&gt;The simple fact of the matter is;  Any client that is an emotional, physical and mental blackhole is a cancer that must be cut away for the health of your company and the well-being of your employees.   It may seem counter intuitive but quite often the best way you can grow your company is to let go of them and move on.&lt;/p&gt;
 
-&lt;p&gt;It may not always be obvious though that a company should be fired.  Especially when you&amp;#39;re inside, looking out.&lt;/p&gt;
+&lt;p&gt;It may not always be obvious though that a company should be fired.  Especially when you’re inside, looking out.&lt;/p&gt;
 
-&lt;h4&gt;The first piece of advice here is to listen to the people around you; Especially your spouses.&lt;/h4&gt;
+&lt;h4 id=&quot;the-first-piece-of-advice-here-is-to-listen-to-the-people-around-you-especially-your-spouses&quot;&gt;The first piece of advice here is to listen to the people around you; Especially your spouses.&lt;/h4&gt;
 
-&lt;p&gt;No one knows you better than the people closest to you, and if they start seeing changes in your behavior and demeanor they are likely letting you know about it.  If a client is a nightmare and needs to be fired, then they are affecting your home life whether you realize it or not.  The people around you do notice. &lt;/p&gt;
+&lt;p&gt;No one knows you better than the people closest to you, and if they start seeing changes in your behavior and demeanor they are likely letting you know about it.  If a client is a nightmare and needs to be fired, then they are affecting your home life whether you realize it or not.  The people around you do notice.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;What to do:&lt;/em&gt;  Listen to them.  No client is worth your home life.  Ask your spouse, your friends, your immediate family.. see if they notice somethings wrong.  if you ask they will most likely say something when they wouldn&amp;#39;t have otherwise.  We all do what we do to make money SECOND, happiness comes first.  And if your family isn&amp;#39;t happy, you wont be either.    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What to do:&lt;/strong&gt;  Listen to them.  No client is worth your home life.  Ask your spouse, your friends, your immediate family.. see if they notice somethings wrong.  if you ask they will most likely say something when they wouldn’t have otherwise.  We all do what we do to make money SECOND, happiness comes first.  And if your family isn’t happy, you wont be either.&lt;/p&gt;
 
-&lt;h4&gt;Are they making completely unreasonable demands?&lt;/h4&gt;
+&lt;h4 id=&quot;are-they-making-completely-unreasonable-demands&quot;&gt;Are they making completely unreasonable demands?&lt;/h4&gt;
 
-&lt;p&gt;In the beginning you&amp;#39;re likely doing anything to make a client happy, to include things that might be unreasonable.  Unfortunately you&amp;#39;re not doing yourself any favor because you&amp;#39;re only training them that those demand they are making are okay.  And once a client is trained to behave a certain way, that will dominate the rest of your relationship with them.&lt;/p&gt;
+&lt;p&gt;In the beginning you’re likely doing anything to make a client happy, to include things that might be unreasonable.  Unfortunately you’re not doing yourself any favor because you’re only training them that those demand they are making are okay.  And once a client is trained to behave a certain way, that will dominate the rest of your relationship with them.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;How do avoid this:&lt;/em&gt;  Set ground rules from day one.  Boundaries are a good thing.  Don&amp;#39;t let a client walk all over you.  This may seem easier said that done, but in the end a client will respect you more and be more in-tune with your needs and you with theirs if you maintain a professional and reasonable relationship.   &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How do avoid this:&lt;/strong&gt;  Set ground rules from day one.  Boundaries are a good thing.  Don’t let a client walk all over you.  This may seem easier said that done, but in the end a client will respect you more and be more in-tune with your needs and you with theirs if you maintain a professional and reasonable relationship.&lt;/p&gt;
 
-&lt;p&gt;Talk to them and explain why a demand might be a bit over the top or out of line.  They are people too, they&amp;#39;ll listen.  If they don&amp;#39;t, then you know what needs to be done.  Most clients will tolerate a certain amount of &amp;quot;adjustments&amp;quot; to their line of thinking.  In the end of they don&amp;#39;t then they aren&amp;#39;t a good fit for you or your company.  Let them go.  There will be more clients.&lt;/p&gt;
+&lt;p&gt;Talk to them and explain why a demand might be a bit over the top or out of line.  They are people too, they’ll listen.  If they don’t, then you know what needs to be done.  Most clients will tolerate a certain amount of “adjustments” to their line of thinking.  In the end of they don’t then they aren’t a good fit for you or your company.  Let them go.  There will be more clients.&lt;/p&gt;
 
-&lt;h4&gt;Are they asking you to hit a moving target?&lt;/h4&gt;
+&lt;h4 id=&quot;are-they-asking-you-to-hit-a-moving-target&quot;&gt;Are they asking you to hit a moving target?&lt;/h4&gt;
 
-&lt;p&gt;I can&amp;#39;t tell you the number of times a client has come to me asking for a feature or enhancement only to change their mind or redefine that feature numerous times before, during and after launch.  See the section above on unreasonable demands. This kind of behavior is painful at best, and at worst will cause your employees to throw up their hands and quit.  &lt;/p&gt;
+&lt;p&gt;I can’t tell you the number of times a client has come to me asking for a feature or enhancement only to change their mind or redefine that feature numerous times before, during and after launch.  See the section above on unreasonable demands. This kind of behavior is painful at best, and at worst will cause your employees to throw up their hands and quit.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;How to avoid this:&lt;/em&gt;  Get a hard requirements document for each version of the product and stick to it.  Iterative development is fine and dandy but you can&amp;#39;t program to a moving target.   Don&amp;#39;t let a client do that to you.  They will complain, they will throw tantrums, they will have &amp;quot;good reasons&amp;quot;, etc..  This sort of thing makes hitting deadlines impossible and quite often they will hold you to the original deadline with all the new changes they keep making.  Say no, but explain that we can get to their new goals at a future version or a later date.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to avoid this:&lt;/strong&gt;  Get a hard requirements document for each version of the product and stick to it.  Iterative development is fine and dandy but you can’t program to a moving target.   Don’t let a client do that to you.  They will complain, they will throw tantrums, they will have “good reasons”, etc..  This sort of thing makes hitting deadlines impossible and quite often they will hold you to the original deadline with all the new changes they keep making.  Say no, but explain that we can get to their new goals at a future version or a later date.&lt;/p&gt;
 
-&lt;h4&gt;Are they asking for everything for free?&lt;/h4&gt;
+&lt;h4 id=&quot;are-they-asking-for-everything-for-free&quot;&gt;Are they asking for everything for free?&lt;/h4&gt;
 
-&lt;p&gt;Some clients just don&amp;#39;t understand how much time it takes to develop software.  In fact, many clients have these wonderful pie in the sky ideas that sound great, and think that just because they can dream it up, you can implement it for a song.    They don&amp;#39;t get it and quite often never will.  &lt;/p&gt;
+&lt;p&gt;Some clients just don’t understand how much time it takes to develop software.  In fact, many clients have these wonderful pie in the sky ideas that sound great, and think that just because they can dream it up, you can implement it for a song.    They don’t get it and quite often never will.&lt;/p&gt;
 
-&lt;p&gt;It&amp;#39;s very easy to point at a plumber and the work he does and know exactly what you&amp;#39;re being charged for.  The results are physical, but with software a lot of the time clients see what we do is an arcane magic performed over a cauldron, a bone in our nose with a chicken foot in one hand and some beads in the other.  They don&amp;#39;t get it at all and no amount of explaining will bring them any closer to understanding.  You might as well be speaking a different language -- and you are.   &lt;/p&gt;
+&lt;p&gt;It’s very easy to point at a plumber and the work he does and know exactly what you’re being charged for.  The results are physical, but with software a lot of the time clients see what we do is an arcane magic performed over a cauldron, a bone in our nose with a chicken foot in one hand and some beads in the other.  They don’t get it at all and no amount of explaining will bring them any closer to understanding.  You might as well be speaking a different language – and you are.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;So now what?&lt;/em&gt;  Give then your rate.  Tell them how many hours something will take before you get started and see if they balk.  It&amp;#39;s always a good idea to map out a plan of attack based on the design document they gave you.  Give them a 10,000&amp;#39; estimate of work with a price tag attached.  Make it an HOURLY rate.  Don&amp;#39;t do flat rate work, you&amp;#39;ll always end up doing way more work than you should when someone hands you a large lump sum versus paying as they go.   Don&amp;#39;t fall into that trap.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;So now what?&lt;/strong&gt;  Give then your rate.  Tell them how many hours something will take before you get started and see if they balk.  It’s always a good idea to map out a plan of attack based on the design document they gave you.  Give them a 10,000’ estimate of work with a price tag attached.  Make it an HOURLY rate.  Don’t do flat rate work, you’ll always end up doing way more work than you should when someone hands you a large lump sum versus paying as they go.   Don’t fall into that trap.&lt;/p&gt;
 
-&lt;p&gt;Also keep in mind a good plumber charges over $200 an hour for the work they do, yet many clients will scoff at $100 an hour for work that is infinitely more technical and skill laden.  Don&amp;#39;t lower your rate to something that isn&amp;#39;t sustainable.  You can always lower your rate later for a client if they are good people and you enjoy the work, but you will never get away with raising it for a client.  They wont let that happen.&lt;/p&gt;
+&lt;p&gt;Also keep in mind a good plumber charges over $200 an hour for the work they do, yet many clients will scoff at $100 an hour for work that is infinitely more technical and skill laden.  Don’t lower your rate to something that isn’t sustainable.  You can always lower your rate later for a client if they are good people and you enjoy the work, but you will never get away with raising it for a client.  They wont let that happen.&lt;/p&gt;
 
-&lt;h4&gt;They make big promises but are slow to pay and come through?&lt;/h4&gt;
+&lt;h4 id=&quot;they-make-big-promises-but-are-slow-to-pay-and-come-through&quot;&gt;They make big promises but are slow to pay and come through?&lt;/h4&gt;
 
-&lt;p&gt;Some clients will promise percentages and large payouts, or contract with you to do work for an hourly rate and just never pay or be extremely slow to pay.  They may be good people and may actually have the intent to pay you as they say, but don&amp;#39;t.&lt;/p&gt;
+&lt;p&gt;Some clients will promise percentages and large payouts, or contract with you to do work for an hourly rate and just never pay or be extremely slow to pay.  They may be good people and may actually have the intent to pay you as they say, but don’t.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;So now what?&lt;/em&gt;  Firstly, get everything in writing.  This is your only legal recourse should it come to that.&lt;br&gt;
-Secondly, never work for a percentage of a company unless you really believe in the product and want to be a part of it.  Most of the &amp;quot;killer ideas&amp;quot; that people have, never pan out.  To quote Jayne Cobb; &amp;quot;Ten percent of nothin&amp;#39; is, let me do the math here... nothin&amp;#39; and a nothin&amp;#39;, carry the nothin&amp;#39;... &amp;quot;  Always ask for some cash for the work you do -- even if that means you take a smaller percentage of the eventual pie.  You can&amp;#39;t spend %%%, but $$$ will buy dinner.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;So now what?&lt;/strong&gt;  Firstly, get everything in writing.  This is your only legal recourse should it come to that.&lt;br /&gt;
+Secondly, never work for a percentage of a company unless you really believe in the product and want to be a part of it.  Most of the “killer ideas” that people have, never pan out.  To quote Jayne Cobb; “Ten percent of nothin’ is, let me do the math here… nothin’ and a nothin’, carry the nothin’… “  Always ask for some cash for the work you do – even if that means you take a smaller percentage of the eventual pie.  You can’t spend %%%, but $$$ will buy dinner.&lt;/p&gt;
 
-&lt;p&gt;Figure out what your minimum hourly rate is and don&amp;#39;t ever go under it, not for any client, friend or sibling.  You have bills to pay, don&amp;#39;t short change yourself. &lt;/p&gt;
+&lt;p&gt;Figure out what your minimum hourly rate is and don’t ever go under it, not for any client, friend or sibling.  You have bills to pay, don’t short change yourself.&lt;/p&gt;
 
-&lt;p&gt;In the end if you&amp;#39;re a month in and they still haven&amp;#39;t paid, stop working and have a conversation with them.  Make them understand you can&amp;#39;t work for free, and no one should expect you to. &lt;/p&gt;
+&lt;p&gt;In the end if you’re a month in and they still haven’t paid, stop working and have a conversation with them.  Make them understand you can’t work for free, and no one should expect you to.&lt;/p&gt;
 
-&lt;h4&gt;They don&amp;#39;t listen to you?&lt;/h4&gt;
+&lt;h4 id=&quot;they-dont-listen-to-you&quot;&gt;They don’t listen to you?&lt;/h4&gt;
 
-&lt;p&gt;Some clients know everything.  They have made software before so they know all the answers already and they don&amp;#39;t need your opinion, they just want you to do the work that they have assigned you.  Most of these folks look at you as if you were a day laborer and you should just shut up and be thankful that they have hired you.  &lt;/p&gt;
+&lt;p&gt;Some clients know everything.  They have made software before so they know all the answers already and they don’t need your opinion, they just want you to do the work that they have assigned you.  Most of these folks look at you as if you were a day laborer and you should just shut up and be thankful that they have hired you.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;How to avoid this:&lt;/em&gt;  They hired you because they don&amp;#39;t know how to do the work they hired you for, or they would do it.  They need to be reminded of that.  The advice you bring to the table should be seen as valuable or why are you even there?  There are various off-shore/near-shore entities they could have hired to do mechanical turk like work .. that&amp;#39;s not you.  Don&amp;#39;t let them do this.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to avoid this:&lt;/strong&gt;  They hired you because they don’t know how to do the work they hired you for, or they would do it.  They need to be reminded of that.  The advice you bring to the table should be seen as valuable or why are you even there?  There are various off-shore/near-shore entities they could have hired to do mechanical turk like work .. that’s not you.  Don’t let them do this.&lt;/p&gt;
 
-&lt;p&gt;If a client refuses to listen, even if they are paying well, it can cause you a lot of pain and frustration that just isn&amp;#39;t worth the ulcer.  Move on.  &lt;/p&gt;
+&lt;p&gt;If a client refuses to listen, even if they are paying well, it can cause you a lot of pain and frustration that just isn’t worth the ulcer.  Move on.&lt;/p&gt;
 
-&lt;h4&gt;Unprofessional tantrum throwing client that makes none-too-subtle threats?&lt;/h4&gt;
+&lt;h4 id=&quot;unprofessional-tantrum-throwing-client-that-makes-none-too-subtle-threats&quot;&gt;Unprofessional tantrum throwing client that makes none-too-subtle threats?&lt;/h4&gt;
 
-&lt;p&gt;&lt;em&gt;Just fire them!&lt;/em&gt;  The sooner the better.  They wont change their tune, this is another learned behavior that once it is set.. it&amp;#39;s set. It wont &amp;quot;get better&amp;quot;.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Just fire them!&lt;/strong&gt;  The sooner the better.  They wont change their tune, this is another learned behavior that once it is set.. it’s set. It wont “get better”.&lt;/p&gt;
 
-&lt;p&gt;If a client calls you names, curses at you, makes unjustified accusations, questions your ethics, or in anyway acts unprofessionally like this;  Just move on.  Don&amp;#39;t look back.  This may seem obvious and to most it is, but it&amp;#39;s a hard thing to do when you&amp;#39;re trying to do right by a client and they just find nothing but flaws where there are none.  You can&amp;#39;t make everyone happy.  Some people will only focus on the bad and be angry all the time.  Just walk away from them.  Some people aren&amp;#39;t worth your time and the sooner you recognize that the better off you will be.&lt;/p&gt;
+&lt;p&gt;If a client calls you names, curses at you, makes unjustified accusations, questions your ethics, or in anyway acts unprofessionally like this;  Just move on.  Don’t look back.  This may seem obvious and to most it is, but it’s a hard thing to do when you’re trying to do right by a client and they just find nothing but flaws where there are none.  You can’t make everyone happy.  Some people will only focus on the bad and be angry all the time.  Just walk away from them.  Some people aren’t worth your time and the sooner you recognize that the better off you will be.&lt;/p&gt;
 
-&lt;p&gt;These kinds of clients are the worst and are the actual &amp;quot;cancer&amp;quot; clients I referred to above.  They will kill you, your company, your family.. etc.  They aren&amp;#39;t worth the heart ache, the angst, the frustration, the sleepless nights, the pain; and you will suffer all of those and more with these guys.  Just move on.  Be tactful about it, but get out as soon as you can and never look back.  &lt;/p&gt;
+&lt;p&gt;These kinds of clients are the worst and are the actual “cancer” clients I referred to above.  They will kill you, your company, your family.. etc.  They aren’t worth the heart ache, the angst, the frustration, the sleepless nights, the pain; and you will suffer all of those and more with these guys.  Just move on.  Be tactful about it, but get out as soon as you can and never look back.&lt;/p&gt;
 
-&lt;h3&gt;You have a skill set!  You will be okay!&lt;/h3&gt;
+&lt;h3 id=&quot;you-have-a-skill-set--you-will-be-okay&quot;&gt;You have a skill set!  You will be okay!&lt;/h3&gt;
 
-&lt;p&gt;Don&amp;#39;t be afraid to fire a client.  It&amp;#39;s a very liberating and can be a cathartic exercise.  Sometimes it just needs to happen and in my experience, it&amp;#39;s never been a bad thing.  You have a skill.  Firing a client wont remove that skill.  You&amp;#39;ll be okay. &lt;/p&gt;
+&lt;p&gt;Don’t be afraid to fire a client.  It’s a very liberating and can be a cathartic exercise.  Sometimes it just needs to happen and in my experience, it’s never been a bad thing.  You have a skill.  Firing a client wont remove that skill.  You’ll be okay.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Jan 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/sometimes-you-just-have-to-fire-a-client/</link>
-        <guid isPermaLink="true">http://localhost:4000/sometimes-you-just-have-to-fire-a-client/</guid>
-      </item>
-    
-      <item>
-        <title>Learning to fly!</title>
-        <description>&lt;p&gt;Flying is an itch I need to scratch and I plan to follow through.  To that end I have been creating a serious of &amp;quot;Learning to Fly&amp;quot; videos on youtube in the hopes that they will help to keep me motivated!&lt;/p&gt;
-
-&lt;p&gt;These videos aren&amp;#39;t really meant as entertainment but rather a training tool for me.  I&amp;#39;ll be including them here or you can go over to my youtube channel and see them.&lt;/p&gt;
-
-&lt;p&gt;You can view the videos on my YouTube Channel here;  &lt;a href=&quot;https://www.youtube.com/user/vihravendrel/videos&quot;&gt;https://www.youtube.com/user/vihravendrel/videos&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 11 Sep 2014 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/learning-to-fly/</link>
-        <guid isPermaLink="true">http://localhost:4000/learning-to-fly/</guid>
+        <link>http://0.0.0.0:4000/sometimes-you-just-have-to-fire-a-client/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/sometimes-you-just-have-to-fire-a-client/</guid>
       </item>
     
   </channel>
