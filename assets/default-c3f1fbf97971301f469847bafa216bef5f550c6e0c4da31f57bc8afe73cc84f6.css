@@ -37,6 +37,9 @@ html, body {
 .light {
   color: #BEBEBD; }
 
+.scrollbar {
+  overflow-y: auto !important; }
+
 /* Column system */
 .columns {
   clear: both;
@@ -107,7 +110,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    overflow: auto;
+    overflow: hidden;
     margin-bottom: 25px; }
   body footer {
     position: absolute;
@@ -188,8 +191,6 @@ body {
           left: 5px;
           top: 6px; }
     body article.page, body article.post {
-      overflow-x: hidden;
-      overflow-y: scroll;
       background: #FFFFFF;
       border: 0;
       padding: 5px; }
