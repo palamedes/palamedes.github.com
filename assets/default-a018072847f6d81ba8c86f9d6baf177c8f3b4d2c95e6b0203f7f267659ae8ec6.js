@@ -41,12 +41,6 @@ $(function() {
     }
   });
 
-  // initialize the page block sizes
-  sizeBlocksToPage();
-  // Now display the blocks
-  displayBlocks();
-  // In the event we have a page or a post, then do that
-  displayPagePost();
   // Lets add an onclick for anything NOT a link within a block
   $(blockSelector).not('.nav, a').on('click', function() {
     location.assign($($(this).find('a.main-link')[0]).attr('href'));
@@ -60,6 +54,9 @@ $(function() {
     $('img.gallery.thumb.large').removeClass('large').addClass('small');
   });
 
+  // Go do that thing with all the things... 
+  setTimeout(windowResizeEndEvent, 300);
+
 });
 
 // Add a ms wait for resizing so we don't flood the browser with resize requests
@@ -72,8 +69,11 @@ $(window).resize(function() {
 function windowResizeEndEvent() {
   if (new Date() - rtime < delta) { setTimeout(windowResizeEndEvent, delta); } else { timeout = false;
     curExecution = 0;
+    // initialize the page block sizes
     sizeBlocksToPage();
+    // Now display the blocks
     displayBlocks();
+    // In the event we have a page or a post, then do that
     displayPagePost();
   }
 }

@@ -38,7 +38,7 @@ html, body {
   color: #BEBEBD; }
 
 .scrollbar {
-  overflow-y: auto !important; }
+  overflow-y: scroll !important; }
 
 /* Column system */
 .columns {
