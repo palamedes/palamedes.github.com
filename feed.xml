@@ -3,8 +3,8 @@
   <channel>
     <title>Jason Ellis | Freelance Developer</title>
     <description>Freelance Ruby developer, PHP guru, general software engineer, wood worker, law enforcement officer and wanna be pilot building an airplane!</description>
-    <link>http://randomstringofwords.com</link>
-    <atom:link href="http://randomstringofwords.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.randomstringofwords.com</link>
+    <atom:link href="http://www.randomstringofwords.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Fake News and Alternative Facts</title>
@@ -47,8 +47,8 @@ Iâ€™m hoping at this point suddenly those terms are taking on a new meaning. Jus
 
 </description>
         <pubDate>Tue, 08 Jan 2019 00:00:00 -0500</pubDate>
-        <link>http://randomstringofwords.com/fake-news-and-alternative-facts/</link>
-        <guid isPermaLink="true">http://randomstringofwords.com/fake-news-and-alternative-facts/</guid>
+        <link>http://www.randomstringofwords.com/fake-news-and-alternative-facts/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/fake-news-and-alternative-facts/</guid>
       </item>
     
       <item>
@@ -77,8 +77,8 @@ Iâ€™m hoping at this point suddenly those terms are taking on a new meaning. Jus
 
 </description>
         <pubDate>Wed, 25 Apr 2018 00:00:00 -0400</pubDate>
-        <link>http://randomstringofwords.com/i-want-to-be-rich/</link>
-        <guid isPermaLink="true">http://randomstringofwords.com/i-want-to-be-rich/</guid>
+        <link>http://www.randomstringofwords.com/i-want-to-be-rich/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/i-want-to-be-rich/</guid>
       </item>
     
       <item>
@@ -130,8 +130,8 @@ I have been meaning to turn this whole thing into a static JSON site but havenâ€
 &lt;p&gt;Okay back to the grind.  I have been writing some software for my wifes work and itâ€™s taking all my time.  I have put a LOT of time into it so far and I have a long way to go.&lt;/p&gt;
 </description>
         <pubDate>Fri, 20 Apr 2018 00:00:00 -0400</pubDate>
-        <link>http://randomstringofwords.com/site-redesign-and-restlessness/</link>
-        <guid isPermaLink="true">http://randomstringofwords.com/site-redesign-and-restlessness/</guid>
+        <link>http://www.randomstringofwords.com/site-redesign-and-restlessness/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/site-redesign-and-restlessness/</guid>
       </item>
     
       <item>
@@ -169,8 +169,8 @@ I have been meaning to turn this whole thing into a static JSON site but havenâ€
 &lt;p&gt;I will be updating my blog again going forward and Iâ€™m playing with some othe software projects too again.. so maybe thereâ€™s still hope.&lt;/p&gt;
 </description>
         <pubDate>Mon, 15 May 2017 00:00:00 -0400</pubDate>
-        <link>http://randomstringofwords.com/developer-burnout/</link>
-        <guid isPermaLink="true">http://randomstringofwords.com/developer-burnout/</guid>
+        <link>http://www.randomstringofwords.com/developer-burnout/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/developer-burnout/</guid>
       </item>
     
       <item>
@@ -201,8 +201,8 @@ I have been meaning to turn this whole thing into a static JSON site but havenâ€
 
 </description>
         <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
-        <link>http://randomstringofwords.com/out-of-time/</link>
-        <guid isPermaLink="true">http://randomstringofwords.com/out-of-time/</guid>
+        <link>http://www.randomstringofwords.com/out-of-time/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/out-of-time/</guid>
       </item>
     
       <item>
@@ -305,8 +305,8 @@ I have been meaning to turn this whole thing into a static JSON site but havenâ€
 &lt;iframe width=&quot;920&quot; height=&quot;540&quot; src=&quot;https://www.youtube.com/embed/D0Yp1jUtcX8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Mon, 29 Feb 2016 00:00:00 -0500</pubDate>
-        <link>http://randomstringofwords.com/democratic-socialism/</link>
-        <guid isPermaLink="true">http://randomstringofwords.com/democratic-socialism/</guid>
+        <link>http://www.randomstringofwords.com/democratic-socialism/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/democratic-socialism/</guid>
       </item>
     
       <item>
@@ -357,8 +357,8 @@ I have been meaning to turn this whole thing into a static JSON site but havenâ€
 
 </description>
         <pubDate>Tue, 18 Aug 2015 00:00:00 -0400</pubDate>
-        <link>http://randomstringofwords.com/livable-wages-unreasonable-expectations/</link>
-        <guid isPermaLink="true">http://randomstringofwords.com/livable-wages-unreasonable-expectations/</guid>
+        <link>http://www.randomstringofwords.com/livable-wages-unreasonable-expectations/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/livable-wages-unreasonable-expectations/</guid>
       </item>
     
       <item>
@@ -382,8 +382,8 @@ I have been meaning to turn this whole thing into a static JSON site but havenâ€
 &lt;p&gt;Also, with this new addition to the site I have implemented &lt;a href=&quot;http://disqus.com&quot;&gt;Disqus&lt;/a&gt; comments instead of the old facebook comments which were a pain and not very good.&lt;/p&gt;
 </description>
         <pubDate>Sat, 07 Feb 2015 00:00:00 -0500</pubDate>
-        <link>http://randomstringofwords.com/modifying-jekyll/</link>
-        <guid isPermaLink="true">http://randomstringofwords.com/modifying-jekyll/</guid>
+        <link>http://www.randomstringofwords.com/modifying-jekyll/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/modifying-jekyll/</guid>
       </item>
     
       <item>
@@ -520,8 +520,8 @@ I have been meaning to turn this whole thing into a static JSON site but havenâ€
 &lt;p&gt;Thanks&lt;/p&gt;
 </description>
         <pubDate>Thu, 22 Jan 2015 00:00:00 -0500</pubDate>
-        <link>http://randomstringofwords.com/a-new-beginning/</link>
-        <guid isPermaLink="true">http://randomstringofwords.com/a-new-beginning/</guid>
+        <link>http://www.randomstringofwords.com/a-new-beginning/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/a-new-beginning/</guid>
       </item>
     
       <item>
@@ -602,8 +602,8 @@ Secondly, never work for a percentage of a company unless you really believe in 
 &lt;p&gt;Donâ€™t be afraid to fire a client.  Itâ€™s a very liberating and can be a cathartic exercise.  Sometimes it just needs to happen and in my experience, itâ€™s never been a bad thing.  You have a skill.  Firing a client wont remove that skill.  Youâ€™ll be okay.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Jan 2015 00:00:00 -0500</pubDate>
-        <link>http://randomstringofwords.com/sometimes-you-just-have-to-fire-a-client/</link>
-        <guid isPermaLink="true">http://randomstringofwords.com/sometimes-you-just-have-to-fire-a-client/</guid>
+        <link>http://www.randomstringofwords.com/sometimes-you-just-have-to-fire-a-client/</link>
+        <guid isPermaLink="true">http://www.randomstringofwords.com/sometimes-you-just-have-to-fire-a-client/</guid>
       </item>
     
   </channel>
