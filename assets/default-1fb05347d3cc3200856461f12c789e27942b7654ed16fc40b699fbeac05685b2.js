@@ -150,6 +150,7 @@ function displayBlocks() {
 function displayPagePost() {
   $(pagePostSelector).css('width', $(canvasSelector).width() - $(blockSelector).first().outerWidth());
   $(pagePostSelector).css('left', $(blockSelector).first().outerWidth());
+  $(pagePostSelector).css('display', 'block');
 }
 
 // Find a place for this block based on its size in the rows array, move it to that position and make it visible.

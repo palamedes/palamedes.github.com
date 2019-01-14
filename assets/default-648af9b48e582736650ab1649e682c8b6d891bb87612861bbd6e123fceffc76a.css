@@ -193,7 +193,8 @@ body {
     body article.page, body article.post {
       background: #FFFFFF;
       border: 0;
-      padding: 5px; }
+      padding: 5px;
+      display: none; }
       body article.page img, body article.post img {
         margin: 5px; }
         body article.page img.scaled, body article.post img.scaled {
