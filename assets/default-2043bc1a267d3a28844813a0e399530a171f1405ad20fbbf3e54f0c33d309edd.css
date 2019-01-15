@@ -118,7 +118,9 @@ body {
     text-align: justify; }
   body h6 {
     margin-top: 25px;
-    font-size: 1em; }
+    font-size: 1em;
+    text-shadow: 1px 0 0 currentColor;
+    letter-spacing: 1px; }
   body section.canvas {
     position: absolute;
     top: 0;
