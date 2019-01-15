@@ -40,6 +40,9 @@ html, body {
 .scrollbar {
   overflow-y: scroll !important; }
 
+pre {
+  white-space: pre-wrap; }
+
 /* Column system */
 .columns {
   clear: both;
@@ -104,6 +107,18 @@ body {
     text-shadow: 1px 0 0 currentColor;
     letter-spacing: 1px;
     margin-top: 15px; }
+  body h5 {
+    display: inline-block;
+    float: right;
+    width: 30%;
+    font-size: 1.5em;
+    margin: 0px 0 20px 20px;
+    border: 1px solid;
+    padding: 20px;
+    text-align: justify; }
+  body h6 {
+    margin-top: 25px;
+    font-size: 1em; }
   body section.canvas {
     position: absolute;
     top: 0;
@@ -249,6 +264,10 @@ body {
         border: none; }
       body article.page div.main, body article.post div.main {
         margin-top: 30px; }
+      body article.page table, body article.post table {
+        border: 1px solid #4B4D4A; }
+        body article.page table tr td, body article.post table tr td {
+          border: 1px solid #4B4D4A; }
     body article:hover {
       border-color: #258EC9; }
     body article .wrapper {
