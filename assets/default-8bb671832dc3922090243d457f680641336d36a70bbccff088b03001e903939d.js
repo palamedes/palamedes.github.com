@@ -8,9 +8,6 @@ var actualBlockWidthHeight = 0;
 var columnCount = 0;
 var rows = [];
 var blocks = [];
-// This is protection against runaway js
-var maxExecutions = 100;
-var curExecution = 0;
 
 $(function() {
 
@@ -55,20 +52,26 @@ $(function() {
   });
 
   // Go do that thing with all the things... 
-  setTimeout(windowResizeEndEvent, 300);
+  setTimeout(windowResizeEvent, 300);
 
+  // Assign print icon action
+  $('i.fa-print').on('click', printPage);
 });
 
 // Add a ms wait for resizing so we don't flood the browser with resize requests
 var rtime, timeout = false, delta = 500;
 $(window).resize(function() {
   rtime = new Date();
-  if (timeout === false) { timeout = true; setTimeout(windowResizeEndEvent, delta); }
+  if (timeout === false) {
+    timeout = true; setTimeout(windowResizeEvent, delta);
+  }
 });
 // Function that will fire once the resize is done, not while it's moving.
-function windowResizeEndEvent() {
-  if (new Date() - rtime < delta) { setTimeout(windowResizeEndEvent, delta); } else { timeout = false;
-    curExecution = 0;
+function windowResizeEvent() {
+  if (new Date() - rtime < delta) {
+    setTimeout(windowResizeEvent, delta);
+  } else {
+    timeout = false;
     // initialize the page block sizes
     sizeBlocksToPage();
     // Now display the blocks
@@ -78,6 +81,36 @@ function windowResizeEndEvent() {
   }
 }
 
+// Someone wants to print this page. So, print it.
+function printPage() {
+  // Hide the nav
+  resetBlocks();
+  // Force page full width
+  $(pagePostSelector).css('left', '0');
+  $(pagePostSelector).css('width', '100%');
+  // Remove absolute positioning
+  $(pagePostSelector).css('position', 'initial');
+  $('footer, section').css('position', 'initial');
+  // Reset the overflows so it prints correctly
+  $(pagePostSelector).css('overflow', 'initial');
+  $('body, section').css('overflow', 'initial');
+  // Force print window.
+  window.print();
+  // Reload since we just jacked up the overflows
+  location.reload();
+}
+
+// Reset all our blocks.
+function resetBlocks() {
+  // Remove all sizing and positioning from our blocks
+  $(blockSelector).css('display', 'none');
+  $(blockSelector).css('width', '');
+  $(blockSelector).css('height', '');
+  $(blockSelector).css('top', '');
+  $(blockSelector).css('left', '');
+  $(blockSelector).css('position', 'relative');
+}
+
 // Unlike other crappy grids, this one will try to size the article blocks to the page dynamically before
 // setting the 1x1, 1x2, 2x2, etc.. sizes.
 function sizeBlocksToPage() {
@@ -85,11 +118,7 @@ function sizeBlocksToPage() {
   rows = [];
   blocks = [];
   // Remove all sizing and positioning from our blocks
-  $(blockSelector).css('width', '');
-  $(blockSelector).css('height', '');
-  $(blockSelector).css('top', '');
-  $(blockSelector).css('left', '');
-  $(blockSelector).css('position', 'relative');
+  resetBlocks();
   // Determine the minWidth of the object from CSS
   var minWidth = parseInt($(blockSelector).css('min-width'));
   // Now use that min width to set a percentage instead of a pixel count -- this makes the browser do the work of

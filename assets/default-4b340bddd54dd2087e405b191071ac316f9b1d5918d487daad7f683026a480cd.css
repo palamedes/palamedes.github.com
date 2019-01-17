@@ -38,10 +38,13 @@ html, body {
   color: #BEBEBD; }
 
 .scrollbar {
-  overflow-y: scroll !important; }
+  overflow-y: scroll; }
 
 pre {
   white-space: pre-wrap; }
+
+i.fa-print {
+  cursor: pointer; }
 
 /* Column system */
 .columns {
@@ -84,11 +87,15 @@ body {
     letter-spacing: 1px; }
   body h1 {
     font-size: 40px;
-    line-height: 60px; }
+    line-height: 60px;
+    width: 100%; }
     body h1.navigation {
       font-size: 100px;
       line-height: 80px;
       text-align: center; }
+    body h1 i.fa-print {
+      font-size: 20px;
+      line-height: 40px; }
   body h2 {
     text-transform: uppercase;
     margin: 20px 0 10px 0;
