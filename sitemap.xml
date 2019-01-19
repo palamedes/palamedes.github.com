@@ -21,6 +21,10 @@
 <lastmod>2000-01-01T00:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://www.randomstringofwords.com/privacy-policy/</loc>
+<lastmod>2000-01-01T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://www.randomstringofwords.com/tags/</loc>
 <lastmod>2000-01-01T00:00:00-05:00</lastmod>
 </url>
@@ -829,10 +833,10 @@
 <loc>http://www.randomstringofwords.com/hobbies/</loc>
 </url>
 <url>
-<loc>http://www.randomstringofwords.com/aviation/</loc>
+<loc>http://www.randomstringofwords.com/photography/</loc>
 </url>
 <url>
-<loc>http://www.randomstringofwords.com/photography/</loc>
+<loc>http://www.randomstringofwords.com/aviation/</loc>
 </url>
 <url>
 <loc>http://www.randomstringofwords.com/prebuild/</loc>
@@ -881,6 +885,12 @@
 </url>
 <url>
 <loc>http://www.randomstringofwords.com/tag/reviews/</loc>
+</url>
+<url>
+<loc>http://www.randomstringofwords.com/tag/vacation/</loc>
+</url>
+<url>
+<loc>http://www.randomstringofwords.com/tag/politics/</loc>
 </url>
 <url>
 <loc>http://www.randomstringofwords.com/tag/roadtrip/</loc>
@@ -998,9 +1008,6 @@
 </url>
 <url>
 <loc>http://www.randomstringofwords.com/tag/jekyll/</loc>
-</url>
-<url>
-<loc>http://www.randomstringofwords.com/tag/politics/</loc>
 </url>
 <url>
 <loc>http://www.randomstringofwords.com/tag/democratic_socialism/</loc>

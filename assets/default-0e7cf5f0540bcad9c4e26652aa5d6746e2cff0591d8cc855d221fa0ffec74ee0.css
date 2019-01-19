@@ -43,6 +43,9 @@ html, body {
 pre {
   white-space: pre-wrap; }
 
+.highlighter-rouge {
+  margin-bottom: 20px; }
+
 i.fa-print {
   cursor: pointer; }
 
