@@ -73,7 +73,7 @@
     <link href='http://fonts.googleapis.com/css?family=Architects+Daughter|Coming+Soon|Source+Code+Pro:900' rel='stylesheet' type='text/css' />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
-    <link rel="stylesheet" href="/assets/default-0e7cf5f0540bcad9c4e26652aa5d6746e2cff0591d8cc855d221fa0ffec74ee0.css">
+    <link rel="stylesheet" href="/assets/default-66005c81c2d611c928972267e20f2ad0d5e45f27abb30dc2c075c713a8369193.css">
     <link rel="stylesheet" href="/assets/jquery.fancybox-830db3e5e9b3f012fad20f5e81f510fff774917d359b2dd2c546aa0690148193.css">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
@@ -175,15 +175,31 @@
 
 <p>I like the idea of a cascading tile theme that would dump out all the content right on the main page, or if it’s over a certain amount (more than your usual blog) it would fill in dynamically as you scroll down.</p>
 
+<p><a href="/images/theme-screenshot.png" title="Theme Screenshot" class="fancybox right"><img src="/images/theme-screenshot.png" alt="Theme Screenshot" class="scaled right" /></a></p>
+
 <p><strong>Roadmap / TODO:</strong></p>
 
 <ul>
   <li><strong>Dynamic Scrolling</strong> - I want to get it so that it only loads 50 or so stories on the front page and then as you scroll down more populate in.  This is totally doable and I just need to sort out the best way to do so.  For now I have all my content dumping directly to the front page but this wont scale for very large sites.</li>
   <li><strong>Search Content</strong> - I need to get searching working again..  Previously I had been using googles site search bar and I might just implement that again on the left nav.  Not sure, still pondering the way to do that.  Again tough to do dynamic things on a static site but I’m confident I can come up with something =)</li>
-  <li><strong>Tag/Category Announcement</strong> - When you go to a specific tag or category index, it doesn’t display that anywhere.  There needs to be a notification somewhere on the site that you are viewing X thing.. I’ll ponder the best way to do this.</li>
   <li><strong>Static/Pinned Tiles</strong> - I want to be able to say “This post is always in the top right tile spot” or something to that nature.  This will allow people to have advertisements or in mycase I want to put my latest youtube video there.  This is difficult due to the dynamic nature that tiles are injected into the cascading array.  We will first have to identify the top left / top right spots and place a tile there.. but what if the tile is wider than 1?  What if there are more than one tiles marked with “topright” as the spot? etc..  So that’ll be fun.</li>
   <li><strong>Publish the theme</strong> - Once I have the above done I want to create a github repo of this theme so that others can use it.  I’ll have to figure out how to pair down everything to just be the theme itself without any of my content, but rather with example content on how to use it.</li>
   <li><strong>Device Compatibility</strong> - While this theme works across all devices (by design) it does soo on smaller devices (phones, tablets) poorly. The main nav is an article block just like any other, but that becomes unwieldy when you’re down to only two or even one block.  I need to ponder a good way to make it go away or be less intrusive on smaller devices.  Phones are BAD right now.</li>
+  <li><strong>Custom Index based on popularity</strong> - I’d like to give you a way to measure popularity of posts and allow you to sort the index by popularity.  This will require some kind of metrics injection back into the posts themselves.  Likely on a periodic basis.</li>
+  <li><strong>Force 1x1 blocks</strong> - I think there needs to be a way to force the index pages to 1x1 through a button click on the page.  Maybe an icon to allow for 1x1 or waterfall (whatever we are calling the default layout)</li>
+  <li><strong>Kramdown MD Image Include</strong> - The way I have to inject images is unwieldy at best.  I’d like to create an include that I can call to include images that will handling linking, fancybox, title, alt, classes, scaled or not, etc..  Right now it’s kinda painful and it seems like something that could be DRY’d up a bit and made better.</li>
+  <li><strong>Fancybox images need icon</strong> - The clickable imbedded images (like the one above) need to have some kind of overlay icon bottom left or something that indicates you can click this image to enlarge it.</li>
+  <li><strong>AD Blocks</strong> - Some sites will want the ability to have ads on index pages randomly injected above the fold and/or anywhere.  This will require the ability to know where “above the fold” is, as well as a completely different post type that doesn’t actually output any content and is rather a link at the tile level.  This will take some considering.</li>
+</ul>
+
+<p><strong>Testing:</strong></p>
+
+<ul>
+  <li><strong>Tag/Category Announcement</strong> - When you go to a specific tag or category index, it doesn’t display that anywhere.  There needs to be a notification somewhere on the site that you are viewing X thing.. I’ll ponder the best way to do this.
+    <ul>
+      <li>This is technically done but not sure I like the implementation.  Going to ponder it.</li>
+    </ul>
+  </li>
 </ul>
 
 
@@ -192,6 +208,21 @@
           
 
           
+<h3>Comments</h3>
+<hr />
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2&appId=1184833678352308&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-comments" data-href="http://www.randomstringofwords.com/jekyll-tiles-theme/" data-numposts="15" data-width="100%"></div>
+
+
 
 
 
