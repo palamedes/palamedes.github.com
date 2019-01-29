@@ -40,6 +40,9 @@ html, body {
 .scrollbar {
   overflow-y: scroll; }
 
+.fullwidth {
+  width: 100%; }
+
 pre {
   white-space: pre-wrap; }
 
@@ -293,7 +296,7 @@ body {
       border: 1px solid #258EC9; }
     body article.exerpt p {
       display: block;
-      line-height: 1.2em; }
+      line-height: 1.3em; }
     body article main {
       background: #F6F6F6;
       border-top: 5px solid #1E2251;
